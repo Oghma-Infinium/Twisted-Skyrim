@@ -11,6 +11,8 @@
     "tags": [
       "Immersive",
       "Graphics",
+      "Screen archery",
+      
     ],
     "nsfw": true,
     "image_contains_title": false,
@@ -20,17 +22,17 @@
       "image": "<link to an image to show in the UI>",
       "readme": "<link to your readme for your modlist>",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "machineURL",
-      "discordURL": "<your discord link here>"
+      "machineURL": "TwistedSkyrim",
+      "discordURL": "https://discord.gg/jJ3xH5b9Jh"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Size": 1180441994,
+      "NumberOfArchives": 3074,
+      "SizeOfArchives": 245060423791,
+      "NumberOfInstalledFiles": 280761,
+      "SizeOfInstalledFiles": 455469225917
     },
     "version": "1.0"
   }
