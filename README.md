@@ -2,7 +2,7 @@
 
 <p align="center">
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
-  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/README.md">Installation</a> |
+  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md">Installation</a> |
   <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md">Configuration</a> |
@@ -50,11 +50,9 @@
 
 ## Introduction
 
-Fahluaan is a comprehensive modlist that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.
+Twisted Skyrim is a a complete overhaul of Skyrim bringing fresh combat systems, resource management, new quests and lands, a COMPLETE visual overhaul, and so much more. Featuring Simonrim, BFCO, and True Directional Movement you'll feel like your playing a modern age Skyrim.
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/fahluaan).
-
-You can find a summary of all relevant changes on the [Gameplay Guide](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
