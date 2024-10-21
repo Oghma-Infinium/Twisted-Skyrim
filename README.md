@@ -63,8 +63,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 | Spec Category | My Specs (2160p) | Recommended (1080p) |
 |     :---:    |     :---:     |     :---:     
-| **CPU**   | R7 7800X3D |  R7 3700x / i5 10600k |
-| **Video Card**    | 4090 | 3060 Ti / 2070 / 6700 XT |
+| **CPU**   | R7 7800X3D |  TBA / TBA |
+| **Video Card**    | 4090 | TBA / TBA / TBA |
 | **Ram**    | 64gb (4x16) | 16gb (2x8) |
 | **Storage**    | 2TB 970 EVO NVMe | SATA SSD |
 
