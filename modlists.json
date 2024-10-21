@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Twisted Skyrim",
-    "description": "TBA",
+    "description": "A fresh breathe of life into Skyrim. Updating it's combat, overhauling gameplay aspects with the Simonrim suite, and a completely customized visual experience.",
     "author": "TwistedModding",
     "maintainers": [
       "github/TwistedModding"
@@ -12,7 +12,9 @@
       "Immersive",
       "Graphics",
       "Screen archery",
-      
+      "Combat Overhaul",
+      "Simonrim",
+      "
     ],
     "nsfw": true,
     "image_contains_title": false,
@@ -22,7 +24,7 @@
       "image": "<link to an image to show in the UI>",
       "readme": "<link to your readme for your modlist>",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "TwistedModding/TwistedSkyrim",
+      "machineURL": "TwistedModdingLists/TwistedSkyrim",
       "discordURL": "https://discord.gg/jJ3xH5b9Jh"
     },
     "download_metadata": {
