@@ -20,7 +20,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
+      "image": "https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20logo.webp",
       "readme": "https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Twisted%20Skyrim.wabbajack_e28c1341-7308-4b6a-a8ae-7eebd8b5c23f",
       "machineURL": "TwistedModdingLists/TwistedSkyrim",
