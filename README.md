@@ -1,7 +1,7 @@
-![](https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Banner.webp](https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20logo.webp)
+![](https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20logo.webp)
 
 <p align="center">
-  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820">Nexus</a> |
+  [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/README.md">Installation</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md">Gameplay Guide</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/CHANGELOG.md">Changelog</a> |
