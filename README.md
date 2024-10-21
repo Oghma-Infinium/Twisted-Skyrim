@@ -12,9 +12,9 @@
 
 # Attention
 
-**Modlist Support: [Waking Dreams](https://discord.gg/4WwqfK5yHg)**
+**Modlist Support: [Twisted Skyrim](https://discord.gg/jJ3xH5b9Jh)**
 
-**Fahluaan requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.**
+**Twisted Skyrim requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.**
 
 **You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.**
 
@@ -33,7 +33,7 @@
       - [Installing Creation Club Content](#installing-creation-club-content)
     - [Wabbajack Installation](#wabbajack-installation)
       - [Installing Wabbajack](#installing-wabbajack)
-      - [Downloading and Installing Fahluaan](#downloading-and-installing-fahluaan)
+      - [Downloading and Installing Twisted Skyrim](#downloading-and-installing-Twisted-Skyrim)
     - [Problems with installation](#problems-with-installation)
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
@@ -63,25 +63,25 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 >  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
 
-| Spec Category | My Specs (1440p) | Recommended (1080p) |
+| Spec Category | My Specs (2160p) | Recommended (1080p) |
 |     :---:    |     :---:     |     :---:     
-| **CPU**   | R7 5800X |  R7 3700x / i5 10600k |
-| **Video Card**    | 3080 | 3060 Ti / 2070 / 6700 XT |
-| **Ram**    | 32gb (2x16) | 16gb (2x8) |
-| **Storage**    | 970 EVO NVMe | SATA SSD |
+| **CPU**   | R7 7800X3D |  R7 3700x / i5 10600k |
+| **Video Card**    | 4090 | 3060 Ti / 2070 / 6700 XT |
+| **Ram**    | 64gb (4x16) | 16gb (2x8) |
+| **Storage**    | 2TB 970 EVO NVMe | SATA SSD |
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
-Downloads: ~181 GB  
-Install: ~242 GB  
-Temp Files: ~40 GB (on OS drive)  
-**TOTAL:** ~423 GB  
+Downloads: ~232 GB  
+Install: ~676 GB  
+Temp Files: ~50 GB (on OS drive)  
+**TOTAL:** ~900 GB  
 
  > Wabbajack requires around 30-40 GB of space on your main OS drive for temporary and working files during the installation. This space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
 ## Installation
 
-Installing Fahluaan is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
+Installing Twisted Skyrim is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating-the-modlist).
 
 ### Pre-Installation
 
@@ -160,13 +160,14 @@ Once you have completed pre-installation, download the [latest version of Wabbaj
 
 The list requires Wabbajack version **3.5.0.1 or later**, installing on older versions of Wabbajack will prevent the installation from being completed.
 
-#### Downloading and Installing Fahluaan
+#### Downloading and Installing Twisted Skyrim
 
 Downloading and installing Fahluaan can take a while depending on your internet connection and computer. To install Fahluaan, complete the following steps.
 
 1. Open Wabbajack and click `Browse Modlists`
-2. Press the download button on Fahluaan and wait for it to download.
-3. Set the installation folder to be somewhere like C:\Games\Fahluaan. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
+2. Press the `Show NSFW` and `Show Unofficial Lists` on the top
+3. Press the download button on Twisted Skyrim and wait for it to download.
+4. Set the installation folder to be somewhere like C:\Games\Twisted Skyrim. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
 > The download location does not need to be on a SSD, but it makes installing faster.
 4. Press the play button to begin.
 5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
