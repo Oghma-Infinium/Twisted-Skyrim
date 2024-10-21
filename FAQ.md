@@ -5,7 +5,6 @@
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md">Installation</a> |
   <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md">FAQ</a> |
-  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md">Configuration</a> |
 </p>
 
 ---
