@@ -52,7 +52,7 @@
 
 Twisted Skyrim is a a complete overhaul of Skyrim bringing fresh combat systems, resource management, new quests and lands, a COMPLETE visual overhaul, and so much more. Featuring Simonrim, BFCO, and True Directional Movement you'll feel like your playing a modern age Skyrim.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/fahluaan).
+The full modlist can be viewed no where right now lol.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
