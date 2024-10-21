@@ -4,7 +4,7 @@
   [ <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md">Installation</a> |
   <a href="https://loadorderlibrary.com/lists/fahluaan">Modlist</a> |
-  <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md">FAQ</a> |
+  <a href="(https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md)">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md">Configuration</a> |
 </p>
 
@@ -267,8 +267,8 @@ Simply delete the folder. Congratulations, you have uninstalled Twisted Skyrim.
 
 ## Issues
 
-Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/FAQ.md) first if you have any issues.   
- If you encounter any bugs or issues while playing the list, the [Waking Dreams](https://discord.gg/4WwqfK5yHg) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/Oghma-Infinium/Fahluaan/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/87820?tab=bugs)
+Please check the [FAQ](https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md) first if you have any issues.   
+ If you encounter any bugs or issues while playing the list, the [Twisted Skyrim](https://discord.gg/jJ3xH5b9Jh) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/TwistedModding/TwistedModdingLists/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/87820?tab=bugs)
 
 
 ## Credits and Thanks
