@@ -64,7 +64,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 |     :---:    |     :---:     |     :---:     
 | **CPU**   | R7 7800X3D |  TBA / TBA |
 | **Video Card**    | 4090 | TBA / TBA / TBA |
-| **Ram**    | 64gb (4x16) | 16gb (2x8) |
+| **Ram**    | 64gb (4x16) | 32gb (2x16) OR (4x8) |
 | **Storage**    | 2TB 970 EVO NVMe | SATA SSD |
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
