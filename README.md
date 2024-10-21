@@ -160,7 +160,7 @@ The list requires Wabbajack version **3.5.0.1 or later**, installing on older ve
 
 #### Downloading and Installing Twisted Skyrim
 
-Downloading and installing Fahluaan can take a while depending on your internet connection and computer. To install Fahluaan, complete the following steps.
+Downloading and installing Twisted Skyrim can take a while depending on your internet connection and computer. To install Twisted Skyrim, complete the following steps.
 
 1. Open Wabbajack and click `Browse Modlists`
 2. Press the `Show NSFW` and `Show Unofficial Lists` on the top
@@ -203,7 +203,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-Fahluaan uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
+Twisted Skyrim uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called `Stock Game`. You don’t need to copy anything at all.
 
 ### Antivirus Exceptions
 
@@ -224,37 +224,33 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
     - Synthesis.exe (`[Path to Modlist]\tools\Synthesis\Synthesis.exe`)
 
 ### Widescreen Fixes
-
-Fahluaan offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
-
+## NOT INTEGRATED YET
+Twisted Skyrim offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
+## NOT INTEGRATED YET
 ### Controller and Gamepad Setup
 
-The list currently offers minimal gamepad support, this section will be updated in the future when gamepad support is improved.
+This list will NOT officially add any controller or gamepad support.
 
 ## Playing the List
 
 ### Starting the Game
  
- Before starting the game, I suggest reading over the [Configuration](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md) and [Gameplay](https://github.com/Oghma-Infinium/Fahluaan/blob/main/GAMEPLAY.md) documents for the list. It should only take 10 minutes at most.
  - Head over to the installation folder and locate an executable named ModOrganizer.exe and launch it.
- - **(Optional)** For those of you with arachnophobia, the list includes a mod called *bingus hates spiders.esp*, this is my personal patch that removes spiders from the leveled list and replaces spiders with other creatures within the list. It also has a few other tweaks to make it a bit more in depth than something like *Insects begone*.
 
  1. Launch the "Play" Executable in MO2.
  2. Click "New Game".
- 3. After about 30 seconds, press `esc` and open the Mod Configuration Menu.
- 4. Navigate to the Skyrim Unbound Menu and customize your starting equipment.
- 5. Once you are satisfied, leave the MCM and hit `Enter` to begin Character Creation.
- 6. After Character Creation finishes, you will get a popup to select your Class and the MCM Recorder will begin to run.
- 7. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs and explore the starting room. You can read more about the MCMs [here](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md).
- 8. To leave the starting room, read the book on the pedastal behind chargen.
+ 3. Once the game loads, begin Character Creation.
+ 4. After Character Creation finishes, MCM Recorder will begin to run.
+ 5. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs and explore the starting room.
+ 6. To leave the starting room speak to the Statue of Mara.
 
 ### Note For Content Creators
 
-[Yet Another Music Merge](https://www.nexusmods.com/skyrimspecialedition/mods/48725) includes some songs from Nir Shor which are not allowed to be played on Twitch or YouTube due to DMCA rules. The list includes a version of YAMM under the Optional Tweaks section (read more on the [CONFIG](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Documentation/CONFIG.md) doc) that does not have the copyrighted music and fixed patches that can be used for those who make content. While I can not promise this will completely avoid any and all DMCA claims, it should remove the key offenders.
+This modlist contains NSFW and explicit content, please use the default SFW profile.
 
 ## Updating the modlist
 
-Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH`.
+Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH.HOTFIX`.
  - `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
  - `MINOR`: Any release with a number change here will be considered a minor update, these updates will usually not be save safe, unless otherwise specified.
  - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
@@ -266,10 +262,8 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 *Please make sure you back up your saves if you plan on continuing a playthrough across a **save safe** update.*
 
-*Please make sure to back up your RaceMenu Presets when updating. You can place them in the `[NoDelete] Fahluaan RaceMenu Presets` mod.*
-
 ## Removing the Modlist
-Simply delete the folder. Congratulations, you have uninstalled Fahluaan.
+Simply delete the folder. Congratulations, you have uninstalled Twisted Skyrim.
 
 ## Issues
 
@@ -280,19 +274,6 @@ Please check the [FAQ](https://github.com/Oghma-Infinium/Fahluaan/blob/main/Docu
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- [Bingus](https://ko-fi.com/beangas) for [Ascensio](https://github.com/Oghma-Infinium/Ascensio), ENB tweaking, asset editing, mod page screenshots, and branding art for Fahluaan (Logo, Banner, and Splash).
-- Curly for the original iteration of Ascensio that got me started with my first modlist.
-- [iAmMe27](https://ko-fi.com/iamme27) for general modding, documentation, and WJ assistance.
-- Discord helpers for their time and effort playtesting, providing feedback, and support assistance.
-- [Jolly Co-Operators](https://discord.gg/jolly-coop) and [Cacophony](https://www.patreon.com/cacophony1979) for their wonderful community that inspired me to start modding more.
-- JustThatKing, jdsmith2816, and Total for their feedback and assistance when I started modding.
-- Bethesda Game Studios for Skyrim and the Creation Kit.
-- [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
-- [Noggog](https://www.nexusmods.com/skyrim/users/862590) for Mutagen and Synthesis.
-- [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the WJ Team for the amazing platform that is Wabbajack.
-- [LivelyDismay](https://github.com/LivelyDismay) and [The Animonculory](https://github.com/The-Animonculory) for their modding guides.
-- [Sheson](https://ko-fi.com/sheson) for DynDOLOD.
-- [SimonMagus](https://www.patreon.com/simonmagus), [DeltaRider](https://www.patreon.com/Delta011), [Styyx](https://github.com/Styyx1), and the Simon Makes Mods Discord for many ideas and mod assistance.
-- [Aelarr](https://www.nexusmods.com/skyrim/users/6843757) and Anreme for permissions to use some custom mods from The Owl Archives server.
-- Mgde12, D1Z4STR, 半蔵 内倉, Kepler, Hencoat, Matty, EnragedHamster, Scott, snowpeachcherry, Charlie Kriech, Durgenage, Pacifist Fist, Don Maker, Russell Collins, Oresh, Danimals, Monko, Anehum, Valeria, The Unattested Wombat, Ola Nordman, Regista433, Jaron Scotland, King_Sheogorath, TheRyge, Shakes, highchae, Robbie, Scott Walker, Geero, JAYDENCITO, Nehellena, Mysthey, Echo, Scott MacLeod, Exanima, Braden earp, Lionel Lugo, Xoriat Bane, Paultinich, Thomas Carey, Oracraen, Lykk3, VillainousJ, Micheal Hamm, Andre Wolff, Nico, G1Broheim for support on [patreon](https://www.patreon.com/aljoxo).
-- adorion1981, aexilkv, AlphaGhost47, ambo, Ananta, annakins, Blade, BlueBeagle, Bubborus, derbaer, derkaenaz, DevZan, doombot117, E2J, FalseRealism, Felivath, ForsakenJing, freshr, FutureWorld, Gous, Gremlin, hedich, Jeremy, JoeyFlow, JollyTheRancher, JXEYES, Kannon555, kanpeki, Kathie Murphy, Kiqing, Lunaros, Maelstrom, Mike, Moonyb, orca, Paulo Giovanni, Psyguyy, Psylence, rezthe0one on Discord, Roxiie, SaddestNoddles, skylion, Soloist, Somebody, Steve, Stryn, Tom Curran, Victoriam, Won Pham, WoWZaton, Zhijia, and zidan for their support via [Ko-fi](https://ko-fi.com/aljoxo).
+- Halgary for Wabbajack
+- The ENTIRE Wabbajack team for helping me troubleshoot and build this modlist.
+- Aljo for the readme
