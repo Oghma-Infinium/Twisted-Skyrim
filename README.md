@@ -273,6 +273,7 @@ Please check the [FAQ](https://github.com/TwistedModding/TwistedModdingLists/blo
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Halgary for Wabbajack
-- The ENTIRE Wabbajack team for helping me troubleshoot and build this modlist.
 - Aljo for the readme
+- Halgari for Wabbajack
+- The ENTIRE Wabbajack team for helping me troubleshoot and build this modlist.
+
