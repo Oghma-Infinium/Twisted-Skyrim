@@ -12,7 +12,7 @@
 
 # Changelog
 
-## 1.0 beta 1
+## 1.0 Beta 1
 
 Key Info
 
