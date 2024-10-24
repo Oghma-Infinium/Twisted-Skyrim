@@ -1,40 +1,43 @@
 [
-    {
-        "$type": "ModListMetadata, Wabbajack.Lib",
-        "title": "Twisted Skyrim",
-        "description": "Twisted Skyrim is a a complete overhaul of Skyrim bringing fresh combat systems, resource management, new quests and lands, a COMPLETE visual overhaul, and so much more. Featuring Simonrim, BFCO, and True Directional Movement you'll feel like your playing a modern age Skyrim.",
-        "author": "TwistedModding",
-        "maintainers": [
-            "github/TwistedModding"
-        ],
-        "game": "skyrimspecialedition",
-        "tags": [
-            "Immersive",
-            "Graphics",
-            "Screen archery",
-            "Combat Overhaul",
-            "Simonrim"
-        ],
-        "nsfw": true,
-        "image_contains_title": false,
-        "force_down": false,
-        "links": {
-            "$type": "Links, Wabbajack.Lib",
-            "image": "https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20logo.webp",
-            "readme": "https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md",
-            "download": "https://authored-files.wabbajack.org/Twisted%20Skyrim.wabbajack_4c79bcde-f4ef-46a0-bc17-82ebcd8ebc5e",
-            "machineURL": "TwistedSkyrim",
-            "discordURL": "https://discord.gg/jJ3xH5b9Jh"
-        },
-        "download_metadata": {
-            "$type": "DownloadMetadata, Wabbajack.Lib",
-            "Hash": "e1+K7eJbDJw=",
-            "Size": 963366978,
-            "NumberOfArchives": 3115,
-            "SizeOfArchives": 251347131678,
-            "NumberOfInstalledFiles": 286984,
-            "SizeOfInstalledFiles": 474184192792
-        },
-        "version": "1.0"
-    }
+  {
+    "title": "Twisted Skyrim",
+    "description": "Twisted Skyrim is a a complete overhaul of Skyrim bringing fresh combat systems, resource management, new quests and lands, a COMPLETE visual overhaul, and so much more. Featuring Simonrim, BFCO, and True Directional Movement you\u0027ll feel like your playing a modern age Skyrim.",
+    "author": "TwistedModding",
+    "maintainers": [
+      "github/TwistedModding"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "Immersive",
+      "Graphics",
+      "Screen archery",
+      "Combat Overhaul",
+      "Simonrim"
+    ],
+    "nsfw": true,
+    "utility_list": false,
+    "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20logo.webp",
+      "readme": "https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_ed6e1755-3af1-4d25-855a-75d90e84e0f6",
+      "machineURL": "TwistedSkyrim",
+      "discordURL": "https://discord.gg/jJ3xH5b9Jh"
+    },
+    "download_metadata": {
+      "Hash": "iHYXyzVfIyQ=",
+      "Size": 989368702,
+      "NumberOfArchives": 3127,
+      "SizeOfArchives": 251900803999,
+      "NumberOfInstalledFiles": 290235,
+      "SizeOfInstalledFiles": 474480555787
+    },
+    "version": "0.0.9.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-10-24T18:00:18.2066437Z",
+    "repositoryName": ""
+  }
 ]
