@@ -12,6 +12,32 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 2
+
+Key Info
+
+ - **This update is save game compatible.**
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- None
+  
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- None
+
+### Added
+- A bunch of new movesets
+
+### Removed
+- None
+
+</Details>
+
 ## 1.0.0.0 Beta 1
 
 Key Info
