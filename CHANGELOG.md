@@ -23,7 +23,7 @@ Key Info
 
 ### Bug Fixes
 - Fixed naked npcs
-
+- Hopefully fixed install issues due to incorrect archive paths
 </Details>
 
 <Details>
