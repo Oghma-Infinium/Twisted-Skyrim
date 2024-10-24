@@ -23,6 +23,7 @@ Key Info
 
 ### Bug Fixes
 - Crosshair not appearing when using a crossbow
+- An extremely weird combat issue
 </Details>
 <Details>
 <summary>Changes</summary>
