@@ -224,9 +224,9 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
     - Synthesis.exe (`[Path to Modlist]\tools\Synthesis\Synthesis.exe`)
 
 ### Widescreen Fixes
-## NOT INTEGRATED YET
-Twisted Skyrim offers some mods to provide Ultrawide and Widescreen Support. Under the **Ultrawide Patches** Separator in MO2 you will find some mods that you will want to activate if you are playing on Ultrawide or Widescreen resolutions (21:9 or 32:9).
-## NOT INTEGRATED YET
+
+No current or planned support for widescreen as of now. If enough people need it I'll incorporate it.
+
 ### Controller and Gamepad Setup
 
 This list will NOT officially add any controller or gamepad support.
@@ -241,7 +241,7 @@ This list will NOT officially add any controller or gamepad support.
  2. Click "New Game".
  3. Once the game loads, begin Character Creation.
  4. After Character Creation finishes, MCM Recorder will begin to run.
- 5. Once the MCM Recorder finishes (you will get a notification), you can proceed to customize any other MCMs and explore the starting room.
+ 5. Once the MCM Recorder finishes (you will get a notification), wait until you get a notification 
  6. To leave the starting room speak to the Statue of Mara.
 
 ### Note For Content Creators
@@ -254,8 +254,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH.
  - `MAJOR`: Any release with a number change here will be considered a major update as at least 1 area of the list was massively overhauled. These updates with **NEVER** be save safe.
  - `MINOR`: Any release with a number change here will be considered a minor update, these updates will usually not be save safe, unless otherwise specified.
  - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
- - In some rare cases you may see a fourth slot be used, which I will refer to as `HOTFIX`. These list "updates" will be used if the list needs to be recompiled for any reason. There will be no changes in these "updates" as they are purely for maintenance.
-Before updating, please check the discord updates channel.
+ - `HOTFIX`: Any release with a number change here will be considered a hotfix, these updates are save safe and typically only be for maintenance purposes.
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
 
 **ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. 
