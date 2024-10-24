@@ -23,7 +23,7 @@ Key Info
 
 ### Bug Fixes
 - None
-  
+</Details>
 <Details>
 <summary>Changes</summary>
 
@@ -37,6 +37,7 @@ Key Info
 - None
 
 </Details>
+
 
 ## 1.0.0.0 Beta 1
 
