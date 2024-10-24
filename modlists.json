@@ -29,11 +29,11 @@
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e1+K7eJbDJw=",
-      "Size": 1180441994,
-      "NumberOfArchives": 3074,
-      "SizeOfArchives": 245060423791,
-      "NumberOfInstalledFiles": 280761,
-      "SizeOfInstalledFiles": 455469225917
+      "Size": 963366978,
+      "NumberOfArchives": 3115,
+      "SizeOfArchives": 251347131678,
+      "NumberOfInstalledFiles": 286984,
+      "SizeOfInstalledFiles": 474184192792
     },
     "version": "1.0"
   }
