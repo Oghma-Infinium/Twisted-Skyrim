@@ -241,12 +241,14 @@ This list will NOT officially add any controller or gamepad support.
  2. Click "New Game".
  3. Once the game loads, begin Character Creation.
  4. After Character Creation finishes, MCM Recorder will begin to run.
- 5. Once the MCM Recorder finishes (you will get a notification), wait until you get a notification 
- 6. To leave the starting room speak to the Statue of Mara.
+ 5. Once the MCM Recorder finishes (you will get a notification saying "Twisted Skyrim has finished playing."). Click "Ok".
+ 6. Please wait until you receive a message saying "Museum list building complete."
+ 7. Feel free to customize any MCM to your liking.
+ 8. To leave the starting room speak to the Statue of Mara.
 
 ### Note For Content Creators
 
-This modlist contains NSFW and explicit content, please use the default SFW profile.
+This modlist contains NSFW and explicit content(optional), please use the default SFW profile.
 
 ## Updating the modlist
 
