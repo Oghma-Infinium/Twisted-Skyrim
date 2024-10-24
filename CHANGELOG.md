@@ -17,20 +17,29 @@
 Key Info
 
  - **This update is save game compatible.**
- - This update was just to update Dragon War, no other changes were made
 
 <Details>
 <summary>Patch Notes</summary>
 
 ### Bug Fixes
+- Fixed naked npcs
 
-- Hopefully fixed crashes during dragon fights?
 </Details>
 
 <Details>
 <summary>Changes</summary>
 
 ### Updated
-- Dragon War - A Dragon Overhaul
+- Several Mods I forgor
+
+### Added
+- Racial Skin Variance
+- BnP RSV Patch
+
+### Removed
+- Automatic Renamer
 
 </Details>
+
+
+
