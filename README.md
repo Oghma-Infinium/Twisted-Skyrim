@@ -42,7 +42,8 @@
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
-    - [Note For Content Creators](#note-for-content-creators)
+    - [Loading your saves](#Loading-your-saves)
+    - [Note For Content Creators](#note-for-content-creators)\
   - [Updating the modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
   - [Issues](#issues)
@@ -246,7 +247,7 @@ This list will NOT officially add any controller or gamepad support.
  7. Feel free to customize any MCM to your liking.
  8. To leave the starting room speak to the Statue of Mara.
 
-### Loading your games
+### Loading your saves
 
 I highly recommend if you want to reload a save at any point to restart your game before doing so. See [here](https://www.reddit.com/r/skyrimmods/comments/116raxm/psa_engine_bug_when_reloading_saves/) for more information on why. Technically you should be fine, as thousands of people have never encountered this bug on any wabbajack list. This is more of a FYI.
 
