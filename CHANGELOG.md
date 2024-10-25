@@ -13,6 +13,47 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 5
+
+Key Info
+
+ - **This update is save game compatible.**
+ - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
+
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- 
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- [Skyrim Skill Uncapper for SE and AE](https://www.nexusmods.com/skyrimspecialedition/mods/82558)
+- Keybinds have been changed (F11 in game to view them)
+
+### Updated
+- [Horse Save Load Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132110?tab=files)
+- [Nordic Stonewalls](https://www.nexusmods.com/skyrimspecialedition/mods/57686?tab=files)
+- [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805?tab=files)
+
+### Added
+- [Improved Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/68210?tab=files)
+- [God of War Smoothcam preset](https://www.nexusmods.com/skyrimspecialedition/mods/104463?tab=description)
+- [Psychopatchist Purgatory](https://www.nexusmods.com/skyrimspecialedition/mods/87016?tab=files)
+- [HFs - Diverse (BOS) Inkwell and Quill](https://www.nexusmods.com/skyrimspecialedition/mods/132023)
+- [HFs - Whiterun Brazier](https://www.nexusmods.com/skyrimspecialedition/mods/130919)
+- [HFs - Mine entrance real 3D](https://www.nexusmods.com/skyrimspecialedition/mods/127111)
+- [Halffaces - Cask Large Closed](https://www.nexusmods.com/skyrimspecialedition/mods/114104)
+
+
+### Removed
+- 
+
+</Details>
+
 ## 1.0.0.0 Beta 4
 
 Key Info
