@@ -43,7 +43,7 @@
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [Loading your saves](#Loading-your-saves)
-    - [Note For Content Creators](#note-for-content-creators)\
+    - [Note For Content Creators](#note-for-content-creators)
   - [Updating the modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
   - [Issues](#issues)
