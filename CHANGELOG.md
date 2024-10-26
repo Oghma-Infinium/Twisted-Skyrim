@@ -13,6 +13,41 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 6
+
+Key Info
+
+ - **This update is save game compatible.**
+ - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
+
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed being unable to move after exiting a dialogue with `esc`
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Fov set to 80 from 90
+
+### Updated
+- [Stuff of Shadows - 3D Nightingale Stone - Nightingale and Twilight Sepulcher Improvements and Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/130481?tab=files)
+
+### Added
+- [Dark Dreams](https://www.nexusmods.com/skyrimspecialedition/mods/54567?tab=files)
+  Gooner armor, add item menu only
+- [Collision Dialogue Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/132325?tab=description)
+  Untested, lmk if you guys like it
+
+
+### Removed
+- [Improved Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/68210?tab=files)
+
+</Details>
+
 ## 1.0.0.0 Beta 5
 
 Key Info
