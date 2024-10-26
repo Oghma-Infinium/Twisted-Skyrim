@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md">Installation</a> |
-  <a href="https://loadorderlibrary.com/lists/Twisted-Skyrim">Modlist</a> |
+  <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md">FAQ</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md">Performance Guide</a>
@@ -52,8 +52,6 @@ Key Info
 Key Info
 
  - **This update is save game compatible.**
- - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
-
 
 <Details>
 <summary>Patch Notes</summary>
