@@ -18,8 +18,6 @@
 Key Info
 
  - **This update is save game compatible.**
- - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
-
 
 <Details>
 <summary>Patch Notes</summary>
