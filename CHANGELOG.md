@@ -13,6 +13,40 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 7
+
+Key Info
+
+ - **This update is save game compatible.**
+ - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
+
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- 
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- 
+
+### Updated
+- [Dear Diary DM and Paper (Squish) Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/107216?tab=files)
+- [OSL and B.O.O.B.I.E.S. Keywords (KID) - Armor Mods Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/106672?tab=files)
+- [Settling of Squad - Set Follower Home](https://www.nexusmods.com/skyrimspecialedition/mods/125471?tab=description)
+
+
+### Added
+- eFPS and its patches
+
+### Removed
+- 
+
+</Details>
+
 ## 1.0.0.0 Beta 6
 
 Key Info
