@@ -266,7 +266,7 @@ Versioning for the list will adhere to the following format: `MAJOR.MINOR.PATCH.
  - `PATCH`: Any release with a number change here will be considered a patch, these updates should be save safe and will be used primarily for bugfixes.
  - `HOTFIX`: Any release with a number change here will be considered a hotfix, these updates are save safe and typically only be for maintenance purposes.
 
-Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
+Updating is like installing the list. Redownload the latest version from the Wabbajack UI, make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating. To make sure that Wabbajack does not delete your added mods upon updating, prefix your mods with **[NoDelete]**.
 
 **ALWAYS** back up saves before an update. Because of the method Wabbajack uses to include the start save, any save within the profile will be wiped. 
 
