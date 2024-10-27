@@ -13,6 +13,36 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 9
+
+Key Info
+
+ - **This update is save game compatible.**
+ - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
+
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed parallax bugs in whiterun
+- Fixed black face bug
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- 
+
+### Updated
+- [Local Map Upgrade](https://www.nexusmods.com/skyrimspecialedition/mods/129756?tab=files)
+
+### Added
+- [STANCES NG](https://www.nexusmods.com/skyrimspecialedition/mods/117986?tab=files) {not implemented yet}
+
+### Removed
+- 
+
 ## 1.0.0.0 Beta 8
 
 Key Info
