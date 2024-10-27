@@ -13,6 +13,45 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 8
+
+Key Info
+
+ - **This update is save game compatible.**
+ - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
+
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed purple textures on some pelts.
+- Naked npcs (again)
+- Removed some misplaced trees, this should ever oh so slightly also improve performance in whiterun
+- Fixed broken occlusion zone
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- 
+
+### Updated
+- [Cities of the North - Dawnstar Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/30885)
+- [Nature of the Wild Lands - forest and trees improvement mod](https://www.nexusmods.com/skyrimspecialedition/mods/63604?tab=files)
+- [YAR - Yuril's Additional Resources](https://www.nexusmods.com/skyrimspecialedition/mods/89416)
+- [Bosmer NPCs have antlers](https://www.nexusmods.com/skyrimspecialedition/mods/33349)
+
+### Added
+- [NPC Spell Variance](https://www.nexusmods.com/skyrimspecialedition/mods/132097?tab=files)
+- [On The Mend - A Healing Altar Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/132172?tab=files)
+- Kaidan from the website
+
+### Removed
+- 
+
+</Details>
+
 ## 1.0.0.0 Beta 7
 
 Key Info
