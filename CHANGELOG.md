@@ -42,7 +42,7 @@ Key Info
 
 ### Removed
 - 
-
+</Details>
 ## 1.0.0.0 Beta 8
 
 Key Info
