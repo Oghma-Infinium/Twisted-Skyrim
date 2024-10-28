@@ -16,6 +16,9 @@
 ### Q: Do I have to read this?
 > A: No, but if you ask me any question on this document, I will refer you back to here.
 
+### Q: Why is my game crashing on startup?
+> A: Unplug your controller, if it still is crashing see next question.
+
 ### Q: What do I do if my game crashes?
 > A: Post the crashlog, found here C:\Users\{USERNAME}\Documents\My Games\Skyrim Special Edition\SKSE, along with any changes done to the MCM or modlist to the [GitHub issues page](https://github.com/TwistedModding/TwistedModdingLists/issues) or in the [discord support channel](https://discord.com/channels/1285027986843893810/1285028261780258816).
 
