@@ -26,6 +26,8 @@
 ### Contents
 - [Attention](#Attention)
 - [Tools](#Tools)
+- [Setting the INI](Setting-the-INI)
+- [Modifying Game INIs](#Modifying-Game-INIs)
 - [Disabling your ENB](#Disabling-ENB-OPTIONAL)
 
 ### Tools
@@ -82,6 +84,9 @@ Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/6
 6. Change `SourceTexturesScale` to 0.5
 7. `Ctrl+S` to save.
 8. Close the file.
+
+   **OPTIONAL**
+   Set `EnableAmbientOcclusion` to false as well, this will give the biggest performance boost without actually disabling ENB. Make sure to enable game ambient occlusion as said in the previous step [Modifying Game INIs](#Modifying-Game-INIs)
 
 **Launch your game after these 2 steps to see if performance is satisfactory before continuing.** See [Disabling ENB OPTIONAL](#Disabling-ENB-OPTIONAL)
 
