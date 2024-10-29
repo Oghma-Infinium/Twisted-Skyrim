@@ -13,6 +13,56 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 10
+
+Key Info
+
+ - **This update is NOT save game compatible.**
+ - **Autosaves have been disabled**
+ - **Fully SFW version of the list is out**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed invisible draugr
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Redid Lod outputs
+
+### Updated
+- [Bannermist](https://www.nexusmods.com/skyrimspecialedition/mods/75262?tab=files)
+- [Gorgeous Giant Camps Compilation](https://www.nexusmods.com/skyrimspecialedition/mods/125327)
+- [CBBE 3BA Vanilla Outfits Redone](https://www.nexusmods.com/skyrimspecialedition/mods/109194?tab=files)
+- [Fluffy Hanging rabbits](https://www.nexusmods.com/skyrimspecialedition/mods/89148?tab=files)
+- [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659?tab=files)
+- [SkyPatcher Keyword Framework](https://www.nexusmods.com/skyrimspecialedition/mods/127024?tab=files)
+- [Formlist patch collection](https://www.nexusmods.com/skyrimspecialedition/mods/74626)
+- [Dynamic Feminine Female Modesty Animations OAR](https://www.nexusmods.com/skyrimspecialedition/mods/104374?tab=files)
+- [Player Name Randomizer - Show in UI](https://www.nexusmods.com/skyrimspecialedition/mods/119235?tab=files)
+- [Skypatcher Keyword Framework](https://www.nexusmods.com/skyrimspecialedition/mods/127024)
+- [DF - Official Creature Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/126328)
+- [Bosmer NPCs have antlers](https://www.nexusmods.com/skyrimspecialedition/mods/33349?tab=files)
+- [Bosmer NPCs have Antlers - Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/62642?tab=description)
+
+### Added
+- Grass cache, no lods due to INSANE increase in drawcalls, unplayable.
+- [Ancient Dwemer Metal - My patches - Deep Slumber](https://www.nexusmods.com/skyrimspecialedition/mods/38845?tab=files)
+- [Skyrim Souls RE](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+- [Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670?tab=description)
+- [First Person Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/123129?tab=files)
+- [Underwear.dll](https://www.nexusmods.com/skyrimspecialedition/mods/99021)
+- [Local Map Color](https://www.nexusmods.com/skyrimspecialedition/mods/129532)
+
+
+### Removed
+- Ammo Patcher *Was causing weird arrow trajectory bugs
+
+</Details>
+
 ## 1.0.0.0 Beta 9
 
 Key Info
@@ -43,6 +93,7 @@ Key Info
 ### Removed
 - 
 
+</Details>
 ## 1.0.0.0 Beta 8
 
 Key Info
