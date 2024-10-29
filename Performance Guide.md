@@ -11,10 +11,17 @@
 </p>
 
 ---
-
-
 <p align="center">
- IN PROGRESS
+ UNDER CONSTRUCTION
 </p>
 
+# Performance Guide
 
+### Attention
+
+**Modlist Support: [Twisted Skyrim](https://discord.gg/jJ3xH5b9Jh)**
+
+**Any deviation from this guide counts as an authorized modification of the list and thus breaks rule 11. Please seek help using the #changes-additions-rule-11 channel on the discord for further help.**
+
+### Contents
+- [Attention](#Attention)
