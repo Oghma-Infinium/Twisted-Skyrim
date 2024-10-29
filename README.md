@@ -250,7 +250,7 @@ This list will NOT officially add any controller or gamepad support.
 
 ### Loading your saves and saving.
 
-Autosaves are enabled, and will stay enabled until I find an example from someone in the list having issues with them. With that said, try not to rely on them 100%, make sure to follow general good saving practices, such as manually saving before combat, 10+ seconds after loading screens, etc.
+Autosaves are disabled, make sure to save often and safely. Safe saving implies saving 20 seconds after loading screens, before combat and before starting any major quests.
 
 I highly recommend if you want to reload a save at any point to restart your game before doing so. See [here](https://www.reddit.com/r/skyrimmods/comments/116raxm/psa_engine_bug_when_reloading_saves/) for more information on why. Technically you should be fine, as thousands of people have never encountered this bug on any wabbajack list. This is more of a FYI on the best saving/loading practices.
 
