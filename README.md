@@ -6,7 +6,8 @@
   <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md">FAQ</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md">Performance Guide</a>
+  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md">Performance Guide</a> |
+  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/GAMEPLAY%20GUIDE.md">Gameplay Guide</a>
 </p>
 
 ---
@@ -65,10 +66,10 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 | Spec Category | My Specs (2160p) | Recommended (1080p) |
 |     :---:    |     :---:     |     :---:     
-| **CPU**   | R7 7800X3D |  TBA / TBA |
-| **Video Card**    | 4090 | TBA / TBA / TBA |
+| **CPU**   | R7 7800X3D |  5800x3d |
+| **Video Card**    | 4090 | 4080S / 7000 radeon card |
 | **Ram**    | 64gb (4x16) | 32gb (2x16) OR (4x8) |
-| **Storage**    | 2TB 970 EVO NVMe | SATA SSD |
+| **Storage**    | 2TB 970 EVO NVMe | SSD WITH DRAM CACHE |
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
@@ -250,7 +251,7 @@ This list will NOT officially add any controller or gamepad support.
 
 ### Loading your saves and saving.
 
-Autosaves are enabled, and will stay enabled until I find an example from someone in the list having issues with them. With that said, try not to rely on them 100%, make sure to follow general good saving practices, such as manually saving before combat, 10+ seconds after loading screens, etc.
+Autosaves are disabled, make sure to save often and safely. Safe saving implies saving 20 seconds after loading screens, before combat and before starting any major quests.
 
 I highly recommend if you want to reload a save at any point to restart your game before doing so. See [here](https://www.reddit.com/r/skyrimmods/comments/116raxm/psa_engine_bug_when_reloading_saves/) for more information on why. Technically you should be fine, as thousands of people have never encountered this bug on any wabbajack list. This is more of a FYI on the best saving/loading practices.
 

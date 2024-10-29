@@ -6,7 +6,8 @@
   <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md">FAQ</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md">Performance Guide</a>
+  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md">Performance Guide</a> |
+  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/GAMEPLAY%20GUIDE.md">Gameplay Guide</a>
 </p>
 
 ---
@@ -93,7 +94,6 @@ Key Info
 ### Removed
 - 
 
-</Details>
 ## 1.0.0.0 Beta 8
 
 Key Info
