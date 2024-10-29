@@ -57,6 +57,7 @@ Key Info
 - [First Person Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/123129?tab=files)
 - [Underwear.dll](https://www.nexusmods.com/skyrimspecialedition/mods/99021)
 - [Local Map Color](https://www.nexusmods.com/skyrimspecialedition/mods/129532)
+- SFW profile added
 
 
 ### Removed
