@@ -86,3 +86,5 @@ Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/6
 **Launch your game after these 2 steps to see if performance is satisfactory before continuing.** See [Disabling ENB OPTIONAL](#Disabling-ENB-OPTIONAL)
 
 ### Disabling ENB *OPTIONAL*
+1. Navigate to the `Stock Game` folder. Mine is here: `E:\Twisted Skyrim\Stock Game`
+2. Change `d3d11.dll` to `d3d11.dll.bak` **This will need to be done every update**
