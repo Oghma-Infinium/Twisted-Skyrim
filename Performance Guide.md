@@ -83,6 +83,6 @@ Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/6
 7. `Ctrl+S` to save.
 8. Close the file.
 
-**Launch your game after these 2 steps to see if performance is satisfactory before continuing.** See [Disabling your ENB](#Disabling-ENB-OPTIONAL)
+**Launch your game after these 2 steps to see if performance is satisfactory before continuing.** See [Disabling your ENB](#Disabling-ENB)
 
-### Disabling ENB *OPTIONAL*
+### Disabling ENB
