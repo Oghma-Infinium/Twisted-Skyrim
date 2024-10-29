@@ -26,7 +26,7 @@
 ### Contents
 - [Attention](#Attention)
 - [Tools](#Tools)
-- [Disabling your ENB](#Disabling-ENB-*OPTIONAL*)
+- [Disabling your ENB](#Disabling-ENB-OPTIONAL)
 
 ### Tools
 Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/68518?tab=files) click manual download and extract the contents to whatever drive you want. **Make sure that it is the root directory of that drive such as C:/ or D:/**
@@ -83,6 +83,6 @@ Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/6
 7. `Ctrl+S` to save.
 8. Close the file.
 
-**Launch your game after these 2 steps to see if performance is satisfactory before continuing.** See [Disabling ENB](#Disabling-ENB)
+**Launch your game after these 2 steps to see if performance is satisfactory before continuing.** See [Disabling ENB OPTIONAL](#Disabling-ENB-OPTIONAL)
 
-### Disabling ENB
+### Disabling ENB *OPTIONAL*
