@@ -36,7 +36,7 @@
 Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/68518?tab=files) click manual download and extract the contents to whatever drive you want. **Make sure that it is the root directory of that drive such as C:/ or D:/**
 
 ### Setting the INI
-1. Whereever you extracted DynDOLOD, for me C:/DynDOLOD, navigate to DynDOLOD_SSE.ini. Mine is found here "C:\Dyndolod\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini".
+1. Whereever you extracted DynDOLOD, for me `C:/DynDOLOD`, navigate to `DynDOLOD_SSE.ini`. Mine is found here `"C:\Dyndolod\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini"`.
 2. Open the file
 3. Set `Expert=0` to `Expert=1` & `Level32=0` to `Level32=1` & `TreeLODComplexAtlas=0` to `TreeLODComplexAtlas=1`
 4. Save the file with ctrl+s and close it.
