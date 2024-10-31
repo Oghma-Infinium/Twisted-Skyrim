@@ -14,6 +14,41 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 11
+
+Key Info
+
+ - **This update is save game compatible.**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Animation bugs on SFW profile
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Redid Lod outputs
+
+### Updated
+- [Fluffworks - Tweaks and Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/88138?tab=files)
+- [Follower Distance Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/91858?tab=files)
+- [Deep Slumber - A Dwemer Bed Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/131560?tab=files)
+- [Splashes of Storms](https://www.nexusmods.com/skyrimspecialedition/mods/72115?tab=files)
+- [Ignoble Beds - A Noble and Upper Class Bed Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/114607?tab=files)
+
+### Added
+- [Ancient AF Windhelm Complex Material](https://www.nexusmods.com/skyrimspecialedition/mods/132706?tab=files)
+- [Redoran Reverie - A Dunmer Furniture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/132695?tab=files)
+- [Nordic Stonewall Terraces](https://www.nexusmods.com/skyrimspecialedition/mods/115210?tab=files)
+
+### Removed
+- 
+
+</Details>
+
 ## 1.0.0.0 Beta 10
 
 Key Info
