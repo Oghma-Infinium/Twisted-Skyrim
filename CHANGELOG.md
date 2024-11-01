@@ -31,7 +31,7 @@ Key Info
 <summary>Changes</summary>
 
 ### Changed
-- 
+- Bestiary key change to F9 from K to avoid conflict with ORomance
 
 ### Updated
 - Photomode
