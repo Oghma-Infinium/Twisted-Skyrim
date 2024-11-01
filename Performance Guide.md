@@ -26,10 +26,13 @@
 
 ### Contents
 - [Attention](#Attention)
-- [Tools](#Tools)
-- [Setting the INI](Setting-the-INI)
 - [Modifying Game INIs](#Modifying-Game-INIs)
 - [Disabling your ENB](#Disabling-ENB-OPTIONAL)
+- [LODS](#LODS)
+  - [xLODGEN](#xLODGEn)
+  - [TexGen](#TexGen)
+  - [DynDOLOD](#DynDOLOD)
+- [VRAMr](#VRAMr)
 
 ### Modifying Game INIs
 **MO2 uses a profile system, which means any ini edits you make will only effect that profile you are currently on, make sure you are on the desired MO2 profile before continuing.**
