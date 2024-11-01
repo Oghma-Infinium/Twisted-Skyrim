@@ -60,7 +60,7 @@
 20. Tick `Tree Shadows` & `Land Shadows`
 21. Untick `Ambient Occlusion` **LEAVE ENABLED IF YOU DON'T USE ENB**
 22. Tick `Screen Space Reflections`
-23. Set the `Reflection Divider` from anything between 1-9. 1 Looking the best, 9 the worst.
+23. Set the `Reflection Divider` from anything between 1-9. 1 Looking the best, 9 the worst. Technically can go up to 18 if you desperately need performance, but not recommended to go beyond 9.
 24. `Object Fade` 15
 25. `Actor Fade` 12
 26. `Item Fade` 4.5
