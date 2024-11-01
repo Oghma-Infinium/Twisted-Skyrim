@@ -14,6 +14,8 @@
 
 # Performance Guide
 
+**Although this is made to be as clear as possible, if you aren't a tech savvy person or have never modded before this probably isn't for you. I won't babysit people step by step on what to do as the guide is pretty much as clear as it possibly can be.**
+
 ### Attention
 
 **Modlist Support: [Twisted Skyrim](https://discord.gg/jJ3xH5b9Jh)**
