@@ -6,7 +6,7 @@
   <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md">FAQ</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href=Performance Guide</a> |
+  <a href="Performance Guide"> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/GAMEPLAY%20GUIDE.md">Gameplay Guide</a>
 </p>
 
