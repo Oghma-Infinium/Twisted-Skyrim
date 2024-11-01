@@ -32,15 +32,6 @@
 - [Modifying Game INIs](#Modifying-Game-INIs)
 - [Disabling your ENB](#Disabling-ENB-OPTIONAL)
 
-### Tools
-Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/68518?tab=files) click manual download and extract the contents to whatever drive you want. **Make sure that it is the root directory of that drive such as C:/ or D:/**
-
-### Setting the INI
-1. Whereever you extracted DynDOLOD, for me `C:/DynDOLOD`, navigate to `DynDOLOD_SSE.ini`. Mine is found here `"C:\Dyndolod\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini"`.
-2. Open the file
-3. Set `Expert=0` to `Expert=1` & `Level32=0` to `Level32=1` & `TreeLODComplexAtlas=0` to `TreeLODComplexAtlas=1`
-4. Save the file with ctrl+s and close it.
-
 ### Modifying Game INIs
 **MO2 uses a profile system, which means any ini edits you make will only effect that profile you are currently on, make sure you are on the desired MO2 profile before continuing.**
 **MAKE SURE MO2 IS CURRENTLY CLOSED**
@@ -97,9 +88,83 @@ Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/6
 2. Change `d3d11.dll` to `d3d11.dll.bak` **This will need to be done every update**
 
 # LODS 
-<p align="center">
- UNDER CONSTRUCTION
-</p>
+
+### xLODGEN
+1. Download [xLODGEN](https://mega.nz/file/NF5jQbjR#GZHwX_NpFtR-A4AM3DcnXW9jHnZAhLJMsAm3JDB-VWU)
+2. Extract the folder in the zip called `xLODGen` to `E:\Twisted Skyrim\tools`, you should now have a directory like this `E:\Twisted Skyrim\tools\xLODGen`
+3. Create a new folder in `E:\Twisted Skyrim\tools` called `ACMOS - Road Generator`.
+4. Download [ACMOS Road Generator](https://www.nexusmods.com/skyrimspecialedition/mods/79205?tab=files)
+5. Extract it to the newly created folder `E:\Twisted Skyrim\tools\ACMOS Road Generator`
+6. MO2 should already have xLODGen added as an executable, if it doesn't launch MO2, select the drop down, select `Edit` and a windows should pop up. Click the `+` sign `add from file` and look for your xLODGen.exe and select it. Hit apply and ok.
+7. Regardless of whether its added or not, select the drop down again in MO2, in the `Arguments` section on xLODGen, make sure it looks like this: `-SSE -o:"C:\Users\jlbom\Desktop\xlodgen"` changing the given directory to match a similar place on your computer OUTSIDE of MO2. I recommend keeping it at your desktop.
+8. Hit `apply` and `ok`.
+9. Locate the mod `xLODGen Output` open it by holding CTRL and double clicking it. Delete the contents `Meshes` & `Textures`
+10. Do the same for the mods `Road output` `TexGen Output` & `DynDOLOD Output`
+11. Enable the mod `xLODGen Resource - SSE Terrain Tamriel` if its not present in the load order, download from [here](https://www.nexusmods.com/skyrimspecialedition/mods/54680?tab=files) select the `SSE Terrain Tamriel Extend` version to download, install and enable it within MO2.
+12. Make sure the plugin `SSE-Terrain-Tamriel-Extend.esm` is enabled in the right pane of MO2 (plugins list).
+13. Launch xLODGen within MO2
+14. Copy the settings below EXACTLY,
+    
+<img width="451" alt="xLODGenx64_gd9DQvWwwL" src="https://github.com/user-attachments/assets/83b61ae7-8eaf-4891-889a-c004abe17d37">
+<img width="451" alt="xLODGenx64_XVMmTC8bnB" src="https://github.com/user-attachments/assets/cb7dd710-fda0-4334-ae62-0de79783e861">
+<img width="451" alt="xLODGenx64_IgrBRa82Rs" src="https://github.com/user-attachments/assets/5f5030ef-7c27-42e5-bde2-a80a8a700528">
+<img width="451" alt="xLODGenx64_avCy5vKUik" src="https://github.com/user-attachments/assets/c873e5cc-813a-4491-8607-b200b25b8e54">
+
+14. Select `Generate` on the bottom of the screen and wait for it to finish.
+15. Once finished, the output will be where ever you set it in step #7. Locate and open that folder, Cut (ctrl x) and paste it (ctrl V) into the mod `xLODGen output` within mo2. That mod should now look like this:
+
+<img width="414" alt="explorer_ymJso5MJwm" src="https://github.com/user-attachments/assets/5b446c3f-3539-411b-abb3-f55a6f5734cc">
+
+16. Go to where you installed ACMOS, for me `E:\Twisted Skyrim\tools\ACMOS Road Generator`.
+17. Open `ACMOS Road Generator.exe`
+18. `Select Roads` should be `Paths Only`
+19. Path to `LOD` should be `E:\Twisted Skyrim\mods\xLODGen Output`
+20. Path to `Output Path` should be `E:\Twisted Skyrim\mods\Road Output`
+21. `Generate`
+22. Wait for it to finish, make sure to NOT zip it after it's done.
+23. Disable the mod `xLODGen Resource - SSE Terrain Tamriel`
+
+### TexGen
+1. Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/68518?tab=files) click manual download and extract the contents to whatever drive you want. **Make sure that it is the root directory of that drive such as C:/ or D:/**
+2. Where ever you extracted DynDOLOD, for me `C:/DynDOLOD`, navigate to `DynDOLOD_SSE.ini`. Mine is found here `"C:\Dyndolod\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini"`.
+3. Open the file
+4. Set `Expert=0` to `Expert=1` & `Level32=0` to `Level32=1` & `TreeLODComplexAtlas=0` to `TreeLODComplexAtlas=1`
+5. Save the file with ctrl+s and close it.
+6. Open MO2
+7. Select the dropdown menu
+8. Select `Edit`
+9. Look for TexGen, select it and where it says `Binary` make sure that matches to where you installed TexGen, for me `C:\Dyndolod\TexGenx64.exe`
+10. Look for DynDOLOD, select it and where it says `Binary` make sure that matches to where you installed DynDOLOD, for me `C:\Dyndolod\DynDOLODx64.exe`
+11. Make sure the `Arguements` for both programs have `-SSE`
+12. Apply and Ok.
+13. Launch TexGen within MO2
+14. Make sure it matches mine **EXACTLY**
+
+    <img width="396" alt="TexGenx64_Qtx353ZB5k" src="https://github.com/user-attachments/assets/781efad2-3149-441b-940c-2779739ed226">
+
+15. Click start and wait for it to finish.
+16. Go to your output folder, for me `C:\Dyndolod\TexGen_Output`
+17. Cut and paste the contents from there, to `E:\Twisted Skyrim\mods\TexGen Output`
+
+### DynDOLOD
+**MAKE SURE STEPS 2-5 IN THE TEXGEN SECTION ARE COMPLETED BEFORE CONTINUING.**
+1. Launch DynDOLOD within MO2
+2. Right click the top left box and hit `Select all`
+3. Select the `Medium` preset in the top right
+4. Scroll all the way down in the section in the middle
+5. Double click `tree` and change `LOD Level 32` to Billboard6 from whatever it is.
+6. Click `ok`
+7. Double click `\` and change `Lod Level 32` to `Level0` from whatever it is.
+8. Make sure the rest matches mine EXACTLY
+   
+<img width="667" alt="DynDOLODx64_TNknkqgsUf" src="https://github.com/user-attachments/assets/9217e1e3-eb3e-4682-8257-272f7a8cbba3">
+
+9. Click ok and wait for it to finish. **If it fails and errors on anything, that means you made unauthorized modifications to the list and I will not help you.**
+10. Go to your output folder, for me `C:\Dyndolod\DynDOLOD_Output`
+11. Cut and paste the contents from there, to `E:\Twisted Skyrim\mods\DynDOLOD Output`
+12. Refresh MO2 by clicking `F5` or just restart MO2
+13. Enable the plugins `DynDOLOD.esm`, `DynDOLOD.esp` & `Occlusion.esp`
+
 
 # VRAMr
 A tool that I've never personally used, but have heard it works fairly well.
