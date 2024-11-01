@@ -11,9 +11,6 @@
 </p>
 
 ---
-<p align="center">
- UNDER CONSTRUCTION
-</p>
 
 # Performance Guide
 
