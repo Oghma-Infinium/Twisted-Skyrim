@@ -100,3 +100,13 @@ Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/6
 <p align="center">
  UNDER CONSTRUCTION
 </p>
+
+# VRAMR
+A tool that I've never personally used, but have heard it works fairly well.
+[VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557)
+
+VRAMr includes a user guide on the mod page, you should direct any and all questions towards the mod author on how to use it. Using this tool is unofficially supported by me(TwistedModding) and therefore I will not help you get it up and running. 
+
+With that said, it can take VRAM usage down as much as 10 gbs and make the list playable on much lower end hardware. It can take several hours and will signifcantly increase the amount of space needed for the list since (i think) outputs all textures to a new mod instead of replacing existing ones (which is a good thing, just takes up space obviously). 
+
+I'd suggest only running this if the rest of the performance guide did not do a good enough job at making the list playable on your hardware.
