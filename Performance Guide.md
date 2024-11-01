@@ -101,7 +101,7 @@ Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/6
  UNDER CONSTRUCTION
 </p>
 
-# VRAMR
+# VRAMr
 A tool that I've never personally used, but have heard it works fairly well.
 [VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557)
 
