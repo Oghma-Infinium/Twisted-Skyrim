@@ -14,6 +14,48 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 12
+
+Key Info
+
+ - **This update is save game compatible.**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- ORomance not working due to missing dependency. 
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- 
+
+### Updated
+- Photomode
+- Smart NPC potions
+- SkyValor - Modded Spells Patch
+- Fortified ramp to the Castle Dour
+- barnicles
+- B.O.O.B.I.E.S (aka Immersive Icons)
+- Ostim Standalone Sound Overhaul **(NSFW)**
+- Deep Slumber - A Dwemer Bed Replacer
+- Forts of the Old Empire - Complex Parallax Material addon
+- Skypatcher
+- CBBE 3BA Vanila Outfits Redone
+
+### Added
+- SkyClimb & SkyParkour
+- Jump Slide Fix OAR
+- ORomance
+
+### Removed
+- 
+
+</Details>
+
 ## 1.0.0.0 Beta 11
 
 Key Info
