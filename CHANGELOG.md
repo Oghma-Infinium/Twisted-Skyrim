@@ -14,6 +14,37 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 13
+
+Key Info
+
+ - **This update is save game compatible.**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- OBody morphs being messed up.
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- 
+
+### Updated
+- 
+
+### Added
+- Bedroll Alternative
+- Smart Training NG
+
+### Removed
+- 
+
+</Details>
+
 ## 1.0.0.0 Beta 12
 
 Key Info
