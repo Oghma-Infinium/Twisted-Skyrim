@@ -89,6 +89,13 @@
 1. Navigate to the `Stock Game` folder. Mine is here: `E:\Twisted Skyrim\Stock Game`
 2. Change `d3d11.dll` to `d3d11.dll.bak` **This will need to be done every update**
 
+### Tintmask Resolution
+1. Go to `E:\Twisted Skyrim\mods\Vanilla Warpaints Absolution\SKSE`
+2. Open `SKSE.ini`
+3. Change `iTintTextureResolution=4096` to `iTintTextureResolution=2048` *Note, this can go lower, if you really need the performance drop it to as low as 512(vanilla)
+4. Ctrl+S to save
+5. Exit
+
 # LODS 
 
 ### xLODGEN
