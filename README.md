@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20logo.webp)
+![](https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp)
 
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
@@ -232,7 +232,7 @@ No current or planned support for widescreen as of now. If enough people need it
 
 ### Controller and Gamepad Setup
 
-This list will NOT officially add any controller or gamepad support.
+This list will NOT officially add any controller or gamepad support. Currently the game crashes with a controller plugged in and honestly I'm gonna keep it like that cause I like it.
 
 ## Playing the List
 

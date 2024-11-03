@@ -1,7 +1,7 @@
 [
   {
     "title": "Twisted Skyrim",
-    "description": "Twisted Skyrim is a a complete overhaul of Skyrim bringing fresh combat systems, resource management, new quests and lands, a COMPLETE visual overhaul, and so much more. Featuring Simonrim, BFCO, and True Directional Movement you\u0027ll feel like your playing a modern age Skyrim.",
+    "description": "A personal modlist I've worked on for almost 4 years now, finally in a Wabbajack list! I give you my magnum opus. Features BFCO, DMCO﻿, Precision, Maxsu's Block Overhaul﻿﻿, Maxsu's Poise﻿, Maxsu's Stagger Lock﻿, SCARv2﻿, & Ultimate NPC Dodging﻿. A completely new experience from the Skyrim you used to know.",
     "author": "TwistedModding",
     "maintainers": [
       "github/TwistedModding"
@@ -21,7 +21,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20logo.webp",
+      "image": "https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp",
       "readme": "https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_e3ea3e20-1721-48d1-9502-b4fb35fb2447",
       "machineURL": "TwistedSkyrim",
