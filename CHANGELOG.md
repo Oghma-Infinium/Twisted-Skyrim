@@ -25,6 +25,7 @@ Key Info
 
 ### Bug Fixes
 - Some black face bugs
+- Fixed broken occlusion plane in solitude 
 
 </Details>
 <Details>
