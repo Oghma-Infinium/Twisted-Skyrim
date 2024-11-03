@@ -14,6 +14,46 @@
 
 # Changelog
 
+## 1.0.0.0 Beta 14
+
+Key Info
+
+ - **This update is save game compatible.**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Some black face bugs
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- A good amount of missed conflict resolution is now solved.
+
+### Updated
+- BFCO Pickaxe moveset
+- Better Atronach Forge Offering Box - No More Dwemer Dresser
+- SPID - NFF - Add Ignore Token to CustomAI Followers
+
+### Added
+- eFPS - Falkreath Wilderness hotfix
+- Better Atronach Forge Offering Box - No More Dwemer Dresser
+- Nature of the Wild Lands - Rock Retexture
+- NPC Spell Variance - BloodMoon
+- NPC Spell Variance - Natura
+- NPC Spell Variance - Mysticism
+- Northern God Armor SE
+- Northern God armor HIMBO refit
+- Northern God Armor SMP - CBBE 3BA
+
+### Removed
+- 
+
+</Details>
+
 ## 1.0.0.0 Beta 13
 
 Key Info
