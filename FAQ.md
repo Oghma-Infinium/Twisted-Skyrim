@@ -24,13 +24,16 @@
 > A: Post the crashlog, found here C:\Users\{USERNAME}\Documents\My Games\Skyrim Special Edition\SKSE, along with any changes done to the MCM or modlist to the [GitHub issues page](https://github.com/TwistedModding/TwistedModdingLists/issues) or in the [discord support channel](https://discord.com/channels/1285027986843893810/1285028261780258816).
 
 ### Q: What is performance like?
-> A: Hefty, I get about 60fps on average with my setup.
+> A: Honestly? Terrible, I get about 45fps on average with my setup at 4k.
 
 ### Q: What can I do to improve performance?
-> A: Swap ENB presets, open up BethINI and use a lower quality preset. I might do a performance profile eventually if I feel like it
+> A: Follow the _ENTIRE_ [peformance guide](https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md) This will significantly improve your frames for those who care more about framerate than visuals.
 
 ### Q: What mod is it that makes favorited items/potions/quest items show on my character?
 > A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `Left Shift+Backspace` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example).
+
+### Q: How can I change Improved Camera's settings?
+> A: Open the console and type `ic menu`.
 
 ### Q: When do dragons start spawning?  
 > A: By default, dragons are set to begin spawning once the player reaches level 10. Dragons will spawn at word walls before you encounter them in the wild.
@@ -44,12 +47,11 @@
 ### Q: How do I set up the quick wheel?
 > A: There is extensive documentation on the mod page [here](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
 
-
 ### Q: Sex?
-> A: YES!!!
+> A: YES!!! (its fully optional and non-intrusive)
 
 # Known Issues
 
 ### [Insert Male NPC] looks like he has tits / has a really big chest and arms!
 Solution(s)
-> 1. Change their OBody preset, do not report this as an issue to me, I'm tired of hearing about it.
+> 1. Change their OBody preset, do not report this as an issue to me, OBody has no way to filter for males and disable the "push up" effect.
