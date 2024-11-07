@@ -87,7 +87,7 @@ Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/
 <details>
 <summary>Progression</summary>
   
-- Twisted Skyrim still uses a leveled approach to loot and npc scaling. With the all the changes to how NPCs behave, health pools, damage dealt & much more, NPCs shouldn't be sponges like they are in vanilla and should be a challenging, but rewarding experience no matter where you are in the game.
+- Twisted Skyrim still uses a leveled approach to loot and npc scaling. With the all the changes to how NPCs behave, health pools, damage dealt & much more, NPCs shouldn't be sponges like they are in vanilla. They should be a challenging, yet rewarding experience no matter where you are in the game.
   
 - Dragons exist in the beginning of the game and you can see them flying around certain areas in the distance, I highly suggest avoiding them until you have better gear than what you start with.
 
