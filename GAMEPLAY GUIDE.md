@@ -92,5 +92,5 @@ Potions have been signficantly buffed due to the damage and health changes by Sk
 
 <Details>
 <summary>AI</summary>
-Using [Modern Combat AI](https://www.nexusmods.com/skyrimspecialedition/mods/74716) , [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014) , [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) , & [Ultimate NPC Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/120738) , I've made the NPCs infinitely smarter compared to their vanilla counterparts, they will be more aggresive, use potions, and dodge your attacks.
+Using Modern Combat AI, SCAR, BFCO - Attack Behavior Framework, & Ultimate NPC Dodging, I've made the NPCs infinitely smarter compared to their vanilla counterparts, they will be more aggresive, use potions, and dodge your attacks.
 </Details>
