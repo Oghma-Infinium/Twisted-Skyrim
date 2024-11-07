@@ -14,6 +14,97 @@
 
 # Changelog
 
+## 0.9.0.0 Release Candidate 1
+
+Key Info
+
+ - **VERSIONING CHANGE** 
+
+ - **This update is NOT save game compatible.**
+ - **I added a mod that automatically checks for modlist updates once you load a game**
+ - **The main menu has been reworked to be personalized to this list, links to my KoFi and Readme can be found and clicked on in the top left corner of the main menu.**
+ - **There were tons of changes in this update, very big possibility that I've introduced new bugs, or unfixed old ones. Consider this the prelimnary release before the nexus, please report ALL bugs you find.**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- TONS of consistency issues that were missed on the first pass of CR for beta 1
+- TONS of lighting fixes in a bunch of locations - Atmosphere should look much more consistent throughout the world, especially interiors.
+- Landscape mismatching issue outside of Helgen
+- More black face bugs, hopefully the last of them
+- Lots of water records were improperly overwritten, this is now fixed (basically means water should match everywhere now, and lod seam should be less visible)
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- More conflict resolution
+- Dodging animations, unfortunatly it has the side effect of a sussy first person dodge. I think technically it gives you the i-frame still, but you won't go anywhere. I suggest just not dodging 
+in first person.
+- Stamina Consumption for dodging now works as intended (before there was no stamina consumption and very over powered due to that.)
+- Rebuilt LODs
+- Rebuilt grass cache
+- LOD quality *significantly* increased, there should be very little pop-in.
+
+### Updated
+- NPC Spell Variance - Mysticism
+- Lux - Patch Hub
+- Extended Guard Dialogue
+- Redoran Reverie - A Dunmer Furniture Replacer
+- Utenlands Nordic Tents - Replacer and Campfire Addon
+- Northern Scenery - Whiterun's Tundra
+- Jump Slide Fix OAR
+- SkyParkour - A SkyClimb Addon - 360 and Hold to Climb
+- Ostim Standalone Sound Overhaul
+- Dunmer Dreams - A Dark Elf Bed Replacer
+- NPC Spell Variance - Natura
+- Collision Dialogue Overhaul
+- Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+- Unofficial Skyrim Modder's Patch - USMP SE
+- Smart NPC Potions - Enemies Use Potions and Poisons
+- Nordic Stonewalls
+- SD's Seamless Sneak Transition and Idles OAR
+- Improved Camera v2
+- Deep Slumber
+- HFs - Diverse Inkwell and Quill
+- NPC Spell Variance - Spell Variety AI
+- Better Atronach Forge Offering Box - No More Dwemer Dresser - High Polygon Summoning Circle
+- Katana
+- Katana Visual Replacer
+- A ton of other stuff I probably forgot
+
+### Added
+- Modlist Update Checker
+- NPC Spell Variance - Darenii AIO
+- Redoran Reverie - A Dunmer Bed Replacer
+- SD's Seamless Sneak Transition and Idles OAR
+- Glorious Giant Clutter and Fixes
+- No More Blinding Fog - SSE Port
+- High Gate Ruins Puzzle Reset Fix
+- College of Winterhold Quest Start Fixes
+- King Olaf's Fire Festival Not Ending Fix
+- Magic Student (WIChangeLocation04) Quest Fix
+- Neloth's Experimental Subject Quest (DLC2TTR4a) Fix
+- Ultimate Optimized Scripts Compilation
+- Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
+- Dynamic Armor Variants
+- Helmet Toggle 2
+- Immersive Equipping Animations
+- The Haunting Harmonies of Hjaalmarch
+- HF - Ruined Bookcase
+- HF - Wagon Wheel
+- The curators Companion
+- LOTD CC Patches
+- BURP - Spell tomes + patches
+- A ton of other stuff I probably forgot
+
+### Removed
+- some wskeever mod that i forgot the name of, but is replaced with by something else i also forgot the name of...
+
+</Details>
+
 ## 1.0.0.0 Beta 14
 
 Key Info
