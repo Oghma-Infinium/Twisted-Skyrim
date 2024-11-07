@@ -71,6 +71,8 @@ Twisted Skyrim modifies the vanilla leveling system to have the player engage wi
 
 **Leveling speed is still being worked on based on community feedback so this part of the guide will be changed until I find a nice balance.**
 
+<details>
+<summary>Experience</summary>
 Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) and [Skyrim SKill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/82558) to handle leveling and progression.
 
 - Experience introduces skill caps based on your player level, the formula is found below.
@@ -79,6 +81,17 @@ Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/
 - Skyrim Uncapper introduces skill uncapping and a dynamic experience gain based on skill level. There are too many changes I've made to put here but the gist is this:
   - Skills cap at level 255, however, skill forumalas still cap out at 100, this means that skill-based damage will not go beyond what vanilla was intended for.
   - XP gain is also modified and follows a general increasing gain as your level gets higher. Lower levels should take longer to achieve, slowly capping out once you get a skill to level 100, where xp gain returns to normal.
+ </details>
+<details>
+<summary>Progression</summary>
+  
+- Twisted Skyrim still uses a leveled approach to loot and npc scaling. With the all the changes to how NPCs behave, health pools, damage dealt & much more, NPCs shouldn't be sponges like they are in vanilla and should be a challenging, but rewarding experience no matter where you are in the game.
+  
+- Dragons exist in the beginning of the game and you can see them flying around certain areas in the distance, I highly suggest avoiding them until you have better gear than what you start with.
+
+- There are many generic, custom, and vanilla followers in the list and I highly suggest you make use of them, taking on big foes without them will prove very difficult, and even bandit camps will be difficult due to being out-numbered.
+
+</details>
 
 ## Difficulty
 
