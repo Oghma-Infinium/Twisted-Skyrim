@@ -73,6 +73,7 @@ Twisted Skyrim modifies the vanilla leveling system to have the player engage wi
 
 <details>
 <summary>Experience</summary>
+  
 Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) and [Skyrim SKill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/82558) to handle leveling and progression.
 
 - Experience introduces skill caps based on your player level, the formula is found below.
@@ -82,6 +83,7 @@ Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/
   - Skills cap at level 255, however, skill forumalas still cap out at 100, this means that skill-based damage will not go beyond what vanilla was intended for.
   - XP gain is also modified and follows a general increasing gain as your level gets higher. Lower levels should take longer to achieve, slowly capping out once you get a skill to level 100, where xp gain returns to normal.
  </details>
+ 
 <details>
 <summary>Progression</summary>
   
@@ -104,6 +106,9 @@ Twisted Skyrim has a unique approach to difficulty, putting an emphasis on resou
 Potions have been signficantly buffed due to the damage and health changes by SkyValor, and I highly recommend staying stocked up.
 
 <Details>
+  
 <summary>AI</summary>
-Using Modern Combat AI, SCAR, BFCO - Attack Behavior Framework, & Ultimate NPC Dodging, I've made the NPCs infinitely smarter compared to their vanilla counterparts, they will be more aggresive, use potions, and dodge your attacks.
+
+Using [Modern Combat AI](https://www.nexusmods.com/skyrimspecialedition/mods/74716), [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014), [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052), & [Ultimate NPC Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/120738), I've made the NPCs infinitely smarter compared to their vanilla counterparts, they will be more aggresive, use potions, and dodge your attacks.
+
 </Details>
