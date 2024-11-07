@@ -23,7 +23,7 @@ Key Info
  - **This update is NOT save game compatible.**
  - **I added a mod that automatically checks for modlist updates once you load a game**
  - **The main menu has been reworked to be personalized to this list, links to my KoFi and Readme can be found and clicked on in the top left corner of the main menu.**
- - **There were tons of changes in this update, very big possibility that I've introduced new bugs, or unfixed old ones. Consider this the prelimnary release before the nexus, please report ALL bugs you find.**
+ - **There were tons of changes in this update, very big possibility that I've introduced new bugs, or unfixed old ones. Consider this the preliminary release before the nexus, please report ALL bugs you find.**
  
 <Details>
 <summary>Patch Notes</summary>
