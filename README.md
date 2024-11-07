@@ -175,6 +175,7 @@ Downloading and installing Twisted Skyrim can take a while depending on your int
 6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/jJ3xH5b9Jh) for support.
 
 Sometimes mods fail to download for various reasons, I will update and include said mods here if they fail frequently for many users.
+- [Kaidan](https://drive.google.com/file/d/1px_bs2dGWMWODO0hqAu1ivIhlzatbct9/view)
 - [Mod Organizer 2 Senjay Edition](https://cf-files.nexusmods.com/cdn/2295/1050/Mod%20Organizer%202%20Senjay%20Edition%20Portable%20Archive-1050-2-5-2-SE1-0-0-1727424443.zip?md5=1i77Dub2mK-_Qfha_J9Ptw&expires=1729568461&user_id=173569279)
 - [High Poly Head v1.4 (SE)](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 

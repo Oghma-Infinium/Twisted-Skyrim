@@ -96,6 +96,10 @@
 4. Ctrl+S to save
 5. Exit
 
+### NotWL
+1. Open MO2
+2. Enable `Nature of the Wild Lands - Lower Resolution`
+
 # LODS 
 
 ### xLODGEN

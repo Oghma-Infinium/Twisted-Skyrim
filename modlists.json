@@ -1,7 +1,7 @@
 [
   {
     "title": "Twisted Skyrim",
-    "description": "A personal modlist I've worked on for almost 4 years now, finally in a Wabbajack list! I give you my magnum opus. Features BFCO, DMCO﻿, Precision, Maxsu's Block Overhaul﻿﻿, Maxsu's Poise﻿, Maxsu's Stagger Lock﻿, SCARv2﻿, & Ultimate NPC Dodging﻿. A completely new experience from the Skyrim you used to know.",
+    "description": "A personal modlist I\u0027ve worked on for almost 4 years now, finally in a Wabbajack list! I give you my magnum opus. Features BFCO, DMCO\uFEFF, Precision, Maxsu\u0027s Block Overhaul\uFEFF\uFEFF, Maxsu\u0027s Poise\uFEFF, Maxsu\u0027s Stagger Lock\uFEFF, SCARv2\uFEFF, \u0026 Ultimate NPC Dodging\uFEFF. A completely new experience from the Skyrim you used to know.",
     "author": "TwistedModding",
     "maintainers": [
       "github/TwistedModding"
@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp",
       "readme": "https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_e3ea3e20-1721-48d1-9502-b4fb35fb2447",
+      "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_2e71857c-5666-4c1f-b7d7-398c23bee913",
       "machineURL": "TwistedSkyrim",
       "discordURL": "https://discord.gg/jJ3xH5b9Jh"
     },
     "download_metadata": {
-      "Hash": "zhjkQTkWKlQ=",
-      "Size": 1150090246,
-      "NumberOfArchives": 3212,
-      "SizeOfArchives": 261846505287,
-      "NumberOfInstalledFiles": 322466,
-      "SizeOfInstalledFiles": 474793264552
+      "Hash": "DJmtuOK3icE=",
+      "Size": 1351318126,
+      "NumberOfArchives": 3297,
+      "SizeOfArchives": 268155077181,
+      "NumberOfInstalledFiles": 330801,
+      "SizeOfInstalledFiles": 495245595891
     },
-    "version": "0.3.0.0",
+    "version": "0.9.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-11-02T03:32:30.4611764Z",
+    "dateUpdated": "2024-11-07T00:15:48.9743994Z",
     "repositoryName": ""
   }
 ]
