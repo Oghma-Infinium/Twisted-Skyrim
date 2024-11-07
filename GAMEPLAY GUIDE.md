@@ -18,3 +18,79 @@
 </p>
 
 
+# Gameplay guide
+
+## Initial Setup
+
+Before reading this guide, please following the [Installation Guide](https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md) and read through the [FAQ](https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md), both of these will answer almost all the questions you will ask.
+
+## Overview
+
+This section will cover the absolute basics of the list. I suggest reading, or skimming all of the linked mod pages in this section if you are unfamiliar with the preceding mods.
+
+**I suggest looking through the keybinds for the list in game, by pressing F11**
+
+### Core Overhauls
+
+- Twisted Skyrim uses the [_entire_ simonrim suite](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704), except for Arena, Blade and Blunt, Candlehearth. I highly recommend getting familiar with all of his mods, especially [_Journeyman_](https://www.nexusmods.com/skyrimspecialedition/mods/92220) as it controls the fast travel system.
+
+### Combat Foundations
+
+The following mods are considered the "foundations" of the combat and gameplay for Twisted Skyrim:
+
+- [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) introduces attack commitment to the game, for both NPCs and the Player. If you're familiar with MCO, this will be right at home for you.
+  - Time your attacks precisely, aggresive NPCs can and will take advantage of poor planning.
+
+- [DMCO](https://www.distaranimation.com/mods/dodge) adds dodging to the game
+  - Adds I-Frames, which you should take advantage of.
+  - Costs stamina, or magika depending on your class, be sure to manage your resources wisely.
+
+- [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741?tab=description) Reworks stamina, adds a timed block, stuns, and executions.
+  - There is a ton of info in this mod page, be sure to read through it all. 
+  - NPCs can't attack when out of stamina, player deals 50% less damage.
+  - Attacks cost stamina, missed attacks drain significantly, landed attacks regenerate your stamina.
+  - Stamina regenerates slower while blocking; getting hit while out of stamina and blocking can cause you to stagger.
+
+- [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347) Adds accurate melee collisions to the game.
+  - You can very easily miss attacks if your sword does not directly collide with an enemy, make sure to be precise!
+  - Hitstop, if you hit a wall your sword will bounce back and prevent you from attacking for a very brief time.
+
+- [Maxsu Poise](https://github.com/max-su-2019/MaxsuPoise) and [Modern Stagger Lock](https://github.com/max-su-2019/ModernStaggerLock) implement a Poise system Poise Health can be seen on the Special Bar of TrueHUD (the yellow bar above Health on player and target widgets).
+
+- [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014) brings movesets to NPCs, see the mod page for more info.
+
+- [Ultimate NPC Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/120738) brings dodging to NPCs, makes fights less 2 dimensional, and of course more difficult.
+ 
+- [Modern Combat AI](https://www.nexusmods.com/skyrimspecialedition/mods/74716) makes NPCs far more aggresive, meaning you need to space better and carefully plan your attacks.
+
+## Leveling and Progression
+
+Twisted Skyrim modifies the vanilla leveling system to have the player engage with the world around them more. Just using your skills will not be a sufficient enough way to level up, and you'll be more encouraged to explore and complete quests. Below is a general breakdown of what to expect with the leveling and progression system in Twisted Skyrim.
+
+### Changes to leveling
+
+**Leveling speed is still being worked on based on community feedback so this part of the guide will be changed until I find a nice balance.**
+
+Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) and [Skyrim SKill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/82558) to handle leveling and progression.
+
+- Experience introduces skill caps based on your player level, the formula is found below.
+  - `skillCap = 18 + (playerlevel * 2.00)`'
+
+- Skyrim Uncapper introduces skill uncapping and a dynamic experience gain based on skill level. There are too many changes I've made to put here but the gist is this:
+  - Skills cap at level 255, however, skill forumalas still cap out at 100, this means that skill-based damage will not go beyond what vanilla was intended for.
+  - XP gain is also modified and follows a general increasing gain as your level gets higher. Lower levels should take longer to achieve, slowly capping out once you get a skill to level 100, where xp gain returns to normal.
+
+## Difficulty
+
+**There is still lots of tuning for me to do for this section as well, but currently it is in a decent spot.**
+
+Twisted Skyrim has a unique approach to difficulty, putting an emphasis on resource management, making sure enemies aren't sponges, and intelligent AI.
+
+[SkyValor](https://www.nexusmods.com/skyrimspecialedition/mods/106240) changes experience gain, damage, health pools, resource regeneration, and much more. Give it a thorough read.
+
+Potions have been signficantly buffed due to the damage and health changes by SkyValor, and I highly recommend staying stocked up.
+
+<Details>
+<summary>AI</summary>
+Using [Modern Combat AI](https://www.nexusmods.com/skyrimspecialedition/mods/74716), [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014), [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052), & [Ultimate NPC Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/120738), I've made the NPCs infinitely smarter compared to their vanilla counterparts, they will be more aggresive, use potions, and dodge your attacks.
+</Details>
