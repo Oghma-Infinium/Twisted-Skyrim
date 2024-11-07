@@ -5,7 +5,7 @@
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md">Installation</a> |
   <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md">FAQ</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/CHANGELOG.md">Changelog</a> |
+  Changelog |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md">Performance Guide</a> |
   <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/GAMEPLAY%20GUIDE.md">Gameplay Guide</a>
 </p>
