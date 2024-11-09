@@ -112,3 +112,6 @@ Potions have been signficantly buffed due to the damage and health changes by Sk
 Using [Modern Combat AI](https://www.nexusmods.com/skyrimspecialedition/mods/74716), [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014), [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052), & [Ultimate NPC Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/120738), I've made the NPCs infinitely smarter compared to their vanilla counterparts, they will be more aggresive, use potions, and dodge your attacks.
 
 </Details>
+
+# Summary
+Other than that, it should really just seem like your playing Skyrim after a while. Aside from these changes, I've tried to make the list in a way you can build your character however you want, side with whomever you want and do whatever you want. 
