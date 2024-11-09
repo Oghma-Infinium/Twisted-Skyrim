@@ -14,6 +14,43 @@
 
 # Changelog
 
+## 0.9.1.0 Release Candidate 2
+
+Key Info
+
+**THIS UPDATE IS SAVE SAFE**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Save reload bug
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Slowed XP gain across the board by about 10% on average, increased xp gain slightly at high character levels. Let me know if its too slow.
+- Changed a few mods' texture resolutions that were oversized and changed some ini settings that were set unreasonably high. Lower end pcs probably won't notice the difference too much since its already
+bad, but pcs closer to the recommended specs should have a significantly smoother experience. @1440p I got high 60s in most places outside, with a few minor stutters due to drawcalls or random VRAM spikes
+interiors unchanged, still extremely solid.
+
+### Updated
+- Dynamic sprint stop
+- Improved Camera
+- A few other mods I was too lazy to add
+
+### Added
+- snozz broken fang cave and its patches
+- A few other mods I was too lazy to add
+- [Complex Armory](https://www.nexusmods.com/skyrimspecialedition/mods/129231) (this makes some metallic armors look really fucking good, go endorse that mod fr)
+
+### Removed
+- Safe saving thing that was apparently causing some mods to tweak
+
+</Details>
+
 ## 0.9.0.0 Release Candidate 1
 
 Key Info
