@@ -178,6 +178,7 @@ Sometimes mods fail to download for various reasons, I will update and include s
 - [Kaidan](https://drive.google.com/file/d/1px_bs2dGWMWODO0hqAu1ivIhlzatbct9/view)
 - [Mod Organizer 2 Senjay Edition](https://cf-files.nexusmods.com/cdn/2295/1050/Mod%20Organizer%202%20Senjay%20Edition%20Portable%20Archive-1050-2-5-2-SE1-0-0-1727424443.zip?md5=1i77Dub2mK-_Qfha_J9Ptw&expires=1729568461&user_id=173569279)
 - [High Poly Head v1.4 (SE)](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
+- [Paragon Sparrow Huntress](https://www.mediafire.com/file/ez44pa42bbinh0l/Paragon+Sparrow+Huntress.7z/file)
 
 ### Problems with installation
 
