@@ -14,6 +14,40 @@
 
 # Changelog
 
+## 0.9.2.0 Release Candidate 3
+
+Key Info
+
+**THIS UPDATE IS SAVE SAFE**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Purple textures outside markarth
+- Landscape seam outside markarth
+- NPCs not dodging
+- incorrect textures on iron/steel
+- Fixed a crash outside of Markarth
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- custom mesh patch for riftens well, (HFs, alt riften well, and water in wells)
+
+### Updated
+- a few things i was too lazy to type here
+
+### Added
+- a few things i was too lazy to type here
+
+### Removed
+- 
+
+</Details>
+
 ## 0.9.1.0 Release Candidate 2
 
 Key Info
@@ -25,16 +59,17 @@ Key Info
 
 ### Bug Fixes
 - Save reload bug
+- Purple textures outside markarth
+- Landscape seam outside markarth
+- NPCs not dodging
+- incorrect textures on iron/steel
 
 </Details>
 <Details>
 <summary>Changes</summary>
 
 ### Changed
-- Slowed XP gain across the board by about 10% on average, increased xp gain slightly at high character levels. Let me know if its too slow.
-- Changed a few mods' texture resolutions that were oversized and changed some ini settings that were set unreasonably high. Lower end pcs probably won't notice the difference too much since its already
-bad, but pcs closer to the recommended specs should have a significantly smoother experience. @1440p I got high 60s in most places outside, with a few minor stutters due to drawcalls or random VRAM spikes
-interiors unchanged, still extremely solid.
+- custom mesh patch for riftens well, (HFs, alt riften well, and water in wells)
 
 ### Updated
 - Dynamic sprint stop
