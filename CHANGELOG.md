@@ -18,7 +18,7 @@
 
 Key Info
 
-**THIS UPDATE IS SAVE SAFE**
+**THIS UPDATE IS NOT SAVE SAFE**
  
 <Details>
 <summary>Patch Notes</summary>
