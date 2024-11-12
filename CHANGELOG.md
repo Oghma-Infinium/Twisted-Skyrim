@@ -14,6 +14,37 @@
 
 # Changelog
 
+## 0.9.3.0 Release Candidate 4
+
+Key Info
+
+**THIS UPDATE NOT SAVE SAFE**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed Menu Maid 2 not working
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Blocking is V
+- Power attack is right mouse button
+
+### Updated
+- Many updates
+
+### Added
+- Key Logic Expansion
+
+### Removed
+- Dual Wield Parrying
+
+</Details>
+
 ## 0.9.2.0 Release Candidate 3
 
 Key Info
