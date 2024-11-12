@@ -150,14 +150,16 @@
 10. Look for DynDOLOD, select it and where it says `Binary` make sure that matches to where you installed DynDOLOD, for me `C:\Dyndolod\DynDOLODx64.exe`
 11. Make sure the `Arguements` for both programs have `-SSE`
 12. Apply and Ok.
-13. Launch TexGen within MO2
-14. Make sure it matches mine **EXACTLY**
+13. Locate the mod `TexGen Output` open it by holding CTRL and double clicking it. Delete everything in this folder.
+14. Locate the mod `DynDOLOD Output` open it by holding CTRL and double clicking it. Delete everything in this folder.
+15. Launch TexGen within MO2
+16. Make sure it matches mine **EXACTLY**
 
     <img width="396" alt="TexGenx64_Qtx353ZB5k" src="https://github.com/user-attachments/assets/781efad2-3149-441b-940c-2779739ed226">
 
-15. Click start and wait for it to finish.
-16. Go to your output folder, for me `C:\Dyndolod\TexGen_Output`
-17. Cut and paste the contents from there, to `E:\Twisted Skyrim\mods\TexGen Output`
+17. Click start and wait for it to finish.
+18. Go to your output folder, for me `C:\Dyndolod\TexGen_Output`
+19. Cut and paste the contents from there, to `E:\Twisted Skyrim\mods\TexGen Output`
 
 ### DynDOLOD
 **MAKE SURE STEPS 2-5 IN THE TEXGEN SECTION ARE COMPLETED BEFORE CONTINUING.**
