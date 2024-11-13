@@ -23,21 +23,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp",
       "readme": "https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_32fa5943-b83c-4840-9f6d-73527788e3ec",
+      "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_fba01913-90e3-4be3-b400-29b695dc6852",
       "machineURL": "TwistedSkyrim",
       "discordURL": "https://discord.gg/jJ3xH5b9Jh"
     },
     "download_metadata": {
-      "Hash": "bIrngXZB0Rw=",
-      "Size": 1067529956,
-      "NumberOfArchives": 3330,
-      "SizeOfArchives": 268445063788,
-      "NumberOfInstalledFiles": 345333,
-      "SizeOfInstalledFiles": 489158627236
+      "Hash": "o6OMXxaC5SM=",
+      "Size": 1066367398,
+      "NumberOfArchives": 3342,
+      "SizeOfArchives": 269450484035,
+      "NumberOfInstalledFiles": 345486,
+      "SizeOfInstalledFiles": 489637107156
     },
-    "version": "0.9.2.0",
+    "version": "0.9.3.0",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-11-11T09:00:54.2987228Z",
+    "dateUpdated": "2024-11-13T00:01:35.8241133Z",
     "repositoryName": ""
   }
 ]
