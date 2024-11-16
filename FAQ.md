@@ -24,7 +24,10 @@
 > A: Post the crashlog, found here C:\Users\{USERNAME}\Documents\My Games\Skyrim Special Edition\SKSE, along with any changes done to the MCM or modlist to the [GitHub issues page](https://github.com/TwistedModding/TwistedModdingLists/issues) or in the [discord support channel](https://discord.com/channels/1285027986843893810/1285028261780258816).
 
 ### Q: What is performance like?
-> A: Honestly? Terrible, I get about 45fps on average with my setup at 4k.
+> A: Extremely system dependent, see the readme for my specs and recommended specs
+
+### Q: How can I change the resolution?
+> A: Open the folder `F:\Twisted Skyrim\mods\SSE Display Tweaks\SKSE\Plugins` open the file `SSEDisplayTweaks.ini` set `BorderlessUpscale=false` to `BorderlessUpscale=true` & change your resolution to the desired.
 
 ### Q: What can I do to improve performance?
 > A: Follow the _ENTIRE_ [peformance guide](https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md) This will significantly improve your frames for those who care more about framerate than visuals.
