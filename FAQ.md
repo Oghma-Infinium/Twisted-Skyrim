@@ -53,9 +53,6 @@
 ### Q: How do I set up the quick wheel?
 > A: There is extensive documentation on the mod page [here](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
 
-### Q: Sex?
-> A: YES!!! (its fully optional and non-intrusive)
-
 # Known Issues
 
 ### [Insert Male NPC] looks like he has tits / has a really big chest and arms!
