@@ -14,6 +14,33 @@
 
 # Changelog
 
+## 0.10.1.0 Release Candidate 6
+
+Key Info
+
+**THIS UPDATE NOT SAVE SAFE**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- F-SMP intel users crash
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+
+### Updated
+- A few mod updates
+
+### Added
+- Halffaces - cave lamps
+- Loss of Focus - Spell Interuption
+
+### Removed
+
 ## 0.10.0.0 Release Candidate 5
 
 Key Info
