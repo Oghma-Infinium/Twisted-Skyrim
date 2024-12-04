@@ -14,6 +14,56 @@
 
 # Changelog
 
+## 0.10.0.0 Release Candidate 5
+
+Key Info
+
+**THIS UPDATE NOT SAVE SAFE**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Crashes with controller plugged in
+- Landscape issues in Falkreath
+- EVG Clamber not working
+- Performance Guide mod missing
+- Floating Objects in Sleeping Giant
+- Black face bugs
+- Landscape issues in the reach
+- Messed up looking signs
+- Input issues
+- Alchemy knowledge resetting
+- purple textures
+- Some obody issues (females getting male presets and vice-versa)
+- a bunch more I forgot about I'd imagine
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Reverted all keybind changes
+- ENB and weather mod
+- A good bit of textures
+- Greatsword moveset + idles
+- Some performnace related things
+
+### Updated
+- Many updates
+- LODs redone
+- Improved Camera (now includes a better version of capture warmer)
+
+### Added
+- Many mods added
+
+### Removed
+- Key Logic Expansion
+- Capture Warmer
+- a few others I forgot
+
+</Details>
+
 ## 0.9.3.0 Release Candidate 4
 
 Key Info
