@@ -69,7 +69,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 | **CPU**   | R7 7800X3D |  5800x3d |
 | **Video Card**    | 4090 | 4080S / 7000 radeon card |
 | **Ram**    | 64gb (4x16) | 32gb (2x16) OR (4x8) |
-| **Storage**    | 2TB 970 EVO NVMe | SSD WITH DRAM CACHE |
+| **Storage**    | 4TB 990 Pro PCIE 4.0 | SSD WITH DRAM CACHE |
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
