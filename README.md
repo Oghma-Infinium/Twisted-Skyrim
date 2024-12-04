@@ -289,8 +289,13 @@ Please check the [FAQ](https://github.com/TwistedModding/TwistedModdingLists/blo
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Aljo for the readme
-- Halgari for Wabbajack
-- The ENTIRE Wabbajack team for helping me troubleshoot and build this modlist.
+- Halgari﻿ for Wabbajack
+- ForgottenGlory for getting me into modding through his wonderful list Living Skyrim
+- Arranz for allowing me to include early builds of Improved Camera, and feedback on the list.
+- Dint for allowing me to include some of his early access mods in my list.
+- Aljo for letting me steal his readme along with all the help and feedback he's provided me with.
+- zohryu for a bunch of custom lod rules.
+- Everyone on the Wabbajack discord for helping me with compiling and always answering my questions, to name a few: Trawzified, Lizzy, ﻿Total, Dace, and many, many, more.
+- ALL of my early adopters for giving feedback and reporting bugs.﻿
 
 
