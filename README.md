@@ -108,8 +108,8 @@ Larger Skyrim modlists require a significant amount of memory, running out of me
  6. Uncheck *Automatically manage* if it is checked
  7. Select your disk drive, ideally your fastest solid state drive
  8. Click the **Custom size:** button
- 9. In the box next to **Initial Size (MB)** type `40960`
- 10. In the box next to **Maximum Size (MB)** type `40960`
+ 9. In the box next to **Initial Size (MB)** type `40000`
+ 10. In the box next to **Maximum Size (MB)** type `40000`
  11. Click the *Set* button
  12. Click *OK*
  13. Click *Apply*
