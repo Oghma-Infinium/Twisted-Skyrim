@@ -181,6 +181,7 @@ Sometimes mods fail to download for various reasons, I will update and include s
 - [Paragon Sparrow Huntress](https://www.mediafire.com/file/ez44pa42bbinh0l/Paragon+Sparrow+Huntress.7z/file)
 - [OSimple Defeat](https://www.loverslab.com/files/file/32657-osimpledefeat-ostim-addon-for-acheron/)
 - [OSimple Assault](https://www.loverslab.com/files/file/32618-osimpleassault-ostim-addon-for-acheron/)
+- [Mofu_EldenRing Attack Animations GreatSword SE MCO](https://drive.google.com/file/d/1cHuLCUzX_wXuyXZCSjU75OTL_rlz5WSE/)
 
 ### Problems with installation
 
