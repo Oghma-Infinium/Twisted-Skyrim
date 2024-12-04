@@ -73,10 +73,10 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
-Downloads: ~220 GB  
-Install: ~400 GB  
+Downloads: ~272 GB  
+Install: ~475 GB  
 Temp Files: ~50 GB (on OS drive)  
-**TOTAL:** ~600 GB  
+**TOTAL:** ~797 GB  
 
  > Wabbajack requires around 30-40 GB of space on your main OS drive for temporary and working files during the installation. This space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 
@@ -108,8 +108,8 @@ Larger Skyrim modlists require a significant amount of memory, running out of me
  6. Uncheck *Automatically manage* if it is checked
  7. Select your disk drive, ideally your fastest solid state drive
  8. Click the **Custom size:** button
- 9. In the box next to **Initial Size (MB)** type `40960`
- 10. In the box next to **Maximum Size (MB)** type `40960`
+ 9. In the box next to **Initial Size (MB)** type `40000`
+ 10. In the box next to **Maximum Size (MB)** type `40000`
  11. Click the *Set* button
  12. Click *OK*
  13. Click *Apply*
@@ -181,6 +181,7 @@ Sometimes mods fail to download for various reasons, I will update and include s
 - [Paragon Sparrow Huntress](https://www.mediafire.com/file/ez44pa42bbinh0l/Paragon+Sparrow+Huntress.7z/file)
 - [OSimple Defeat](https://www.loverslab.com/files/file/32657-osimpledefeat-ostim-addon-for-acheron/)
 - [OSimple Assault](https://www.loverslab.com/files/file/32618-osimpleassault-ostim-addon-for-acheron/)
+- [Mofu_EldenRing Attack Animations GreatSword SE MCO](https://drive.google.com/file/d/1cHuLCUzX_wXuyXZCSjU75OTL_rlz5WSE/)
 
 ### Problems with installation
 

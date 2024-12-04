@@ -64,6 +64,7 @@ Key Info
 - purple textures
 - Some obody issues (females getting male presets and vice-versa)
 - a bunch more I forgot about I'd imagine
+- Broken reflections (thank you arranz)
 
 </Details>
 <Details>
