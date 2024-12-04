@@ -41,6 +41,9 @@ Key Info
 
 ### Removed
 
+</Details>
+
+
 ## 0.10.0.0 Release Candidate 5
 
 Key Info
