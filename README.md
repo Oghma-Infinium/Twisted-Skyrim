@@ -233,7 +233,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Widescreen Fixes
 
-No current or planned support for widescreen as of now. If enough people need it I'll incorporate it.
+There is very basic widescreen fixes to make sure its playable, make sure to enable the coresponding fix (21x9 or 32x9) under the `optionals` separator in mo2. Not everything will be perfect or look good.
 
 ### Controller and Gamepad Setup
 
