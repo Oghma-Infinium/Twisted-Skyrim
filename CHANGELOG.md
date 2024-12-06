@@ -14,6 +14,39 @@
 
 # Changelog
 
+## 0.10.2.0 Release Candidate 7
+
+Key Info
+
+**THIS UPDATE NOT SAVE SAFE**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- None
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+
+### Updated
+- Improved Traps
+- Reimagined Mountain Flowers
+- Achievement Injector
+
+### Added
+- Animate Bound Weapons
+- Next-Gen Decapitations
+- Some ultrawide support, not fully implemented yet.
+- A couple missing patches
+
+### Removed
+
+</Details>
+
 ## 0.10.1.0 Release Candidate 6
 
 Key Info
