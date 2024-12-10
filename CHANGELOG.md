@@ -14,11 +14,42 @@
 
 # Changelog
 
-## 0.10.2.0 Release Candidate 7
+## 0.10.3.0 Release Candidate 8
 
 Key Info
 
 **THIS UPDATE NOT SAVE SAFE**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Crash in the winking skeever
+- ostim scenes not working
+- missing widescreen support from last update.
+- Performance fixes
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+
+### Updated
+- many
+
+### Added
+- many
+
+### Removed
+
+</Details>
+
+## 0.10.2.0 Release Candidate 7
+
+Key Info
+
+**THIS UPDATE SAVE SAFE**
  
 <Details>
 <summary>Patch Notes</summary>
@@ -51,7 +82,7 @@ Key Info
 
 Key Info
 
-**THIS UPDATE NOT SAVE SAFE**
+**THIS UPDATE SAVE SAFE**
  
 <Details>
 <summary>Patch Notes</summary>
