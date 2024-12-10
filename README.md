@@ -176,11 +176,10 @@ Downloading and installing Twisted Skyrim can take a while depending on your int
 
 Sometimes mods fail to download for various reasons, I will update and include said mods here if they fail frequently for many users.
 - [Kaidan](https://drive.google.com/file/d/1px_bs2dGWMWODO0hqAu1ivIhlzatbct9/view)
-- [Mod Organizer 2 Senjay Edition](https://cf-files.nexusmods.com/cdn/2295/1050/Mod%20Organizer%202%20Senjay%20Edition%20Portable%20Archive-1050-2-5-2-SE1-0-0-1727424443.zip?md5=1i77Dub2mK-_Qfha_J9Ptw&expires=1729568461&user_id=173569279)
 - [High Poly Head v1.4 (SE)](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 - [Paragon Sparrow Huntress](https://www.mediafire.com/file/ez44pa42bbinh0l/Paragon+Sparrow+Huntress.7z/file)
-- [OSimple Defeat](https://www.loverslab.com/files/file/32657-osimpledefeat-ostim-addon-for-acheron/)
-- [OSimple Assault](https://www.loverslab.com/files/file/32618-osimpleassault-ostim-addon-for-acheron/)
+- [OSimple Defeat](https://www.loverslab.com/files/file/32657-osimpledefeat-ostim-addon-for-acheron/?do=download&r=1956260&confirm=1&t=1&csrfKey=4d1f19cd330699cd97557955da2b1951)
+- [OSimple Assault](https://www.loverslab.com/files/file/32618-osimpleassault-ostim-addon-for-acheron/?do=download&r=1956259&confirm=1&t=1&csrfKey=4d1f19cd330699cd97557955da2b1951)
 - [Mofu_EldenRing Attack Animations GreatSword SE MCO](https://drive.google.com/file/d/1cHuLCUzX_wXuyXZCSjU75OTL_rlz5WSE/)
 
 ### Problems with installation
