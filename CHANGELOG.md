@@ -14,6 +14,40 @@
 
 # Changelog
 
+## 0.10.4.0 Release Candidate 9
+
+Key Info
+
+**THIS UPDATE IS SAVE SAFE**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Duplicate achievement entries for Vigilant.
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Tweaked eye cubemap so it isn't so bright
+
+### Updated
+- many
+
+### Added
+- Cumulative eye mesh Fix
+- eye normal map fixed
+- Untarnished UI + All patches for it
+
+
+### Removed
+- Dear Diary suite
+- Widescreen support (it may come back in a future update.)
+
+</Details>
+
 ## 0.10.3.0 Release Candidate 8
 
 Key Info
