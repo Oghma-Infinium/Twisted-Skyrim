@@ -32,6 +32,7 @@ Key Info
 - Maybe fixed the Winking Skeever crash, I can not replicate so I need feedback
 - Fixed crashing in Riverwood related to Navmesh -- Also completely redid the navmesh and should be significantly better.
 - Broken Icy meshes on solstheim
+- Custom Skills Menu not working properly (missing dependency)
 
 </Details>
 <Details>
@@ -56,8 +57,8 @@ Key Info
 - Better Grabbing
 - Ashe - Crystal Heart
 - Ignoble Beds - A Noble and Upper Class Bed Replacer
-- A few more I probably forgot
 - ENBSeries
+- A few more I probably forgot
 
 ### Added
 - Extended Vanilla Menus
