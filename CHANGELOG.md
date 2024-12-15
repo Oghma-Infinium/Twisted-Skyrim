@@ -57,6 +57,7 @@ Key Info
 - Ashe - Crystal Heart
 - Ignoble Beds - A Noble and Upper Class Bed Replacer
 - A few more I probably forgot
+- ENBSeries
 
 ### Added
 - Extended Vanilla Menus
