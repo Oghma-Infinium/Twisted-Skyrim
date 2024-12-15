@@ -60,6 +60,7 @@ Key Info
 
 ### Added
 - Extended Vanilla Menus
+- Three of my personal character presets
 
 ### Removed
 - FVAR weight slider affects beast tails (compatibility reasons)
