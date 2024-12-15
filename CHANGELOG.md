@@ -14,6 +14,58 @@
 
 # Changelog
 
+## 0.10.5.0 Release Candidate 10
+
+Key Info
+
+**THIS UPDATE IS SAVE SAFE.**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Missing Hair for Ashe
+- Freeze when opening inventory with certain items inside
+- Purple trees on solstheim
+- Hair physics not working with Helmet Toggle 2
+- Argonians missing tales
+- Maybe fixed the Winking Skeever crash, I can not replicate so I need feedback
+- Fixed crashing in Riverwood related to Navmesh -- Also completely redid the navmesh and should be significantly better.
+- Broken Icy meshes on solstheim
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Nothing
+
+### Updated
+- Improved Camera 
+- lods
+- No Grass In Objects
+- The Dragonborn's Fishiary - Bestiary Addon
+- JK's Interiors Patch Collection
+- Natural Waterfalls
+- Water for ENB
+- B612 - my little asteroid of useful UI components
+- Assorted mesh fixes
+- Complex Material Hub
+- Local Map Upgrade
+- Katana - Journey in the Shadows
+- Better Grabbing
+- Ashe - Crystal Heart
+- Ignoble Beds - A Noble and Upper Class Bed Replacer
+- A few more I probably forgot
+
+### Added
+- Extended Vanilla Menus
+
+### Removed
+- FVAR weight slider affects beast tails (compatibility reasons)
+
+</Details>
+
 ## 0.10.4.0 Release Candidate 9
 
 Key Info
