@@ -20,6 +20,8 @@
 
 **You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.**
 
+You can support me on my Ko-Fi found here: [https://ko-fi.com/twistedmodding1](https://ko-fi.com/twistedmodding1)
+
 # Contents
 - [Attention](#attention)
 - [Contents](#contents)
