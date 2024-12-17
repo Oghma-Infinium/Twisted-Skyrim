@@ -98,11 +98,16 @@ Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/
 ### Perks
 <details>
 <Summary>Adamant</Summary>
-Twisted Skyrim uses [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/41780), Scion and Manbeast for its regular, vampire, and werewolf perk systems(respectively) which can be seen as a much more balanced and impactful perk trees compared to vanilla. It reworks all of the existing trees and I highly recommend reading through it.
+
+Twisted Skyrim uses [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), Scion and Manbeast for its regular, vampire, and werewolf perk systems(respectively) which can be seen as a much more balanced and impactful perk trees compared to vanilla. It reworks all of the existing trees and I highly recommend reading through it.
+
 </details>
+
 <details>
 <Summary>Custom Skills Framework</Summary>
+
 Twisted Skyrim also makes use of the [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780) which unlocks the ability to create new perk trees outside of vanilla. In order to access these custom perk trees you will need to use the power in your `powers` menu called `custom skills` which should open a prompt which asks you to pick a tree to open. I recommend starting off by opening your `Destiny` skill tree either through that menu, or the power that is also present called `destiny`. You will get Destiny skill points after reaching level 1,level 5, level 10, level 15, level 20, level 25 and level 30 for a total of 7 skill points. Each path of the tree goes with whatever build you might be doing, and is limited to 7 points total so power creep doesn't become an issue.
+
 </details>
 
 ## Difficulty
