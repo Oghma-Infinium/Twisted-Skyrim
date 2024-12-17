@@ -14,6 +14,47 @@
 
 # Changelog
 
+## 0.10.5.1 Release Candidate 11
+
+Key Info
+
+**THIS UPDATE IS SAVE SAFE. Save indoors before updating as LODs have been redone again.** 
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Hopefully fixed the crash when loading a save bugs that have popped up, if not leave crash logs in the bug reports channel on discord.
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Nothing
+
+### Updated
+- LODs
+- Belethor's Sister Quest
+- Ashen Heart - Ashe Visual Replacer
+- Grass Generation MO2 Plugin
+- No Grass In Objects
+- Rudy HQ - ENB Complex material silverware patch for optimized enb lights
+- Auri - Bone Improvements
+- Achievement Injector
+- Nexus_Modesty_KID
+- FB - Einherjr Armor 3BA-BHUNP-CBBE-UNP
+- Considerate Followers
+- Splash Screen
+
+### Added
+- HFs - RatWay Hall Gutter
+
+### Removed
+- None
+
+</Details>
+
 ## 0.10.5.0 Release Candidate 10
 
 Key Info
