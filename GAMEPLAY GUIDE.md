@@ -74,7 +74,7 @@ Twisted Skyrim modifies the vanilla leveling system to have the player engage wi
 <details>
 <summary>Experience</summary>
   
-Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) and [Skyrim SKill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/82558) to handle leveling and progression.
+Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) and [Skyrim Skill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/82558) to handle leveling and progression.
 
 - Experience introduces skill caps based on your player level, the formula is found below.
   - `skillCap = 18 + (playerlevel * 2.00)`'
@@ -95,11 +95,34 @@ Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/
 
 </details>
 
+### Perks
+<details>
+<Summary>Adamant</Summary>
+
+Twisted Skyrim uses [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), Scion and Manbeast for its regular, vampire, and werewolf perk systems(respectively) which can be seen as a much more balanced and impactful perk trees compared to vanilla. It reworks all of the existing trees and I highly recommend reading through it.
+
+</details>
+
+<details>
+<Summary>Custom Skills Framework</Summary>
+
+Twisted Skyrim also makes use of the [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780) which unlocks the ability to create new perk trees outside of vanilla. In order to access these custom perk trees you will need to use the power in your `powers` menu called `custom skills` which should open a prompt which asks you to pick a tree to open. I recommend starting off by opening your `Destiny` skill tree either through that menu, or the power that is also present called `destiny`. You will get Destiny skill points after reaching level 1,level 5, level 10, level 15, level 20, level 25 and level 30 for a total of 7 skill points. Each path of the tree goes with whatever build you might be doing, and is limited to 7 points total so power creep doesn't become an issue.
+
+</details>
+
 ## Difficulty
 
 **There is still lots of tuning for me to do for this section as well, but currently it is in a decent spot.**
 
-Twisted Skyrim has a unique approach to difficulty, putting an emphasis on resource management, making sure enemies aren't sponges, and intelligent AI.
+As said previously, I highly recommend having a follower, or multiple. Playing solo in this list is possible, but not recommended and will increase the difficult significantly.
+
+Twisted Skyrim has a unique approach to difficulty, putting an emphasis on resource management, making sure enemies aren't sponges, and intelligent AI. 
+
+To elaborate on AI more, put simply, they are much more aggresive. They use all spells they have in their aresenal unlike vanilla, attack you if you aim a bow at them, and make use of dodging.
+
+A poise system has been added, and if the enemies (or yours) poise gets broken, a stagger will occur which is an opportunity for you, or them to attack without punishment. Archers can take advantage of headshots to deal bonus poise damage to keep them off of you for longer.
+
+Dodging is not locked behind any perks or powers simply because its too important for all types of builds, there is a fairly long delay after a dodge is performed before you can use it again, or move at all to promote intelligent use of it rather than spamming.
 
 [SkyValor](https://www.nexusmods.com/skyrimspecialedition/mods/106240) changes experience gain, damage, health pools, resource regeneration, and much more. Give it a thorough read.
 
