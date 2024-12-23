@@ -14,6 +14,41 @@
 
 # Changelog
 
+## 0.11.0.0 Release Candidate 14
+
+Key Info
+
+**This update is NOT save safe due to the many changes and crash fixes.** 
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Blue Palace crash
+- Winking Skeever Crash
+- Glowing argonians
+- Random wilderness crash
+- Fixed Misplaced notes in the Winking Skeever
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Keybinds, check the new bindings with F11 in game.
+
+### Updated
+- LODs
+- More than I care to type here
+
+### Added
+- More than I care to type here
+
+### Removed
+- Elemental Reaction
+
+</Details>
+
 ## 0.10.5.1 Release Candidate 11
 
 Key Info
