@@ -20,7 +20,7 @@
 
 **Modlist Support: [Twisted Skyrim](https://discord.gg/jJ3xH5b9Jh)**
 
-**Any deviation from this guide counts as an authorized modification of the list and thus breaks rule 11. Please seek help using the #changes-additions-rule-11 channel on the discord for further help.**
+**Any deviation from this guide counts as an unauthorized modification of the list and thus breaks rule 11. Please seek help using the #changes-additions-rule-11 channel on the discord for further help.**
 
 **Most of these steps will need to be done after every update, I recommend backing up any changes so you can just copy and paste the files over the new update.**
 
