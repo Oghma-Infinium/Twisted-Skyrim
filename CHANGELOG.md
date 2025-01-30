@@ -30,6 +30,7 @@ Key Info
 - Kaidan mismatched textures fixed (penis texture is still wrong and I'm not really sure why)
 - Ivarstead occlusion stuff fixed
 - Broken door placement in Riverwood
+- Broken meshes on some riekling stuff in solstheim
 
 </Details>
 <Details>
