@@ -14,6 +14,42 @@
 
 # Changelog
 
+## 0.12.0.0 Release Candidate 15
+
+Key Info
+
+**This update is NOT save safe due to the many changes and crash fixes.** 
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Hagraven Crash
+- Randomly defeated followers (hopefully)
+- Nightingale armor being broken
+- Kaidan mismatched textures fixed (penis texture is still wrong and I'm not really sure why)
+- Ivarstead occlusion stuff fixed
+- Broken door placement in Riverwood
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Keybinds, check the new bindings with F11 in game.
+
+### Updated
+- LODs
+- More than I care to type here
+
+### Added
+- More than I care to type here
+
+### Removed
+- i dont remember
+
+</Details>
+
 ## 0.11.0.0 Release Candidate 14
 
 Key Info
