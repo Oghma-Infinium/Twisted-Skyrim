@@ -179,7 +179,7 @@ Downloading and installing Twisted Skyrim can take a while depending on your int
 6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/jJ3xH5b9Jh) for support.
 
 Sometimes mods fail to download for various reasons, I will update and include said mods here if they fail frequently for many users.
-- [Kaidan](https://drive.google.com/file/d/1px_bs2dGWMWODO0hqAu1ivIhlzatbct9/view)
+- [Kaidan](https://drive.google.com/file/d/1bQhAF9X4MrPUos9JoXiXjrj9p5MgzJHu/view)
 - [High Poly Head v1.4 (SE)](https://drive.google.com/uc?id=15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq&export=download)
 - [Paragon Sparrow Huntress](https://www.mediafire.com/file/ez44pa42bbinh0l/Paragon+Sparrow+Huntress.7z/file)
 - [OSimple Defeat](https://www.loverslab.com/files/file/32657-osimpledefeat-ostim-addon-for-acheron/?do=download&r=1956260&confirm=1&t=1&csrfKey=4d1f19cd330699cd97557955da2b1951)
