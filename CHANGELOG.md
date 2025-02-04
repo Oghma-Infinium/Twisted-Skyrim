@@ -14,6 +14,38 @@
 
 # Changelog
 
+## 0.13.0.0 Release Candidate 16
+
+Key Info
+
+**This update is NOT save safe**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Mismatched Head/body textures
+- Many clipping objects in the Blue Palace
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- None
+
+### Updated
+- Many
+
+### Added
+- RS Children
+- Many more
+
+### Removed
+- TKAA & addons
+
+</Details>
+
 ## 0.12.0.0 Release Candidate 15
 
 Key Info
