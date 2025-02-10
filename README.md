@@ -42,7 +42,7 @@ You can support me on my Ko-Fi found here: [https://ko-fi.com/twistedmodding1](h
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
-    - [Widescreen Fixes](#widescreen-fixes)
+    - [Widescreen Fixes](#-fixes)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
@@ -238,7 +238,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Widescreen Fixes
 
-There is very basic widescreen fixes to make sure its playable, make sure to enable the coresponding fix (21x9 or 32x9) under the `optionals` separator in mo2. Not everything will be perfect or look good.
+Widescreen & Ultrawide compatibility are not currently being considered, maybe in the future I'll look into supporting them again.
 
 ### Controller and Gamepad Setup
 
