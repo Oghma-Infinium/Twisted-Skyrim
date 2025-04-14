@@ -7,8 +7,9 @@
       "github/TwistedModding"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Immersive",
       "Graphics",
       "Screen archery",
