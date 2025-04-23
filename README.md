@@ -170,7 +170,7 @@ The list requires Wabbajack version **3.5.0.1 or later**, installing on older ve
 Downloading and installing Twisted Skyrim can take a while depending on your internet connection and computer. To install Twisted Skyrim, complete the following steps.
 
 1. Open Wabbajack and click `Browse Modlists`
-2. Press the `Show NSFW` and `Show Unofficial Lists` on the top
+2. Press the `Show NSFW` check box at the top.
 3. Press the download button on Twisted Skyrim and wait for it to download.
 4. Set the installation folder to be somewhere like C:\Games\Twisted Skyrim. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
 > The download location does not need to be on a SSD, but it makes installing faster.
