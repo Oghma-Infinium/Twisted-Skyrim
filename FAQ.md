@@ -32,6 +32,9 @@
 ### Q: What mod is it that makes favorited items/potions/quest items show on my character?
 > A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `Left Shift+Backspace` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example).
 
+### Q: Why do I have two sets of ears?
+> A: Go to the `Hair` tab in racemenu, `facial hairs`, then change the slider to `6`.
+
 ### Q: I don't like the 3rd person camera stuff, how can I change it?
 > A: Open up the MCM look for `smoothcam` and either play around with the settings on the currently selected preset, or try swapping to one of the other presets included.
 
