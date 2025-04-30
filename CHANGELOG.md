@@ -14,6 +14,74 @@
 
 # Changelog
 
+## 0.14.0.0 Release Candidate 17
+
+Key Info
+
+**This update is NOT save safe**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Super op items being spawned unintentionally
+- Legends Lost quest dungeon fixed
+- Missing cave trim textures
+- Roads were broken for who knows how long (fixed)
+-  
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- EDU item distribution
+
+### Updated
+- LODs
+- Improved Camera
+- Many others
+- ENB
+
+### Added
+- Tons of gooner armor mods, add them through the dev menu using f3
+- Many more
+
+### Removed
+- Grass lods in favor of overall higher quality LODs
+
+</Details>
+
+## 0.13.0.1 Release Candidate 16
+
+Key Info
+
+**This update is NOT save safe**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Install issue
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- None
+
+### Updated
+- None
+
+### Added
+- None
+
+### Removed
+- None
+
+</Details>
+
 ## 0.13.0.0 Release Candidate 16
 
 Key Info
