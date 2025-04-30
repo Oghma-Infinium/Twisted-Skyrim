@@ -7,8 +7,9 @@
       "github/TwistedModding"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "Immersive",
       "Graphics",
       "Screen archery",
@@ -23,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp",
       "readme": "https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_67d72247-d38f-491f-8104-918068c6185f",
+      "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_4f7339d1-6d6a-44c8-b4c5-8879015b97a9",
       "machineURL": "TwistedSkyrim",
       "discordURL": "https://discord.gg/jJ3xH5b9Jh"
     },
     "download_metadata": {
-      "Hash": "VgDpu+I5i0s=",
-      "Size": 166916832,
-      "NumberOfArchives": 3841,
-      "SizeOfArchives": 341824513217,
-      "NumberOfInstalledFiles": 400727,
-      "SizeOfInstalledFiles": 576834244040
+      "Hash": "mHXoPM90E9U=",
+      "Size": 183772576,
+      "NumberOfArchives": 3866,
+      "SizeOfArchives": 343122531435,
+      "NumberOfInstalledFiles": 403014,
+      "SizeOfInstalledFiles": 563873828689
     },
-    "version": "0.12.0.0",
+    "version": "0.13.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-31T20:08:38.7639474Z",
+    "dateUpdated": "2025-02-05T01:58:01.9268972Z",
     "repositoryName": ""
   }
 ]

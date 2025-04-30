@@ -20,7 +20,7 @@
 
 **You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.**
 
-You can support me on my Ko-Fi found here: [https://ko-fi.com/twistedmodding1](https://ko-fi.com/twistedmodding1)
+You can support me on my [Ko-Fi](https://ko-fi.com/twistedmodding1) or [Patreon](patreon.com/TwistedModding).
 
 # Contents
 - [Attention](#attention)
@@ -42,7 +42,7 @@ You can support me on my Ko-Fi found here: [https://ko-fi.com/twistedmodding1](h
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
-    - [Widescreen Fixes](#widescreen-fixes)
+    - [Widescreen Fixes](#-fixes)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
@@ -70,7 +70,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 |     :---:    |     :---:     |     :---:     
 | **CPU**   | R7 7800X3D |  5800x3d |
 | **Video Card**    | 4090 | 4080S / 7000 radeon card |
-| **Ram**    | 64gb (4x16) | 32gb (2x16) OR (4x8) |
+| **Ram**    | 64gb (2x32) | 32gb (2x16) OR (4x8) |
 | **Storage**    | 4TB 990 Pro PCIE 4.0 | SSD WITH DRAM CACHE |
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
@@ -170,7 +170,7 @@ The list requires Wabbajack version **3.5.0.1 or later**, installing on older ve
 Downloading and installing Twisted Skyrim can take a while depending on your internet connection and computer. To install Twisted Skyrim, complete the following steps.
 
 1. Open Wabbajack and click `Browse Modlists`
-2. Press the `Show NSFW` and `Show Unofficial Lists` on the top
+2. Press the `Show NSFW` check box at the top.
 3. Press the download button on Twisted Skyrim and wait for it to download.
 4. Set the installation folder to be somewhere like C:\Games\Twisted Skyrim. **DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Skyrim's Steam folder**
 > The download location does not need to be on a SSD, but it makes installing faster.
@@ -238,7 +238,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Widescreen Fixes
 
-There is very basic widescreen fixes to make sure its playable, make sure to enable the coresponding fix (21x9 or 32x9) under the `optionals` separator in mo2. Not everything will be perfect or look good.
+Widescreen & Ultrawide compatibility are not currently being considered, maybe in the future I'll look into supporting them again.
 
 ### Controller and Gamepad Setup
 
