@@ -26,7 +26,7 @@ Before reading this guide, please following the [Installation Guide](https://git
 
 ## Overview
 
-This section will cover the absolute basics of the list. I suggest reading, or skimming all of the linked mod pages in this section if you are unfamiliar with the preceding mods.
+This section will cover the absolute basics of the list. I suggest reading, or at the very least, skimming, all of the linked mod pages in this section if you are unfamiliar with the following mods.
 
 **I suggest looking through the keybinds for the list in game, by pressing F11**
 
@@ -41,9 +41,12 @@ The following mods are considered the "foundations" of the combat and gameplay f
 - [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) introduces attack commitment to the game, for both NPCs and the Player. If you're familiar with MCO, this will be right at home for you.
   - Time your attacks precisely, aggresive NPCs can and will take advantage of poor planning.
 
-- [DMCO](https://www.distaranimation.com/mods/dodge) adds dodging to the game
+- [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) adds dodging to the game
   - Adds I-Frames, which you should take advantage of.
   - Costs stamina, or magika depending on your class, be sure to manage your resources wisely.
+
+- [Combat Pathing Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/86950)
+  - It basically completeley overhauls NPC ai in combat. TL;DR it makes them much smarter and is designed specifically for MCO/BFCO. I'd give the mod page a read.
 
 - [Valhalla Combat](https://www.nexusmods.com/skyrimspecialedition/mods/64741?tab=description) Reworks stamina, adds a timed block, stuns, and executions.
   - There is a ton of info in this mod page, be sure to read through it all. 
@@ -99,14 +102,14 @@ Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/
 <details>
 <Summary>Adamant</Summary>
 
-Twisted Skyrim uses [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), Scion and Manbeast for its regular, vampire, and werewolf perk systems(respectively) which can be seen as a much more balanced and impactful perk trees compared to vanilla. It reworks all of the existing trees and I highly recommend reading through it.
+Twisted Skyrim uses [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) and [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) for its regular, vampire, and werewolf perk systems(respectively) which are overall much more balanced, and each perk actually impacts gameplay significantly. They rework all of the existing trees and I highly recommend reading through it.
 
 </details>
 
 <details>
 <Summary>Custom Skills Framework</Summary>
 
-Twisted Skyrim also makes use of the [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780) which unlocks the ability to create new perk trees outside of vanilla. In order to access these custom perk trees you will need to use the power in your `powers` menu called `custom skills` which should open a prompt which asks you to pick a tree to open. I recommend starting off by opening your `Destiny` skill tree either through that menu, or the power that is also present called `destiny`. You will get Destiny skill points after reaching level 1,level 5, level 10, level 15, level 20, level 25 and level 30 for a total of 7 skill points. Each path of the tree goes with whatever build you might be doing, and is limited to 7 points total so power creep doesn't become an issue.
+Twisted Skyrim also makes use of the [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780) which unlocks the ability to create new perk trees outside of vanilla. In order to access these custom perk trees you will need to use the power in your `powers` menu called `custom skills` which should open a prompt which asks you to pick a tree to open. I recommend starting off by opening your `Destiny` skill tree either through that menu, or the power that is also present called `Destiny`. You will get Destiny skill points after reaching level 1,level 5, level 10, level 15, level 20, level 25 and level 30 for a total of 7 skill points. Each path of the tree goes with whatever build you might be doing, and is limited to 7 points total so power creep doesn't become an issue.
 
 </details>
 
@@ -132,9 +135,9 @@ Potions have been signficantly buffed due to the damage and health changes by Sk
   
 <summary>AI</summary>
 
-Using [Modern Combat AI](https://www.nexusmods.com/skyrimspecialedition/mods/74716), [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014), [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052), & [Ultimate NPC Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/120738), I've made the NPCs infinitely smarter compared to their vanilla counterparts, they will be more aggresive, use potions, and dodge your attacks.
+Using [Modern Combat AI](https://www.nexusmods.com/skyrimspecialedition/mods/74716), [SCAR](https://www.nexusmods.com/skyrimspecialedition/mods/72014), [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052), [Combat Pathing Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/86950), & [Ultimate NPC Dodging](https://www.nexusmods.com/skyrimspecialedition/mods/120738), I've made the NPCs infinitely smarter compared to their vanilla counterparts, they will be more aggresive, use potions, and dodge your attacks.
 
 </Details>
 
 # Summary
-Other than that, it should really just seem like your playing Skyrim after a while. Aside from these changes, I've tried to make the list in a way you can build your character however you want, side with whomever you want and do whatever you want. 
+Other than that, it should really just seem like your playing Skyrim after a while. Aside from these changes, I've tried to make the list in a way you can build your character however you want, side with whomever you want and do whatever you want.. Have fun!

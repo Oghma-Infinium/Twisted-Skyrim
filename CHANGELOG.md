@@ -14,11 +14,15 @@
 
 # Changelog
 
-## 0.14.0.0 Release Candidate 17
+## 1.0.0.0 
 
 Key Info
 
-**This update is NOT save safe**
+**This update is NOT save safe if updating from pre 1.0, 1.0 beta testers can safely update as long as they are loading a save that was taken indoors.**
+
+- This is a *highly* recommended update, several crashes have been fixed and other long-standing bugs.
+- Performance is significantly better in certain locations like outside of Whiterun and Markarth.
+- Mountain & tree LODs should look significantly better, mountains should have less z-fighting.
  
 <Details>
 <summary>Patch Notes</summary>
@@ -28,27 +32,78 @@ Key Info
 - Legends Lost quest dungeon fixed
 - Missing cave trim textures
 - Roads were broken for who knows how long (fixed)
--  
+- Crashes when selling items
+- A bunch of occlusion bugs around whiterun, ivarstead and Gonz Stonehill, and falkreath
+- Fixed Occlusion issues in Falkreath
+- Fixed Occlusion issues in Whiterun
+- Fixed Occlusion issues in Ivarsted
+- Fixed Occlusion issues in Gonz Stonehill
+- Fixed Landscape texture seams in Gonz Stonehill
+- Fixed Landscape texture seams outside of Helgen
+- FPS drop in the LOTD museum
+- Crashing at darklight tower
+- floating/clipping ferns outside of solitude
+- Missing Cave trim textures
+- Probably many more I forgot to mention here
+- Random objects on the floor in the riften sewers
+- Neck gaps in some children
+- Mismatched water LODs
+- LOD z-fighting for mountains
+- Clipping between Gourmet & Jks Understone Keep
+- Some conflicting hotkeys
+- Broken rabbit textures
+- Periodicly occuring crash when launching the game
+- Several Black face bugs
+- Simply Knock & Take a peek compatibility issues
+- Clipping bench in riverwood
+- Missing table in solitude
+- Floating tree in the middle of nowhere
+- Misplaced tree outside of dragonsreach
+- Fixed several mod related crashes
+- Fixed the long-standing bug where followers would be defeated upon changing location
+- Fixed clipping in Ivarstead
+- Fixed clipping outside of dimhollow crypt
+- Purple terrain blending in some places
+- Clipping objects in some POIs
 
 </Details>
 <Details>
 <summary>Changes</summary>
 
 ### Changed
-- EDU item distribution
+- TONS of stuff over the past couple months 
+- Nerfed the spawnrate of enchanted items on random npcs
+- Improved performance significantly in Riften and Whiterun
+- Lightened Skyrim -> Lightened Skyrim BOS 
+- Tweaked many meshes to fix overly bright reflections, mostly on some doors and lanterns
 
 ### Updated
 - LODs
-- Improved Camera
-- Many others
+- Improved Camera (Non-headbob mode should be much, much better)
 - ENB
+- A few texture mods for more consistency
+- So many more...
 
 ### Added
-- Tons of gooner armor mods, add them through the dev menu using f3
+- Tons of armor mods some not lore friendly, you can access these by adding them in the console or through the f3 dev menu
+- Jks Whiterun Lightened BOS
 - Many more
+- Two dialogue Expansion mods
+- College of Winterhold Quest expansion
+- College of winterhold entrance requirements
+- Horse behavior overhaul 
+- Horse animation overhaul
+- Take a peak
+- Dragon voiced word walls
+- Precision Magic trails
+- OStim NPCs
+- So many more...
 
 ### Removed
 - Grass lods in favor of overall higher quality LODs
+- Jks Whiterun Outskirts (performance issues)
+- Jks Markarth Outskirts (performance issues)
+- Some redundant archives in the downloads folder which should hopefully help out with total required size for the list.
 
 </Details>
 
