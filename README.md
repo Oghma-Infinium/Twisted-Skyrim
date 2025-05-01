@@ -57,7 +57,7 @@ You can support me on my [Ko-Fi](https://ko-fi.com/twistedmodding1) or [Patreon]
 
 Twisted Skyrim is a a complete overhaul of Skyrim bringing fresh combat systems, resource management, new quests and lands, a COMPLETE visual overhaul, and so much more. Featuring Simonrim, BFCO, and True Directional Movement you'll feel like your playing a modern age Skyrim.
 
-The full modlist can be viewed no where right now lol.
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/twisted-skyrim).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
@@ -66,7 +66,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 >  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
 
 
-| Spec Category | My Specs (2160p) | Recommended (1080p) |
+| Spec Category | My Specs (2160p) | Recommended (1440p) |
 |     :---:    |     :---:     |     :---:     
 | **CPU**   | R7 7800X3D |  5800x3d |
 | **Video Card**    | 4090 | 4080S / 7000 radeon card |
