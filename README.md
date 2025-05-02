@@ -64,7 +64,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ### System Requirements
 
 >  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
-
+**THESE ARE DESKTOP RECOMMENDED SPECS, THIS LIST WILL NOT WORK ON LAPTOPS**
 
 | Spec Category | My Specs (2160p) | Recommended (1440p) |
 |     :---:    |     :---:     |     :---:     
@@ -154,7 +154,7 @@ The English Steam version of Skyrim is the only supported version. I understand 
  4. Once this is completed, launch the game once from Steam. You may receive a prompt that your settings were detected or not detected, this does not matter, nor do any options you select here. Simply open the launcher and launch the game.
  5. Once the intro logo finishes displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
  6. If you did not receive a prompt to download, select the Creation Club option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
- 7. Wait for the download process to complete. Do **NOT** ALT-TAB during this process as it will cause the process to fail and you will have to start over again.
+ 7. Wait for the download process to complete. **Do NOT ALT-TAB during this process as it will cause the process to fail and you will have to start over again.**
  8. Proceed with the rest of the installation.
 
 ### Wabbajack Installation

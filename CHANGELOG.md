@@ -14,6 +14,39 @@
 
 # Changelog
 
+## 1.0.1.0
+
+Key Info
+
+**This update is save safe**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Crashing in combat
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Some MCM options -> you should now be able to see stamina, magicka, & the poise meter for enemies.
+
+### Updated
+- A few
+
+### Added
+- OPubes NG (Commissioned)
+- Adaku Follower mod (Commissioned)
+- Sweeping organizes stuff
+- A few others
+
+### Removed
+- None
+
+</Details>
+
 ## 1.0.0.0 
 
 Key Info
