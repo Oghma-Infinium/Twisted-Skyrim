@@ -47,6 +47,7 @@ You can support me on my [Ko-Fi](https://ko-fi.com/twistedmodding1) or [Patreon]
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [Loading your saves](#Loading-your-saves)
+    - [Loading saves for save safe updates](Updating-save-safe-versions-of-the-list)
     - [Note For Content Creators](#note-for-content-creators)
   - [Updating the modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
@@ -265,6 +266,33 @@ This list will NOT officially add any controller or gamepad support. Currently t
 Autosaves are disabled, make sure to save often and safely. Safe saving implies saving 20 seconds after loading screens, before combat and before starting any major quests.
 
 I highly recommend if you want to reload a save at any point to restart your game before doing so. See [here](https://www.reddit.com/r/skyrimmods/comments/116raxm/psa_engine_bug_when_reloading_saves/) for more information on why. Technically you should be fine, as thousands of people have never encountered this bug on any wabbajack list. This is more of a FYI on the best saving/loading practices.
+
+### Updating save safe versions of the list
+
+**PRE-UPDATE STEPS**
+
+1. Launch your game & load your save
+2. Open the console by pressing the tilde key
+3. Type `coc qasmoke` and hit `enter`
+4. Save the game
+5. Close the game
+6. Update the modlist, making sure to backup your saves just in case
+
+**POST-UPDATE STEPS**
+
+1. Launch the game & load your save
+2. Save the game
+3. Close the game
+**Bonus step, make sure you have all your saves backed up somewhere safe in case you mess a step up and need to redo it.**
+4. Navigate to `C:\Twisted Skyrim\tools\Resaver`
+5. Launch `ReSaver.exe`
+6. It should prompt you to load a save, which will be located in `C:\Twisted Skyrim\profiles\Twisted Skyrim\saves` or `C:\Twisted Skyrim\profiles\Twisted Skyrim SFW\saves` depending on which profile you use. If it doesn't, click `file` -> `open`
+7. Open your most recent save (it should be the save you just took inside of qasmoke)
+8. Once your save loads, make sure the `Skyrim Special Edition` folder drop down is selected and highlighted blue
+9. Select `clean` at the top of the window
+10. Select `Remove unattached instances` click `ok`
+11. Select `Remove undefined elements` click `ok`
+12. Click `file` -> `save` & `ok`, then `ok` again
 
 ### Note For Content Creators
 

@@ -14,24 +14,29 @@
 
 # Changelog
 
-## 1.0.1.0
+## 1.1.0.0
 
 Key Info
 
-**This update is save safe**
+**This update is save safe** --> please see 
+- Not in this update, but I will be trying to reduce the stuttering that occassionally happens for systems similar to mine.
  
 <Details>
 <summary>Patch Notes</summary>
 
 ### Bug Fixes
 - Crashing in combat
+- XPMSSE script spamming papyrus logs
+- Other script spam in logs
+- Fixed being unable to fast travel in survival mode even with a travel pack
 
 </Details>
 <Details>
 <summary>Changes</summary>
 
 ### Changed
-- Some MCM options -> you should now be able to see stamina, magicka, & the poise meter for enemies.
+- Some MCM options -> you should now be able to see stamina, magicka, & the poise meter for enemies (and yourself)
+- Reenabled survival mode by default
 
 ### Updated
 - A few
@@ -40,10 +45,13 @@ Key Info
 - OPubes NG (Commissioned)
 - Adaku Follower mod (Commissioned)
 - Sweeping organizes stuff
+- Eating animations and sounds SE
+- Tons of replacers for food items -> a lot of them should look significantly better
+- Sanguine Symphony
 - A few others
 
 ### Removed
-- None
+- Enhanced Blood Textures + patches
 
 </Details>
 
