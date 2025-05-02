@@ -47,7 +47,7 @@ You can support me on my [Ko-Fi](https://ko-fi.com/twistedmodding1) or [Patreon]
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
     - [Loading your saves](#Loading-your-saves)
-    - [Loading saves for save safe updates](Updating-save-safe-versions-of-the-list)
+    - [Loading saves for save safe updates](#Updating-save-safe-versions-of-the-list)
     - [Note For Content Creators](#note-for-content-creators)
   - [Updating the modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
