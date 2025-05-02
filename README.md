@@ -293,6 +293,7 @@ I highly recommend if you want to reload a save at any point to restart your gam
 10. Select `Remove unattached instances` click `ok`
 11. Select `Remove undefined elements` click `ok`
 12. Click `file` -> `save` & `ok`, then `ok` again
+13. Launch your game, load the save and type `coc whiterunorigin` into the console to bring you to whiterun
 
 ### Note For Content Creators
 
