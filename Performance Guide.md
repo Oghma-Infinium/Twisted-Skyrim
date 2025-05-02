@@ -96,46 +96,36 @@
 4. Ctrl+S to save
 5. Exit
 
-### NotWL
-1. Open MO2
-2. Enable `Nature of the Wild Lands - Lower Resolution`
-
 # LODS 
 
 ### xLODGEN
-1. Download [xLODGEN](https://mega.nz/file/NF5jQbjR#GZHwX_NpFtR-A4AM3DcnXW9jHnZAhLJMsAm3JDB-VWU)
-2. Extract the folder in the zip called `xLODGen` to `E:\Twisted Skyrim\tools`, you should now have a directory like this `E:\Twisted Skyrim\tools\xLODGen`
-3. Create a new folder in `E:\Twisted Skyrim\tools` called `ACMOS - Road Generator`.
-4. Download [ACMOS Road Generator](https://www.nexusmods.com/skyrimspecialedition/mods/79205?tab=files)
-5. Extract it to the newly created folder `E:\Twisted Skyrim\tools\ACMOS Road Generator`
-6. MO2 should already have xLODGen added as an executable, if it doesn't launch MO2, select the drop down, select `Edit` and a windows should pop up. Click the `+` sign `add from file` and look for your xLODGen.exe and select it. Hit apply and ok.
-7. Regardless of whether its added or not, select the drop down again in MO2, in the `Arguments` section on xLODGen, make sure it looks like this: `-SSE -o:"C:\Users\jlbom\Desktop\xlodgen"` changing the given directory to match a similar place on your computer OUTSIDE of MO2. I recommend keeping it at your desktop.
-8. Hit `apply` and `ok`.
-9. Locate the mod `xLODGen Output` open it by holding CTRL and double clicking it. Delete the contents `Meshes` & `Textures`
-10. Do the same for the mods `Road output` `TexGen Output` & `DynDOLOD Output`
-11. Enable the mod `xLODGen Resource - SSE Terrain Tamriel` if its not present in the load order, download from [here](https://www.nexusmods.com/skyrimspecialedition/mods/54680?tab=files) select the `SSE Terrain Tamriel Extend` version to download, install and enable it within MO2.
-12. Make sure the plugin `SSE-Terrain-Tamriel-Extend.esm` is enabled in the right pane of MO2 (plugins list).
-13. Launch xLODGen within MO2
-14. Copy the settings below EXACTLY,
+1. Select the drop down again in MO2, in the `Arguments` section on xLODGen, make sure it looks like this: `-SSE -o:"C:\Users\jlbom\Desktop\xlodgen"` changing the given directory to match a similar place on your computer OUTSIDE of MO2. I recommend keeping it at your desktop.
+2. Hit `apply` and `ok`.
+3. Locate the mod `xLODGen Output` open it by holding CTRL and double clicking it. Delete the contents `Meshes` & `Textures`
+4. Do the same for the mods `Road output` `TexGen Output` & `DynDOLOD Output`
+5. Enable the mod `xLODGen Resource - SSE Terrain Tamriel` if its not present in the load order, download from [here](https://www.nexusmods.com/skyrimspecialedition/mods/54680?tab=files) select the `SSE Terrain Tamriel Extend` version to download, install and enable it within MO2.
+6. Make sure the plugin `SSE-Terrain-Tamriel-Extend.esm` is enabled in the right pane of MO2 (plugins list).
+7. Launch xLODGen within MO2
+8. Copy the settings below EXACTLY,
     
 <img width="451" alt="xLODGenx64_gd9DQvWwwL" src="https://github.com/user-attachments/assets/83b61ae7-8eaf-4891-889a-c004abe17d37">
 <img width="451" alt="xLODGenx64_XVMmTC8bnB" src="https://github.com/user-attachments/assets/cb7dd710-fda0-4334-ae62-0de79783e861">
 <img width="451" alt="xLODGenx64_IgrBRa82Rs" src="https://github.com/user-attachments/assets/5f5030ef-7c27-42e5-bde2-a80a8a700528">
 <img width="451" alt="xLODGenx64_avCy5vKUik" src="https://github.com/user-attachments/assets/c873e5cc-813a-4491-8607-b200b25b8e54">
 
-14. Select `Generate` on the bottom of the screen and wait for it to finish.
-15. Once finished, the output will be where ever you set it in step #7. Locate and open that folder, Cut (ctrl x) and paste it (ctrl V) into the mod `xLODGen output` within mo2. That mod should now look like this:
+9. Select `Generate` on the bottom of the screen and wait for it to finish.
+10. Once finished, the output will be where ever you set it in step #7. Locate and open that folder, Cut (ctrl x) and paste it (ctrl V) into the mod `xLODGen output` within mo2. That mod should now look like this:
 
 <img width="414" alt="explorer_ymJso5MJwm" src="https://github.com/user-attachments/assets/5b446c3f-3539-411b-abb3-f55a6f5734cc">
 
-16. Go to where you installed ACMOS, for me `E:\Twisted Skyrim\tools\ACMOS Road Generator`.
-17. Open `ACMOS Road Generator.exe`
-18. `Select Roads` should be `Paths Only`
-19. Path to `LOD` should be `E:\Twisted Skyrim\mods\xLODGen Output`
-20. Path to `Output Path` should be `E:\Twisted Skyrim\mods\Road Output`
-21. `Generate`
-22. Wait for it to finish, make sure to NOT zip it after it's done.
-23. Disable the mod `xLODGen Resource - SSE Terrain Tamriel`
+11. Go to where you installed ACMOS, for me `E:\Twisted Skyrim\tools\ACMOS Road Generator`.
+12. Open `ACMOS Road Generator.exe`
+13. `Select Roads` should be `Paths Only`
+14. Path to `LOD` should be `E:\Twisted Skyrim\mods\xLODGen Output`
+15. Path to `Output Path` should be `E:\Twisted Skyrim\mods\Road Output`
+16. `Generate`
+17. Wait for it to finish, make sure to NOT zip it after it's done.
+18. Disable the mod `xLODGen Resource - SSE Terrain Tamriel`
 
 ### TexGen
 1. Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/68518?tab=files) click manual download and extract the contents to whatever drive you want. **Make sure that it is the root directory of that drive such as C:/ or D:/**
