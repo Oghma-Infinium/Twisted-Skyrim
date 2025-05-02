@@ -76,8 +76,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
-Downloads: ~345 GB  
-Install: ~512 GB  
+Downloads: ~360 GB  
+Install: ~571 GB  
 Temp Files: ~100 GB (on OS drive)  
 Pagefile: 40 gbs
 
