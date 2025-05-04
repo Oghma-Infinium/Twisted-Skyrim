@@ -131,6 +131,8 @@ Dodging is not locked behind any perks or powers simply because its too importan
 
 Potions have been signficantly buffed due to the damage and health changes by SkyValor, and I highly recommend staying stocked up.
 
+[Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) completely overhauls dragon behaviors and resistances. The dragon fights are much more unpredictable and difficult. Reading through this is basically required as without knowing resistances, you're in for a very long fight.
+
 <Details>
   
 <summary>AI</summary>
