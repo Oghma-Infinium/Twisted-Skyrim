@@ -53,6 +53,9 @@
 ### Q: How do I set up the quick wheel?
 > A: There is extensive documentation on the mod page [here](https://www.nexusmods.com/skyrimspecialedition/mods/97345).
 
+### Q: Why do I have a box in the top right of my screen, or why is my UI not at the edge of my screen?
+> A: I only own 16:9 monitors and I don't care to support ultrawide, especially when there aren't patches for all the UI mods that I use.
+
 # Known Issues
 
 ### [Insert Male NPC] looks like he has tits / has a really big chest and arms!

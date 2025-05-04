@@ -18,7 +18,7 @@
 
 Key Info
 
-**This update is save safe** --> please see 
+**This update is save safe** --> please see [this](https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md#loading-your-saves-and-saving)
 - Not in this update, but I will be trying to reduce the stuttering that occassionally happens for systems similar to mine.
  
 <Details>
