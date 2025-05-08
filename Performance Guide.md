@@ -99,7 +99,7 @@
 # LODS 
 
 ### xLODGEN
-1. Select the drop down again in MO2, in the `Arguments` section on xLODGen, make sure it looks like this: `-SSE -o:"C:\Users\jlbom\Desktop\xlodgen"` changing the given directory to match a similar place on your computer OUTSIDE of MO2. I recommend keeping it at your desktop.
+1. Select the drop down menu in MO2, select `edit` in the `Arguments` section on xLODGen, make sure it looks like this: `-SSE -o:"C:\Users\jlbom\Desktop\xlodgen"` changing the given directory to match a similar place on your computer OUTSIDE of MO2. I recommend keeping it at your desktop.
 2. Hit `apply` and `ok`.
 3. Locate the mod `xLODGen Output` open it by holding CTRL and double clicking it. Delete the contents `Meshes` & `Textures`
 4. Do the same for the mods `Road output` `TexGen Output` & `DynDOLOD Output`
