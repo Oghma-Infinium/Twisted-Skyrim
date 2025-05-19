@@ -32,7 +32,7 @@ This section will cover the absolute basics of the list. I suggest reading, or a
 
 ### Core Overhauls
 
-- Twisted Skyrim uses the [_entire_ simonrim suite](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704), except for Arena, Blade and Blunt, Candlehearth. I highly recommend getting familiar with all of his mods. This modlist also has survival mode enabled by default. It makes use of [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/78244), [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536), and [Journeyman](https://www.nexusmods.com/skyrimspecialedition/mods/92220). To disable survival mode for your playthrough, simply uncheck the checkbox in settings while in game. 
+- Twisted Skyrim uses the [_entire_ simonrim suite](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704), except for Arena, Blade and Blunt, and Candlehearth. I highly recommend getting familiar with all of his mods. This modlist also has survival mode enabled by default. It makes use of [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/78244), [Starfrost](https://www.nexusmods.com/skyrimspecialedition/mods/97536), and [Journeyman](https://www.nexusmods.com/skyrimspecialedition/mods/92220). To disable survival mode for your playthrough, simply uncheck the checkbox in settings while in game. 
 
 ### Combat Foundations
 
