@@ -14,7 +14,7 @@
 
 # Attention
 
-**Modlist Support: [Twisted Skyrim](https://discord.gg/jJ3xH5b9Jh)**
+**Modlist Support: [Twisted Skyrim](https://discord.gg/wakingdreams)**
 
 **Twisted Skyrim requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.**
 
@@ -178,7 +178,7 @@ Downloading and installing Twisted Skyrim can take a while depending on your int
 > The download location does not need to be on a SSD, but it makes installing faster.
 4. Press the play button to begin.
 5. Turn on your favorite show or a nice long video essay Wabbajack does its thing. Alternatively read through this readme again.
-6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/jJ3xH5b9Jh) for support.
+6. If the installation is successful, then rejoice and move onto [post installation](#post-installation-and-optional-setup). If the installation is unsuccessful, follow what is below or join the [discord server](https://discord.gg/wakingdreams) for support.
 
 Sometimes mods fail to download for various reasons, I will update and include said mods here if they fail frequently for many users.
 - [Kaidan](https://drive.google.com/file/d/1bQhAF9X4MrPUos9JoXiXjrj9p5MgzJHu/view)
@@ -319,7 +319,7 @@ Simply delete the folder. Congratulations, you have uninstalled Twisted Skyrim.
 ## Issues
 
 Please check the [FAQ](https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/FAQ.md) first if you have any issues.   
- If you encounter any bugs or issues while playing the list, the [Twisted Skyrim](https://discord.gg/jJ3xH5b9Jh) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/Oghma-Infinium/Twisted-Skyrim/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/132034?tab=bugs))
+ If you encounter any bugs or issues while playing the list, the [Twisted Skyrim](https://discord.gg/wakingdreams) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/Oghma-Infinium/Twisted-Skyrim/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/132034?tab=bugs))
 
 
 ## Credits and Thanks
