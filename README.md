@@ -14,7 +14,7 @@
 
 # Attention
 
-**Modlist Support: [Twisted Skyrim](https://discord.gg/wakingdreams)**
+**Modlist Support: [Waking Dreams](https://discord.gg/wakingdreams)**
 
 **Twisted Skyrim requires the full AE upgrade, which means you must purchase the AE edition of the game for the list to function.**
 
@@ -319,7 +319,7 @@ Simply delete the folder. Congratulations, you have uninstalled Twisted Skyrim.
 ## Issues
 
 Please check the [FAQ](https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/FAQ.md) first if you have any issues.   
- If you encounter any bugs or issues while playing the list, the [Twisted Skyrim](https://discord.gg/wakingdreams) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/Oghma-Infinium/Twisted-Skyrim/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/132034?tab=bugs))
+ If you encounter any bugs or issues while playing the list, the [Waking Dreams](https://discord.gg/wakingdreams) support server is preferred and will have the fastest turn around time for support.  Alternatively, you can leave an issue report on the Github [Issues Page](https://github.com/Oghma-Infinium/Twisted-Skyrim/issues) or leave a bug report on the [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/132034?tab=bugs))
 
 
 ## Credits and Thanks
