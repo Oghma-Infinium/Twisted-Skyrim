@@ -18,7 +18,7 @@
 
 ### Attention
 
-**Modlist Support: [Twisted Skyrim](https://discord.gg/jJ3xH5b9Jh)**
+**Modlist Support: [Twisted Skyrim](https://discord.gg/wakingdreams)**
 
 **Any deviation from this guide counts as an unauthorized modification of the list and thus breaks rule 11. Please seek help using the #changes-additions-rule-11 channel on the discord for further help.**
 
