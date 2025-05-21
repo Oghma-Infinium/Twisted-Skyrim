@@ -1,13 +1,13 @@
-![](https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Twisted-Skyrim/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp)
 
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md">Installation</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md">Installation</a> |
   <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
   FAQ |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md">Performance Guide</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/GAMEPLAY%20GUIDE.md">Gameplay Guide</a>
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/Performance%20Guide.md">Performance Guide</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/GAMEPLAY%20GUIDE.md">Gameplay Guide</a>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 > A: No, but if you ask me any question on this document, I will refer you back to here.
 
 ### Q: What do I do if my game crashes?
-> A: Post the crashlog, found here C:\Users\{USERNAME}\Documents\My Games\Skyrim Special Edition\SKSE, along with any changes done to the MCM or modlist to the [GitHub issues page](https://github.com/TwistedModding/TwistedModdingLists/issues) or in the [discord support channel](https://discord.com/channels/1285027986843893810/1285028261780258816).
+> A: Post the crashlog, found here C:\Users\{USERNAME}\Documents\My Games\Skyrim Special Edition\SKSE, along with any changes done to the MCM or modlist to the [GitHub issues page](https://github.com/Oghma-Infinium/Twisted-Skyrim/issues) or in the [discord support channel](https://discord.com/channels/1285027986843893810/1285028261780258816).
 
 ### Q: What is performance like?
 > A: Extremely system dependent, see the readme for my specs and recommended specs
@@ -27,7 +27,7 @@
 > A: Open the folder `F:\Twisted Skyrim\mods\SSE Display Tweaks\SKSE\Plugins` open the file `SSEDisplayTweaks.ini` set `BorderlessUpscale=false` to `BorderlessUpscale=true` & change your resolution to the desired.
 
 ### Q: What can I do to improve performance?
-> A: Follow the _ENTIRE_ [peformance guide](https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md) This will significantly improve your frames for those who care more about framerate than visuals.
+> A: Follow the _ENTIRE_ [peformance guide](https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/Performance%20Guide.md) This will significantly improve your frames for those who care more about framerate than visuals.
 
 ### Q: What mod is it that makes favorited items/potions/quest items show on my character?
 > A: [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001). You can open the menu with `Left Shift+Backspace` to customize what you want to show and what you don't want to show. You can also use IED to determine weapon positioning (if you want weapons to be sheathed on back for example).
