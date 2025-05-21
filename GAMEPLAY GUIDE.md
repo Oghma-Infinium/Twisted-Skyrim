@@ -1,12 +1,12 @@
-![](https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Twisted-Skyrim/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp)
 
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md">Installation</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md">Installation</a> |
   <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md">FAQ</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/CHANGELOG.md">Changelog</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/Performance%20Guide.md">Performance Guide</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/FAQ.md">FAQ</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/Performance%20Guide.md">Performance Guide</a> |
   Gameplay Guide
 </p>
 
@@ -22,7 +22,7 @@
 
 ## Initial Setup
 
-Before reading this guide, please following the [Installation Guide](https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md) and read through the [FAQ](https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md), both of these will answer almost all the questions you will ask.
+Before reading this guide, please following the [Installation Guide](https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md) and read through the [FAQ](https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/FAQ.md), both of these will answer almost all the questions you will ask.
 
 ## Overview
 

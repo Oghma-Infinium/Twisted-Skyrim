@@ -1,13 +1,13 @@
-![](https://raw.githubusercontent.com/TwistedModding/TwistedModdingLists/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp)
+![](https://raw.githubusercontent.com/Oghma-Infinium/Twisted-Skyrim/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp)
 
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/README.md">Installation</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md">Installation</a> |
   <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/FAQ.md">FAQ</a> |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/CHANGELOG.md">Changelog</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/FAQ.md">FAQ</a> |
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/CHANGELOG.md">Changelog</a> |
   Performance Guide |
-  <a href="https://github.com/TwistedModding/TwistedModdingLists/blob/main/GAMEPLAY%20GUIDE.md">Gameplay Guide</a>
+  <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/GAMEPLAY%20GUIDE.md">Gameplay Guide</a>
 </p>
 
 ---
