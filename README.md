@@ -60,8 +60,6 @@ Twisted Skyrim is a a complete overhaul of Skyrim bringing fresh combat systems,
 
 The full modlist can be viewed [here](https://loadorderlibrary.com/lists/twisted-skyrim).
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
 ### System Requirements
 
 >  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
