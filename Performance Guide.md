@@ -43,32 +43,23 @@
 3. Open the `BethINI Standalone` folder.
 4. Open `BethINI.exe` **MAKE SURE MO2 IS CLOSED.**
 5. Ignore any updates BethINI prompts you with.
-6. Select the `Setup` tab.
+6. Select the `Edit` dropdown menu, and select `Setup`.
 7. Ensure the INI path is set properly, this will either be `\profiles\Twisted Skyrim\` or `\profiles\Twisted Skyrim SFW` depending on the profile you play on. For me it is `\profiles\Twisted Skyrim PERSONAL\` Since I have a personal version of my list I play on.
 8. Select the `Basic` tab.
-9. Select the `Medium` preset & tick `Recommended Tweaks` afterwards.
+9. Select the `Medium` preset & press the ` Apply Recommended Tweaks` button afterwards.
 10. Make sure `Borderless` is ticked & `64-Bit Render Targets` **Antialiasing set to TAA is recommended but not required.**
-11. Switch to the `Detail` tab
-12. Tick all the boxes under the `Water` section (Reflect trees, reflect objects, etc)
-13. `Godrays` to low
-14. `Particles` 6000 minimum
-15. `Decals`, `Depth of Field`, & `Anamorphic Lens Flare` Enabled. **ENABLE REGULAR LENS FLARE IF YOU DON'T PLAY WITH ENB
-16. `Shadow resolution` 2048 or lower, I don't recommend going lower than 2048
-17. `Shadow bias` 0.15
-18. `Detailed Draw Distance` 2000 or lower, I don't recommend lower than 2000.
-19. `Exterior Draw Distance` 6000 or lower, I don't recommend lower than 6000.
-20. Tick `Tree Shadows` & `Land Shadows`
-21. Untick `Ambient Occlusion` **LEAVE ENABLED IF YOU DON'T USE ENB**
-22. Tick `Screen Space Reflections`
-23. Set the `Reflection Divider` from anything between 1-9. 1 Looking the best, 9 the worst. Technically can go up to 18 if you desperately need performance, but not recommended to go beyond 9.
-24. `Object Fade` 15
-25. `Actor Fade` 12
-26. `Item Fade` 4.5
-27. `Light Fade` 30720
-28. `Flickering Light` 8192
-29. `Object Detail Fade` Ultra
-30. `Basic` tab
-31. Save and Exit
+11. Select the `Shadows` tab.
+12. Shadow bias `0.15`, Shadow filtering `4.0`.
+13. Detailed draw distance default is `2800`, I would not recommend going lower than `2000`
+14. Exterior draw distance default is `10000`, I would not recommend going lower than `6000`
+15. Make sure the ambient occlusion checkbox is unchecked. **You can leave this enabled if you disable ENB's ambient occlusion for more performance.** *This is recommended if you care more about performance than visuals*
+16. Go to the `Visuals` tab.
+17. Set godrays to `low`.
+18. Set particles to no lower than `6000`.
+19. Keep depth of field `on`, otherwise it will break the underwater shader.
+20. Set SSR Resolution Divider to 9, not recommended to go lower. *You can disable SSR all together by disabling the checkbox, however, it will make the game look a lot more flat.*
+21. Select the file dropdown menu and hit `save`.
+22. Close BethINI.
 
 ### Modifying ENB
 1. Navigate to the `Stock Game` folder. Mine is here: `E:\Twisted Skyrim\Stock Game`
@@ -86,6 +77,7 @@
 **Launch your game after these 2 steps to see if performance is satisfactory before continuing.** See [Disabling ENB OPTIONAL](#Disabling-ENB-OPTIONAL)
 
 ### Disabling ENB *OPTIONAL*
+**This list heavily relies on ENB features for certain effects, it is NOT recommended to disable it completely.**
 1. Navigate to the `Stock Game` folder. Mine is here: `E:\Twisted Skyrim\Stock Game`
 2. Change `d3d11.dll` to `d3d11.dll.bak` **This will need to be done every update**
 
@@ -128,28 +120,33 @@
 18. Disable the mod `xLODGen Resource - SSE Terrain Tamriel`
 
 ### TexGen
-1. Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/68518?tab=files) click manual download and extract the contents to whatever drive you want. **Make sure that it is the root directory of that drive such as C:/ or D:/**
-2. Where ever you extracted DynDOLOD, for me `C:/DynDOLOD`, navigate to `DynDOLOD_SSE.ini`. Mine is found here `"C:\Dyndolod\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini"`.
-3. Open the file
-4. Set `Expert=0` to `Expert=1` & `Level32=0` to `Level32=1` & `TreeLODComplexAtlas=0` to `TreeLODComplexAtlas=1`
-5. Save the file with ctrl+s and close it.
-6. Open MO2
-7. Select the dropdown menu
-8. Select `Edit`
-9. Look for TexGen, select it and where it says `Binary` make sure that matches to where you installed TexGen, for me `C:\Dyndolod\TexGenx64.exe`
-10. Look for DynDOLOD, select it and where it says `Binary` make sure that matches to where you installed DynDOLOD, for me `C:\Dyndolod\DynDOLODx64.exe`
-11. Make sure the `Arguements` for both programs have `-SSE`
-12. Apply and Ok.
-13. Locate the mod `TexGen Output` open it by holding CTRL and double clicking it. Delete everything in this folder.
-14. Locate the mod `DynDOLOD Output` open it by holding CTRL and double clicking it. Delete everything in this folder.
-15. Launch TexGen within MO2
-16. Make sure it matches mine **EXACTLY**
+1. Right click `SKSE Ouptut` and select `Open in Explorer`. 
+2. Follow this directory `C:\Twisted Skyrim\mods\SKSE Output\SKSE\Plugins\GrassControl.ini`.
+3. Open `GrassControl.ini`.
+4. Change `DynDOLOD-Grass-Mode = 1` to `DynDOLOD-Grass-Mode = 0`
+5. CTRL+S to save, then close.
+6. Go to [DynDOLODs mod page](https://www.nexusmods.com/skyrimspecialedition/mods/68518?tab=files) click manual download and extract the contents to whatever drive you want. **Make sure that it is the root directory of that drive such as C:/ or D:/**
+7. Where ever you extracted DynDOLOD, for me `C:/DynDOLOD`, navigate to `DynDOLOD_SSE.ini`. Mine is found here `"C:\Dyndolod\Edit Scripts\DynDOLOD\DynDOLOD_SSE.ini"`.
+8. Open the file
+9. Set `Expert=0` to `Expert=1` & `Level32=0` to `Level32=1` & `TreeLODComplexAtlas=0` to `TreeLODComplexAtlas=1`
+10. Save the file with ctrl+s and close it.
+11. Open MO2
+12. Select the dropdown menu
+13. Select `Edit`
+14. Look for TexGen, select it and where it says `Binary` make sure that matches to where you installed TexGen, for me `C:\Dyndolod\TexGenx64.exe`
+15. Look for DynDOLOD, select it and where it says `Binary` make sure that matches to where you installed DynDOLOD, for me `C:\Dyndolod\DynDOLODx64.exe`
+16. Make sure the `Arguements` for both programs have `-SSE`
+17. Apply and Ok.
+18. Locate the mod `TexGen Output` open it by holding CTRL and double clicking it. Delete everything in this folder.
+19. Locate the mod `DynDOLOD Output` open it by holding CTRL and double clicking it. Delete everything in this folder.
+20. Launch TexGen within MO2
+21. Make sure it matches mine **EXACTLY**
 
     <img width="396" alt="TexGenx64_Qtx353ZB5k" src="https://github.com/user-attachments/assets/781efad2-3149-441b-940c-2779739ed226">
 
-17. Click start and wait for it to finish.
-18. Go to your output folder, for me `C:\Dyndolod\TexGen_Output`
-19. Cut and paste the contents from there, to `E:\Twisted Skyrim\mods\TexGen Output`
+22. Click start and wait for it to finish.
+23. Go to your output folder, for me `C:\Dyndolod\TexGen_Output`
+24. Cut and paste the contents from there, to `E:\Twisted Skyrim\mods\TexGen Output`
 
 ### DynDOLOD
 **MAKE SURE STEPS 2-5 IN THE TEXGEN SECTION ARE COMPLETED BEFORE CONTINUING.**
