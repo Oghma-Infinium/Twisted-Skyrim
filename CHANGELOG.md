@@ -14,6 +14,44 @@
 
 # Changelog
 
+## 1.2.0.2
+
+Key Info
+
+**This update is save-safe.**
+* Added back the tools for the performance guide
+* Fixed install issues
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- 
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- 
+
+### Updated
+- Salmon Roe
+- Water for ENB
+- MFG Fix NG
+- Skypatcher
+- FDE Jenassa
+
+### Added
+- Sanquine Symphony Creature patch
+- World encounter noble riding horse fix
+- Dwarven Grenade
+
+### Removed
+- 
+
+</Details>
+
 ## 1.2.0.0
 
 Key Info
