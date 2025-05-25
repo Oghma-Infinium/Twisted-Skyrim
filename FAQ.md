@@ -56,6 +56,9 @@
 ### Q: Why do I have a box in the top right of my screen, or why is my UI not at the edge of my screen?
 > A: I only own 16:9 monitors and I don't care to support ultrawide, especially when there aren't patches for all the UI mods that I use.
 
+### Q: How do I swap to the NSFW profile, or vice-versa?
+> A: Open Mod Organizer. Somewhere along the top will show what profile you have selected, by default it should be `Twisted Skyrim SFW`. Just swap the drop-down and select the profile you want. It is not recommended to swap to the sfw profile, from the nsfw profile mid save. Swapping from the sfw to nsfw profile should work just fine; however, in both of these instances you are on your own for any issues that may arise. I'd recommend viewing the [safe-save guide](https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md#loading-your-saves-and-saving).
+
 # Known Issues
 
 ### [Insert Male NPC] looks like he has tits / has a really big chest and arms!
