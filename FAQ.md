@@ -59,6 +59,12 @@
 ### Q: How do I swap to the NSFW profile, or vice-versa?
 > A: Open Mod Organizer. Somewhere along the top will show what profile you have selected, by default it should be `Twisted Skyrim SFW`. Just swap the drop-down and select the profile you want. It is not recommended to swap to the sfw profile, from the nsfw profile mid save. Swapping from the sfw to nsfw profile should work just fine; however, in both of these instances you are on your own for any issues that may arise. I'd recommend viewing the [safe-save guide](https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md#loading-your-saves-and-saving).
 
+### Q: Install failed cause of google drive saying too many requests (or something similar)
+> A: [Try this.](https://www.reddit.com/r/google/comments/nfsgal/google_drive_download_quota_limit_exceeded_bypass/)
+
+### Q: Install failed because "Could not find a part of the path"
+> A: Delete the file mentioned in the log. Close and reopen Wabbajack, then rerun the installer with the same paths set. Make sure you have at least 80 gbs on your C drive, and plenty of space on your installation drive. If it keeps failing delete the entire `Temp_BSA_FILES` folder, close and reopen wabbajack, then rerun the installer again. If it continues to fail, restart your PC. 
+
 # Known Issues
 
 ### [Insert Male NPC] looks like he has tits / has a really big chest and arms!
