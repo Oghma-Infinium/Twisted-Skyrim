@@ -41,6 +41,9 @@ The following mods are considered the "foundations" of the combat and gameplay f
 - [BFCO - Attack Behavior Framework](https://www.nexusmods.com/skyrimspecialedition/mods/117052) introduces attack commitment to the game, for both NPCs and the Player. If you're familiar with MCO, this will be right at home for you.
   - Time your attacks precisely, aggresive NPCs can and will take advantage of poor planning.
 
+- [Stances NG](https://www.nexusmods.com/skyrimspecialedition/mods/117986) adds 3 different stances, which contain unique moveset for each weapon type. 
+  - Shift + X to swap stances.
+
 - [TK Dodge RE](https://www.nexusmods.com/skyrimspecialedition/mods/56956) adds dodging to the game
   - Adds I-Frames, which you should take advantage of.
   - Costs stamina, or magika depending on your class, be sure to manage your resources wisely.
@@ -80,7 +83,7 @@ Twisted Skyrim modifies the vanilla leveling system to have the player engage wi
 Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) and [Skyrim Skill Uncapper](https://www.nexusmods.com/skyrimspecialedition/mods/82558) to handle leveling and progression.
 
 - Experience introduces skill caps based on your player level, the formula is found below.
-  - `skillCap = 18 + (playerlevel * 2.00)`'
+  - `skillCap = 18 + (playerlevel * 2.00)`
 
 - Skyrim Uncapper introduces skill uncapping and a dynamic experience gain based on skill level. There are too many changes I've made to put here but the gist is this:
   - Skills cap at level 255, however, skill forumalas still cap out at 100, this means that skill-based damage will not go beyond what vanilla was intended for.

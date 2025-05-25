@@ -14,6 +14,50 @@
 
 # Changelog
 
+## 1.2.0.0
+
+Key Info
+
+**This update is NOT save safe.**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- [Fixed a crash during the Nettlebane quest](https://discord.com/channels/1285027986843893810/1369842454018134098)
+- [Fixed soultrap not working ](https://discord.com/channels/1285027986843893810/1370320872761589760)
+- [Fixed broken shaders on some trees in solstheim, and possibly other locations.](https://discord.com/channels/1285027986843893810/1373017380707504221)
+- [Fixed broken meshes on some cliffs in a CC](https://discord.com/channels/1285027986843893810/1373100971554504785)
+- [Fixed the broken Winterhold Spire mesh](https://discord.com/channels/1285027986843893810/1374516650090692718)
+- [Fixed the super zoomed in dwemer compass](https://discord.com/channels/1285027986843893810/1371955060346716361)
+- [Fixed unobtainable item for LOTD](https://discord.com/channels/1008047161281347606/1374727594829680701)
+- [Fixed werewolf attack bug](https://discord.com/channels/1008047161281347606/1375651623367475241)
+- [Fixed paralysis bug with frost spells](https://discord.com/channels/1008047161281347606/1375887584995053660) Thanks Aljo!
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- [The XP gain/leveling system](https://discord.com/channels/1285027986843893810/1371047542858715227) --> Leveling design has been reworked again, hopefully it feels better than before. If its still shitty(it probably is) I will likely switch to static skill leveling, but I'd really like this to work so give it a chance please!
+- Lowered the quality of terrain LOD. In exchange, I added back the grass LODs.
+- Probably more stuff, but you know, I'm the best changelogger in the world.
+
+### Updated
+- You don't want to know how many.
+
+### Added
+- Grass LODs.
+- Stances NG --> See directly below.
+- Tons of new movesets --> A full custom setup, unique to Twisted Skyrim. Gameplay guide will be updated.
+- Project Gap Close --> Should give NPCs the ability to better determine their distance between themselves and the player, and gapclosing accordingly. Harder fights.
+- Tons more.
+
+### Removed
+- Probably a few, I don't remember. I might be the GOAT of changelogs now that I think about it.
+
+</Details>
+
 ## 1.1.0.0
 
 Key Info
