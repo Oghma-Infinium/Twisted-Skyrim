@@ -68,9 +68,9 @@ The full modlist can be viewed [here](https://loadorderlibrary.com/lists/twisted
 
 | Spec Category | My Specs (2160p) | Recommended (1440p) |
 |     :---:    |     :---:     |     :---:     
-| **CPU**   | R7 7800X3D |  5800x3d |
+| **CPU**   | 7800X3D | 5800x3d |
 | **Video Card**    | 4090 | 4080S / 7000 radeon card |
-| **Ram**    | 64gb (2x32) | 32gb (2x16) OR (4x8) |
+| **Ram**    | 64gb (2x32) | 64gb (2x32) OR (4x16) |
 | **Storage**    | 4TB 990 Pro PCIE 4.0 | SSD WITH DRAM CACHE |
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
