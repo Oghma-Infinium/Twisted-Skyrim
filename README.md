@@ -265,7 +265,7 @@ Autosaves are disabled, make sure to save often and safely. Safe saving implies 
 
 I highly recommend if you want to reload a save at any point to restart your game before doing so. See [here](https://www.reddit.com/r/skyrimmods/comments/116raxm/psa_engine_bug_when_reloading_saves/) for more information on why. Technically you should be fine, as thousands of people have never encountered this bug on any wabbajack list. This is more of a FYI on the best saving/loading practices.
 
-### Updating save safe versions of the list
+### Updating save-safe versions of the list
 
 **PRE-UPDATE STEPS**
 
@@ -275,6 +275,12 @@ I highly recommend if you want to reload a save at any point to restart your gam
 4. Save the game
 5. Close the game
 6. Update the modlist, making sure to backup your saves just in case
+
+**Extra steps if you've done the performance guide** 
+1. Open all of your LOD outputs in file explorer. (XLODGEN, ROAD OUTPUT, TEXGEN, DYNDOLOD)
+2. Copy the contents to new folders somewhere on your system. (Make sure to keep them separate)
+3. Update the modlist as normal
+4. After the modlist has been updated, simply delete the contents of the outputs that ship with the list, and replace them with the ones you've previously generated.
 
 **POST-UPDATE STEPS**
 
