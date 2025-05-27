@@ -41,6 +41,9 @@
 ### Q: How can I change the first person camera settings?
 > A: Open the console and type `ic menu`. Alternatively, you can simply disable `Improved Camera` in mo2.
 
+### Q: What mod unpauses the menus? 
+> A: `Skyrim Souls RE Updated`, you can tweak its settings in `C:\Twisted Skyrim\mods\Skyrim Souls RE - Updated\SKSE\Plugins\SkyrimSoulsRE.ini`. From here you can modify which menus stay paused or unpaused.
+
 ### Q: When do dragons start spawning?  
 > A: By default, dragons are set to begin spawning once the player reaches level 10. Dragons will spawn at word walls before you encounter them in the wild.
 
