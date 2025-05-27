@@ -38,8 +38,8 @@
 ### Q: I don't like the 3rd person camera stuff, how can I change it?
 > A: Open up the MCM look for `smoothcam` and either play around with the settings on the currently selected preset, or try swapping to one of the other presets included.
 
-### Q: How can I change Improved Camera's settings?
-> A: Open the console and type `ic menu`.
+### Q: How can I change the first person camera settings?
+> A: Open the console and type `ic menu`. Alternatively, you can simply disable `Improved Camera` in mo2.
 
 ### Q: When do dragons start spawning?  
 > A: By default, dragons are set to begin spawning once the player reaches level 10. Dragons will spawn at word walls before you encounter them in the wild.
