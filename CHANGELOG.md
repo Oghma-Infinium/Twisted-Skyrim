@@ -14,6 +14,36 @@
 
 # Changelog
 
+## 1.2.1.0
+
+Key Info
+
+**This update is save-safe.**
+**Backup your saves and performance lods**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed orphan rock crash
+- fixed invisible hagraven making nettlebane unobtainable
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Nada
+
+### Updated
+- a couple tings
+
+### Added
+- a couple tings
+
+### Removed
+- 
+
 ## 1.2.0.2
 
 Key Info
