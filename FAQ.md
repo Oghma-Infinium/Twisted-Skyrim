@@ -45,7 +45,7 @@
 > A: `Skyrim Souls RE Updated`, you can tweak its settings in `C:\Twisted Skyrim\mods\Skyrim Souls RE - Updated\SKSE\Plugins\SkyrimSoulsRE.ini`. From here you can modify which menus stay paused or unpaused.
 
 ### Q: When do dragons start spawning?  
-> A: By default, dragons are set to begin spawning once the player reaches level 10. Dragons will spawn at word walls before you encounter them in the wild.
+> A: By default, dragons are set to begin spawning once the player reaches level 10. Dragons do however have set spawns in certain parts of the map, along with dragon burials. Venture carefully.
 
 ### Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
 > A: VIGILANT requires the player be level 25, completion of House of Horrors, and completion of Kindred Judgement (the final quest of Dawnguard DLC).
