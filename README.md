@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
   Installation |
-  <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
+  <a href="https://loadorderlibrary.com/lists/twisted-skyrim-2">Modlist</a> |
   <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/FAQ.md">FAQ</a> |
   <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/Performance%20Guide.md">Performance Guide</a> |
@@ -58,7 +58,7 @@ You can support me on my [Ko-Fi](https://ko-fi.com/twistedmodding1) or [Patreon]
 
 Twisted Skyrim is a a complete overhaul of Skyrim bringing fresh combat systems, resource management, new quests and lands, a COMPLETE visual overhaul, and so much more. Featuring Simonrim, BFCO, and True Directional Movement you'll feel like your playing a modern age Skyrim.
 
-The full modlist can be viewed [here](https://loadorderlibrary.com/lists/twisted-skyrim).
+The full modlist can be viewed [here](https://loadorderlibrary.com/lists/twisted-skyrim-2).
 
 ### System Requirements
 

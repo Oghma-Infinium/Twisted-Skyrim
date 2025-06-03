@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/87820](https://www.nexusmods.com/skyrimspecialedition/mods/132034">Nexus</a> |
   <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md">Installation</a> |
-  <a href="https://loadorderlibrary.com/lists/twisted-skyrim">Modlist</a> |
+  <a href="https://loadorderlibrary.com/lists/twisted-skyrim-2">Modlist</a> |
   FAQ |
   <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/CHANGELOG.md">Changelog</a> |
   <a href="https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/Performance%20Guide.md">Performance Guide</a> |
