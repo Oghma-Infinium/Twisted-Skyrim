@@ -48,7 +48,10 @@
 > A: By default, dragons are set to begin spawning once the player reaches level 10. Dragons do however have set spawns in certain parts of the map, along with dragon burials. Venture carefully.
 
 ### Q: I can't find Altano in the Windpeak Inn. / How do I start VIGILANT?  
-> A: VIGILANT requires the player be level 25, completion of House of Horrors, and completion of Kindred Judgement (the final quest of Dawnguard DLC).
+> A: VIGILANT requires the player be level 25 or higher, completion of The House of Horrors, Kindred Judgement (End of dawnguard DLC), and Censored Fate (DAC0da).
+
+### Q: How do I start dAc0da
+> A: dAc0da requires the player to be level 25 or higher, completion of The Horn of Jurgen Windcaller, The Eye of Magnus, and Arniel's Endeavour.
 
 ### Q: What is the Pilgrim skill / How do I access the Pilgrim skill tree?
 > A: The Pilgrim skill is added by [Pilgrim - Custom Skills Framework Addon](https://www.nexusmods.com/skyrimspecialedition/mods/93913) and acts as the way to progress the religion mechanic in the list. You can access the skill tree by using the **Pray** power while sneaking.

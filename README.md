@@ -42,7 +42,7 @@ You can support me on my [Ko-Fi](https://ko-fi.com/twistedmodding1) or [Patreon]
   - [Post-Installation and Optional Setup](#post-installation-and-optional-setup)
     - [Game Folder](#game-folder)
     - [Antivirus Exceptions](#antivirus-exceptions)
-    - [Widescreen Fixes](#-fixes)
+    - [Widescreen Fixes](#Widescreen-fixes)
     - [Controller and Gamepad Setup](#controller-and-gamepad-setup)
   - [Playing the List](#playing-the-list)
     - [Starting the Game](#starting-the-game)
@@ -238,7 +238,7 @@ If you use Windows Defender, it is advised that you set up an Exception for the 
 
 ### Widescreen Fixes
 
-Widescreen & Ultrawide compatibility are not currently being considered, maybe in the future I'll look into supporting them again.
+Basic 21x9 support is inculded in the list. Enable the mods `Edge UI - Modern Skyrim Interface 21x9` & `Edge UI - Explorer Addon 21x9` in MO2
 
 ### Controller and Gamepad Setup
 
@@ -256,8 +256,11 @@ This list will NOT officially add any controller or gamepad support. Currently t
  4. After Character Creation finishes, MCM Recorder will begin to run.
  5. Once the MCM Recorder finishes (you will get a notification saying "Twisted Skyrim has finished playing."). Click "Ok".
  6. Please wait until you receive a message saying "Museum list building complete."
- 7. Feel free to customize any MCM to your liking.
- 8. To leave the starting room speak to the Statue of Mara.
+
+- Open settings with `esc` and select `Mod Configuration`. Look for `MCM Recorder` and select `Twisted Skyrim`, close the menu and wait until its done.
+- Open the `Completionist: Tracker (Main)` mcm and under `General Settings` configure your `Faction & Start` settings according to your playthrough.
+- Once done, open the `Mod Configuration Menu` again, search for `MenuMaid2`, go to `Maintenance` and uncheck the `dismiss` box.
+- Have fun!
 
 ### Loading your saves and saving.
 

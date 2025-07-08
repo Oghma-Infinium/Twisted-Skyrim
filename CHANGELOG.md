@@ -14,6 +14,50 @@
 
 # Changelog
 
+## 1.3.0.0
+
+Key Info
+
+**This update is NOT save-safe**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Some crash fixes
+- Tons of clipping fixes (mountains, landscape, objects, etc.)
+- I was unaware I was over the MCM limit, this caused a couple problems which are now fixed.
+- Probably some other stuff I forgot
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Combat has been made more difficult
+- ENB stuff
+- LODs -> specifically trees should look much better
+- Performance should be better
+- Keybinds have been changed quite a bit -> I've finally added back the ability to use 'I' and 'K' for inventory and magic menus respectively.
+- Some manual MCM work is required now.
+
+### Updated
+- Yes
+
+### Added
+- Edge UI suite
+- Basic 21x9 support
+- Dac0da
+- More LOTD content
+- Olenveld
+- Menu Maid 2
+- Probably a lot more
+
+### Removed
+- Dear Diary suite
+
+</Details>
+
 ## 1.2.1.0
 
 Key Info

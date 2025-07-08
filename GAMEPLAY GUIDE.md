@@ -144,5 +144,7 @@ Using [Modern Combat AI](https://www.nexusmods.com/skyrimspecialedition/mods/747
 
 </Details>
 
+Beware the bears.
+
 # Summary
 Other than that, it should really just seem like your playing Skyrim after a while. Aside from these changes, I've tried to make the list in a way you can build your character however you want, side with whomever you want and do whatever you want.. Have fun!
