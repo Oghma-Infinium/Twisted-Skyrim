@@ -252,15 +252,12 @@ This list will NOT officially add any controller or gamepad support. Currently t
 
  1. Launch the "Play" Executable in MO2.
  2. Click "New Game".
- 3. Once the game loads, begin Character Creation.
- 4. After Character Creation finishes, MCM Recorder will begin to run.
- 5. Once the MCM Recorder finishes (you will get a notification saying "Twisted Skyrim has finished playing."). Click "Ok".
- 6. Please wait until you receive a message saying "Museum list building complete."
+ 3. Once the game loads, begin Character Creation. 
+ 4. After character creation wait about a minute for MCMs to populate.
+ 5. Open settings with `esc` and select `Mod Configuration`. Look for `MCM Recorder` and select `Twisted Skyrim`, close the menu and wait until its done.
+ 6. Open the `Completionist: Tracker (Main)` mcm and under `General Settings` configure your `Faction & Start` settings according to your playthrough.
+ 7. Once done, open the `Mod Configuration Menu` again, search for `MenuMaid2`, go to `Maintenance` and uncheck the `dismiss` box.
 
-- Open settings with `esc` and select `Mod Configuration`. Look for `MCM Recorder` and select `Twisted Skyrim`, close the menu and wait until its done.
-- Open the `Completionist: Tracker (Main)` mcm and under `General Settings` configure your `Faction & Start` settings according to your playthrough.
-- Once done, open the `Mod Configuration Menu` again, search for `MenuMaid2`, go to `Maintenance` and uncheck the `dismiss` box.
-- Have fun!
 
 ### Loading your saves and saving.
 
