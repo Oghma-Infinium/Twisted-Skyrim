@@ -184,6 +184,7 @@ Sometimes mods fail to download for various reasons, I will update and include s
 - [Paragon Sparrow Huntress](https://www.mediafire.com/file/ez44pa42bbinh0l/Paragon+Sparrow+Huntress.7z/file)
 - [OSimple Defeat](https://www.loverslab.com/files/file/32657-osimpledefeat-ostim-addon-for-acheron/?do=download&r=1956260&confirm=1&t=1&csrfKey=4d1f19cd330699cd97557955da2b1951)
 - [OSimple Assault](https://www.loverslab.com/files/file/32618-osimpleassault-ostim-addon-for-acheron/?do=download&r=1956259&confirm=1&t=1&csrfKey=4d1f19cd330699cd97557955da2b1951)
+- [Halos Poser Pack](https://www.loverslab.com/files/file/5051-halo-poser-se/?do=download&r=684897&confirm=1&t=1&csrfKey=4c3ef16dc2fc6dcf7bece61bc01d49bd)
 - [Mofu_EldenRing Attack Animations GreatSword SE MCO](https://drive.google.com/file/d/1cHuLCUzX_wXuyXZCSjU75OTL_rlz5WSE/)
 - [Neko's Poser Pack](https://www.mediafire.com/file/d29mvsta04l1wio/Nekos_Poser_Pack_1.1.7z/file)
 - [Screen Archer Menu](https://www.mediafire.com/file/qchk12cwaiuuknf/ScreenArcherMenuSkyrim0.5.1AE.zip/file)
