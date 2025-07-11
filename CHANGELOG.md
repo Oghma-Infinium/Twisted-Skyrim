@@ -14,6 +14,37 @@
 
 # Changelog
 
+## 1.3.0.3
+
+Key Info
+
+**This update is NOT save-safe**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed OStim and Racemenu undressing features
+- Fixed BFBs on a ton of NPCs
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- 
+
+### Updated
+- 
+
+### Added
+- 
+
+### Removed
+- 
+
+</Details>
+
 ## 1.3.0.0
 
 Key Info
