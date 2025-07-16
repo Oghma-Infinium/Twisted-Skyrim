@@ -14,6 +14,119 @@
 
 # Changelog
 
+## 1.3.1.0
+
+Key Info
+
+**This update is NOT save-safe**
+**Changed Potion Distribution mods, and animations associated with them, please report any bugs**
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed console commands sometimes not working (enter key being broken)
+- Fixed mismatching movesets for greatswords in bear/wolf stances
+- Black Face bug on Ashe
+
+### Known Issues
+- Wait menu is offset and a little buggy
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Regenerated Grass Cache
+- Regenerated xLODGEN
+- Regenerated ACMOS
+- Regenerated TexGen (Performance guide users need to do this)
+- Regenerated DynDOLOD (Performance guide users need to do this)
+- Regenerated ParallaxGen (Performance guide users need to do this)
+- Regenerated Pandora SFW & NSFW
+- Regenerated Synthesis patchers
+- Added back NPC dodging -> seems like its been missing for a couple updates and I haven't noticed
+- Updated the performance guide with new & reworked steps and some information
+- Resaved Arissa mods in the CK so they are now form 44 (no more mo2 warning, no actual impact in game)
+
+
+### Updated
+- [Sons of Skyrim - Complex Material and PBR](https://www.nexusmods.com/skyrimspecialedition/mods/137807)
+- [Horse Animation Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/140122)
+- [ESLifier](https://www.nexusmods.com/skyrimspecialedition/mods/145168)
+- [ESLifier MO2 Integration Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/126298)
+- [NPC Spell Variance - Spell Variety AI](https://www.nexusmods.com/skyrimspecialedition/mods/132097)
+- [Ashe - Crystal Heart](https://www.nexusmods.com/skyrimspecialedition/mods/135085)
+- [Lux - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/113002)
+- [Lux Orbis - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/114169)
+- [Explosion Collision Fix](https://www.nexusmods.com/skyrimspecialedition/mods/154076)
+- [Quest Dialogue Tags](https://www.nexusmods.com/skyrimspecialedition/mods/136591)
+- [Skypatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
+- [Skypatcher Keyword Framework](https://www.nexusmods.com/skyrimspecialedition/mods/127024)
+- [Creation Club Spell Knight Armor - Complex Material and PBR](https://www.nexusmods.com/skyrimspecialedition/mods/138709)
+- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+- [Widescreen Scale Removed for 1-6-1130 and higher](https://www.nexusmods.com/skyrimspecialedition/mods/136793)
+- [Chooey's Modular SMP Hairstyles Edit](https://www.nexusmods.com/skyrimspecialedition/mods/110414)
+- [Complex Material Hub](https://www.nexusmods.com/skyrimspecialedition/mods/135679)
+- [Description Framework Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/139077)
+- [OSL and B.O.O.B.I.E.S Keywords (KID) - Armor Mods Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/106672)
+- [Heels - Sound Record Distributor (SRD) - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/144402)
+- [Modex - A Mod Explorer Menu](www.nexusmods.com/skyrimspecialedition/mods/137877)
+- [SLO Aroused NG](https://www.nexusmods.com/skyrimspecialedition/mods/151502)
+- [Little Library](https://www.nexusmods.com/skyrimspecialedition/mods/135278)
+- [DynDOLOD 3 Alpha](https://www.nexusmods.com/skyrimspecialedition/mods/68518)
+- [CC Myrwatch SMIMed Candles](https://www.nexusmods.com/skyrimspecialedition/mods/154339)
+- [JK's Tel Mithryn](https://www.nexusmods.com/skyrimspecialedition/mods/151512)
+- [JK's Solitude Outskirts](https://www.nexusmods.com/skyrimspecialedition/mods/103209)
+- [Object Impact Framework (OIF)](https://www.nexusmods.com/skyrimspecialedition/mods/149484)
+- [JK's Sinderion's Field Laboratory](https://www.nexusmods.com/skyrimspecialedition/mods/68154)
+- [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
+- [Dynamic Feminine Female Modesty Animations OAR](https://www.nexusmods.com/skyrimspecialedition/mods/104374)
+- [Whiterun Watchtower Doesn't Start Broken](https://www.nexusmods.com/skyrimspecialedition/mods/49305)
+- [Smooth Moveset - OAR](https://www.nexusmods.com/skyrimspecialedition/mods/149713)
+- [Water Effects FIX](https://www.nexusmods.com/skyrimspecialedition/mods/153133)
+- [Jk's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/110645)
+
+### Added
+- [Dac0da English AI Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/154587)
+- [WiZkiD HQ Sovngarde](https://www.nexusmods.com/skyrimspecialedition/mods/154559)
+- [Ryn's Standing Stones](https://www.nexusmods.com/skyrimspecialedition/mods/64969)
+- [Ryn's Standing Stones Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/76913)
+- [Ultimate Animated Potions NG](https://www.nexusmods.com/skyrimspecialedition/mods/97674)
+- [NPCs Use Potions](https://www.nexusmods.com/skyrimspecialedition/mods/67489)
+- [UAPNG Potion Safety](https://www.nexusmods.com/skyrimspecialedition/mods/154629)
+- [Septimus Signus Outpost Door Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/154652)
+- [Ultimate Animated Potions NG - ElSopa - Potions](https://www.nexusmods.com/skyrimspecialedition/mods/97891)
+- [DAc0da - ElvenLabs Voiced](https://www.nexusmods.com/skyrimspecialedition/mods/154663)
+- [Scale Nord Armor](https://www.nexusmods.com/skyrimspecialedition/mods/41118)
+- [Scale Nord Armor - 3BA Bodyslide](https://www.nexusmods.com/skyrimspecialedition/mods/111345)
+- [NordwarUA Armor Hub - HIMBO Refit](https://www.nexusmods.com/skyrimspecialedition/mods/63624)
+- [Legacy of Ysgramor](https://www.nexusmods.com/skyrimspecialedition/mods/109963)
+- [Legacy of Ysgramor - 3BA Bodyslide](https://www.nexusmods.com/skyrimspecialedition/mods/111209)
+- [Legacy of Ysgramor - HIMBO Conversion](https://www.nexusmods.com/skyrimspecialedition/mods/110002)
+- [Legacy of Ysgramor - Complex Material and PBR](https://www.nexusmods.com/skyrimspecialedition/mods/138535)
+- [Steel Plate Armors](https://www.nexusmods.com/skyrimspecialedition/mods/154073)
+- [Steel Plate Armors - CBBE - 3BAv2 - Bodyslides](https://www.nexusmods.com/skyrimspecialedition/mods/154523)
+- [Steel Plate Armors - PBR and Complex Material](https://www.nexusmods.com/skyrimspecialedition/mods/154107)
+- [Steel Plate Armors for HIMBO](https://www.nexusmods.com/skyrimspecialedition/mods/154170)
+- [Floating Subtitles](https://www.nexusmods.com/skyrimspecialedition/mods/154424?)
+- [Target Focus](https://www.nexusmods.com/skyrimspecialedition/mods/67996)
+- [Screenshot Helper Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/154799)
+- [Skyrim Vocal Diversity](https://www.nexusmods.com/skyrimspecialedition/mods/150386)
+- A custom book containing all NPC resistances and weaknesses, along with some helpful tips.
+- [Mora Tapinella 4k](https://www.nexusmods.com/skyrimspecialedition/mods/13574)
+- [Heights of Skyrim - Diverse NPC Heights - SkyPatched](https://www.nexusmods.com/skyrimspecialedition/mods/154934)
+- [SKSE Auto Heels Sound](https://www.nexusmods.com/skyrimspecialedition/mods/154904)
+- [Improved Eye](https://www.nexusmods.com/skyrimspecialedition/mods/154829) 
+
+### Removed
+- [Animated Potions](https://www.nexusmods.com/skyrimspecialedition/mods/73819)
+- [Smart NPC Potions - Enemies Use Potions and Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/40102)
+- [Subtitles](https://www.nexusmods.com/skyrimspecialedition/mods/113214)
+- [Screenshot Helper](https://www.nexusmods.com/skyrimspecialedition/mods/64124)
+
+</Details>
+
 ## 1.3.0.3
 
 Key Info

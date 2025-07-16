@@ -14,7 +14,24 @@
 
 # Performance Guide
 
+## Contents
+- [Performance and YOU](#performance-and-you)
+- [Attention](#Attention)
+- [Modifying Game INIs](#Modifying-Game-INIs)
+- [Disabling your ENB](#Disabling-ENB-OPTIONAL)
+- [ParallaxGen](#Preface-LODs)
+- [LODS](#LODS)
+  - [xLODGEN](#xLODGEn)
+  - [TexGen](#TexGen)
+  - [DynDOLOD](#DynDOLOD)
+- [VRAMr](#VRAMr)
+- [Upscaler Info](#Upscalers)
+
 **Although this is made to be as clear as possible, if you aren't a tech savvy person or have never modded before this probably isn't for you. I won't babysit people step by step on what to do as the guide is pretty much as clear as it possibly can be.**
+
+## Performance and YOU
+
+I suggest getting an overlay that lets you see GPU & RAM usage, CPU usage, despite what people think does NOT matter for gaming. If your GPU usage sits at or above 98% consistently, then a GPU upgrade would help the most. If your GPU usage sits consistently sits BELOW ~98% then a CPU upgrade would benefit you, the ONLY CPUs I will recommend are the x3D chips from AMD (5800x3d, 7800x3d & 9800x3d). If your RAM is always filled, or almost always filled, a RAM upgrade would likely reduce stuttering
 
 ### Attention
 
@@ -23,16 +40,6 @@
 **Any deviation from this guide counts as an unauthorized modification of the list and thus breaks rule 11. Please seek help using the #changes-additions-rule-11 channel on the discord for further help.**
 
 **Most of these steps will need to be done after every update, I recommend backing up any changes so you can just copy and paste the files over the new update.**
-
-### Contents
-- [Attention](#Attention)
-- [Modifying Game INIs](#Modifying-Game-INIs)
-- [Disabling your ENB](#Disabling-ENB-OPTIONAL)
-- [LODS](#LODS)
-  - [xLODGEN](#xLODGEn)
-  - [TexGen](#TexGen)
-  - [DynDOLOD](#DynDOLOD)
-- [VRAMr](#VRAMr)
 
 ### Modifying Game INIs
 **MO2 uses a profile system, which means any ini edits you make will only effect that profile you are currently on, make sure you are on the desired MO2 profile before continuing.**
@@ -88,17 +95,27 @@
 4. Ctrl+S to save
 5. Exit
 
+# PREFACE LODs
+
+### Deleting Outputs
+1. Locate the mod `ParallaxGen Ouput` open it by holding CTRL and double clicking it. Delete the contents `Meshes` & `Textures`
+2. Do the same for the mods `xLODGEN Output` `Road Output` `TexGen Output` & `DynDOLOD Output`
+3. **Disable** the mod `ParallaxGen Ouput` after deleting its contents
+
+### Generating ParallaxGen
+1. Launch `ParallaxGen` from the dropdown menu in MO2, once opened select `Start Patching`
+2. Ignore any warnings/errors and once its done select any key on your keyboard to close the command prompt
+3. Reenable `ParallaxGen Ouput` and make sure its plugins are enabled and loaded last in the plugins tab of MO2
+
 # LODS 
 
 ### xLODGEN
 1. Select the drop down menu in MO2, select `edit` in the `Arguments` section on xLODGen, make sure it looks like this: `-SSE -o:"C:\Users\jlbom\Desktop\xlodgen"` changing the given directory to match a similar place on your computer OUTSIDE of MO2. I recommend keeping it at your desktop.
 2. Hit `apply` and `ok`.
-3. Locate the mod `xLODGen Output` open it by holding CTRL and double clicking it. Delete the contents `Meshes` & `Textures`
-4. Do the same for the mods `Road output` `TexGen Output` & `DynDOLOD Output`
-5. Enable the mod `xLODGen Resource - SSE Terrain Tamriel` if its not present in the load order, download from [here](https://www.nexusmods.com/skyrimspecialedition/mods/54680?tab=files) select the `SSE Terrain Tamriel Extend` version to download, install and enable it within MO2.
-6. Make sure the plugin `SSE-Terrain-Tamriel-Extend.esm` is enabled in the right pane of MO2 (plugins list).
-7. Launch xLODGen within MO2
-8. Copy the settings below EXACTLY,
+3. Enable the mod `xLODGen Resource - SSE Terrain Tamriel` if its not present in the load order, download from [here](https://www.nexusmods.com/skyrimspecialedition/mods/54680?tab=files) select the `SSE Terrain Tamriel Extend` version to download, install and enable it within MO2.
+4. Make sure the plugin `SSE-Terrain-Tamriel-Extend.esm` is enabled in the right pane of MO2 (plugins list).
+5. Launch xLODGen within MO2
+6. Copy the settings below EXACTLY,
     
 <img width="451" alt="xLODGenx64_gd9DQvWwwL" src="https://github.com/user-attachments/assets/83b61ae7-8eaf-4891-889a-c004abe17d37">
 <img width="451" alt="xLODGenx64_XVMmTC8bnB" src="https://github.com/user-attachments/assets/cb7dd710-fda0-4334-ae62-0de79783e861">
@@ -167,8 +184,14 @@
 12. Refresh MO2 by clicking `F5` or just restart MO2
 13. Enable the plugins `DynDOLOD.esm`, `DynDOLOD.esp` & `Occlusion.esp`
 
+### Final step
+1. Make sure `DynDOLOD.esm` is loaded as late as it can be in the plugins tab of MO2. Mine for reference is loaded right AFTER the `Lux` separator in the plugins tab of MO2.
+2. Make sure at the bottom of your load order you have the following plugins: `ParallaxGen.esp` `PG_1.esp` `DynDOLOD.esp` `Occlusion.esp`  <---- **MAKE SURE THEY ARE IN THAT ORDER
 
 # VRAMr
+
+**NOTE** *This tool has been reported to cause crashes when used with this list, before reporting any bugs, please make sure the crash happens without the output enabled.*
+
 A tool that I've never personally used, but have heard it works fairly well.
 [VRAMr](https://www.nexusmods.com/skyrimspecialedition/mods/90557)
 
@@ -177,3 +200,10 @@ VRAMr includes a user guide on the mod page, you should direct any and all quest
 With that said, it can take VRAM usage down as much as 10 gbs and make the list playable on much lower end hardware. It can take several hours and will signifcantly increase the amount of space needed for the list since (i think) outputs all textures to a new mod instead of replacing existing ones (which is a good thing, just takes up space obviously). 
 
 I'd suggest only running this if the rest of the performance guide did not do a good enough job at making the list playable on your hardware.
+
+# Upscalers
+
+**I do not provide any support with upscalers**
+
+Both Puredark's and Doodlum's upscalers have issues of their own that may cause crashes or other oddities when using them in this list, I **DO NOT** recommend using either. You *can* try lossless scaling, but I haven't had amazing luck using it and getting good results in my own game.
+

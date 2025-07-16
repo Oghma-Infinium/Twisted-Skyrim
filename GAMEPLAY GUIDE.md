@@ -136,6 +136,8 @@ Potions have been signficantly buffed due to the damage and health changes by Sk
 
 [Dragon War](https://www.nexusmods.com/skyrimspecialedition/mods/51310) completely overhauls dragon behaviors and resistances. The dragon fights are much more unpredictable and difficult. Reading through this is basically required as without knowing resistances, you're in for a very long fight.
 
+[Skybane - The Logic of Death](https://www.nexusmods.com/skyrimspecialedition/mods/154357) completely overhauls NPC resistances (all of those except dragons). Everything now has a weakness, but is also will have resistances. This means that carrying multiple damage types is highly recommended. 
+
 <Details>
   
 <summary>AI</summary>
