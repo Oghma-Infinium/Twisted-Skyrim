@@ -98,7 +98,7 @@ I suggest getting an overlay that lets you see GPU & RAM usage, CPU usage, despi
 # PREFACE LODs
 
 ### Deleting Outputs
-1. Locate the mod `ParallaxGen Ouput` open it by holding CTRL and double clicking it. Delete the contents `Meshes` & `Textures`
+1. Locate the mod `ParallaxGen Ouput` open it by holding CTRL and double clicking it. Delete everything in the folder.
 2. Do the same for the mods `xLODGEN Output` `Road Output` `TexGen Output` & `DynDOLOD Output`
 3. **Disable** the mod `ParallaxGen Ouput` after deleting its contents
 
