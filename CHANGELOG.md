@@ -14,6 +14,47 @@
 
 # Changelog
 
+## 1.3.1.1
+
+Key Info
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed a crash when selling items
+- Fixed being unable to see the distance to a location on the compass
+
+### Known Issues
+- Wait menu is offset and a little buggy
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Regenerated ParallaxGen and forwarded changes to DynDOLOD.esp -> this is needed for performance guide users, or just regenerate *only* DynDOLOD. If regenerating DynDOLOD, [follow this guide](https://dyndolod.info/Help/Clean-Save) if doing it on an existing save.
+- Lowered the compass a little bit
+
+### Updated
+- Heels Sound Volume
+- Floating Subtitles
+- Whiterun Watchtower Doesn't Start Broken
+- Weapons and Armors Remastered - PBR and Complex Materials
+- JK's Solitude Outskirts
+- Seamless Dynamic Cubemaps
+- SKSE Auto Heels Sound
+- JK's Fort Dawnguard - Immersive Fort Dawnguard Mashup and Patch Collection
+- a couple other things
+
+### Added
+- i forgor
+
+### Removed
+- Skyrim Souls RE (to fix a crash)
+
+</Details>
+
 ## 1.3.1.0
 
 Key Info
