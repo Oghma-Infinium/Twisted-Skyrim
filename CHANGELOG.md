@@ -14,6 +14,53 @@
 
 # Changelog
 
+## 1.3.2.0
+
+Key Info
+ * Technically save-safe, although a new save is recommended.
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed purple argonian tails and toes
+- Fixed purple overlays on some npcs
+- Fixed Ashe black face bug
+- Fixed Lucien black face bug
+- Fixed partially missing horse tails
+- Fixed purple Dibella statues
+- Fixed broken parallax on some objects
+- Fixed Arissa's missing hair, eyes and teeth
+- Fixed black face bug on a random npc in falkreath (forgot bros name)
+- Hopefully fixed all install issues
+- Maybe fixed/lessened stuttering for people with systems with the recommended specs or better
+
+### Known Issues
+- Wait menu is offset and a little buggy
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Regenerated texgen, dyndolod and parallaxgen. -> Performance guide users need to do this if updating.
+- Lots of conflict resolution that was missing
+- Leveled lists repatched, progression should be a bit more consistent, and mod added armors + cc stuff should start appearing on NPCs.
+
+### Updated
+- Improved Camera
+- Yes
+
+### Added
+- Readded Skyrim Souls RE + my own fixed version of it, hopefully no more crashes from it!
+- Probably some other stuff
+- Valorbound -> Reworks encounter zones to make them more challenging. See gameplay guide
+
+### Removed
+- A good handful of unused SKSE plugins.
+
+</Details>
+
 ## 1.3.1.1
 
 Key Info

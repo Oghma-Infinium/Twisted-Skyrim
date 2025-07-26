@@ -99,6 +99,10 @@ Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/
 
 - There are many generic, custom, and vanilla followers in the list and I highly suggest you make use of them, taking on big foes without them will prove very difficult, and even bandit camps will be difficult due to being out-numbered.
 
+- For more information on how loot gets distributed, see [Open World Loot's modpage](https://www.nexusmods.com/skyrimspecialedition/mods/49681)
+
+- Encounter zones have also been overhauled by [Valorbound](https://www.nexusmods.com/skyrimspecialedition/mods/155430). All encounter zones are treated as such: Min level +5 & no max level. What this means is say you walk into Bleak Falls Barrows at level 30, it sets the zone of that dungeon at level 30 and locks it to that. If you enter it at level 1, but the min level is 10. It will be locked at level 15 (10+5). This affects NPC levels, and what variant of an NPC will spawn in any given location. It should create a more challenging experience for the whole playthrough no matter where you are. For more details, see the mod page.
+
 </details>
 
 ### Perks
