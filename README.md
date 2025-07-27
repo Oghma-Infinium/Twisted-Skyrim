@@ -157,6 +157,10 @@ The English Steam version of Skyrim is the only supported version. I understand 
  7. Wait for the download process to complete. **Do NOT ALT-TAB during this process as it will cause the process to fail and you will have to start over again.**
  8. Proceed with the rest of the installation.
 
+ #### Installing Creation Kit
+
+Make sure you also have the Special Edition version of the Creation kit found [here](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/). Install it in the same location/drive where you have Skyrim installed.
+
 ### Wabbajack Installation
 
 #### Installing Wabbajack
