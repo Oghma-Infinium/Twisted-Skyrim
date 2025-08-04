@@ -20,6 +20,9 @@
 ### Q: What do I do if my game crashes?
 > A: Post the crashlog, found here C:\Users\{USERNAME}\Documents\My Games\Skyrim Special Edition\SKSE, along with any changes done to the MCM or modlist to the [GitHub issues page](https://github.com/Oghma-Infinium/Twisted-Skyrim/issues) or in the [discord support channel](https://discord.com/channels/1008047161281347606/1374528223706349679).
 
+### Q: My game is loading forever at the main menu and/or crashing before it.
+> A: If you are 100% sure you read through the entire readme and have all prerequisites, the only way to fix this is to reinstall Windows. 
+
 ### Q: What is performance like?
 > A: Extremely system dependent, see the readme for my specs and recommended specs
 
