@@ -62,25 +62,29 @@ The full modlist can be viewed [here](https://loadorderlibrary.com/lists/twisted
 
 ### System Requirements
 
->  Please note these specs are the best idea of a baseline that I can provide at the current moment, based on feedback I have gotten from testers and my own experiences. In the future this will be updated depending on feedback received.
+>![WARNING]
+>This list **must** be installed on SSD;however, you can send your downloads to a different drive, such as a hard drive if you need the extra space.
 
-**THESE ARE DESKTOP RECOMMENDED SPECS, THIS LIST WILL NOT WORK ON LAPTOPS**
+>[!WARNING]
+>You must update Skyrim to the latest version (1.6.1170) on Steam to install this list.
 
-| Spec Category | My Specs (2160p) | Recommended (1440p) |
-|     :---:    |     :---:     |     :---:     
-| **CPU**   | 7800X3D | 5800x3d |
-| **Video Card**    | 4090 | 4080S / 7000 radeon card |
-| **Ram**    | 64gb (2x32) | 64gb (2x32) OR (4x16) |
-| **Storage**    | 4TB 990 Pro PCIE 4.0 | SSD WITH DRAM CACHE |
+| Spec Category | My Specs (2160p) |
+|     :---:    |     :---:     |
+| **CPU**   | 7800X3D |
+| **Video Card**    | 4090 |
+| **Ram**    | 64gb (2x32) |
+| **Storage**    | 4TB 990 Pro PCIE 4.0 |
+
+>  For reference, I get 40+ fps outdoors at 4k, and almost always 60+ indoors at the settings shipped with the list. These are **NOT** the recommended specs, I have no way of knowing whether or not it will run on your system, but the list was made with **MY** specs in mind.
 
 Please note that the below numbers are current estimates and the actual may be larger or smaller depending on version.
 
-Downloads: ~360 GB  
-Install: ~571 GB  
+Downloads: ~469 GB  
+Install: ~821 GB  
 Temp Files: ~100 GB (on OS drive)  
 Pagefile: 40 gbs
 
-**TOTAL:** ~1 TB  
+**TOTAL:** ~1.2 TB  
 
  > Wabbajack requires around 30-40 GB of space on your main OS drive for temporary and working files during the installation. This space is not counted towards the total install space of the list for sake of this guide, however Wabbajack roughly accounts for it in the UI.
 

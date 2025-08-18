@@ -14,6 +14,48 @@
 
 # Changelog
 
+## 1.4.0.0
+
+Key Info
+ * not save-safe
+ 
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed some broken parallax
+- Fixed neck seams
+- Fixed floating objects
+- Fixed clipping objects
+- Fixed some missing faces on khajiit npcs
+- Fixed unobtainable quest item
+- Fixed Purple ore textures in some places
+- Fixed Arondil not spawning with an outfit
+- "Fixed" the broken map
+
+### Known Issues
+- If picking flowers and some other objects up in third person, your movement will be locked until you jump.
+
+</Details>
+<Details>
+<summary>Changes</summary>
+
+### Changed
+- Completely redid NPC patches and appearances, every unique NPC has a hand-picked replacer now
+- Swapped a texture in whiterun for consistency
+- Swapped mountain textures
+
+### Updated
+- A lot
+
+### Added
+- A lot
+
+### Removed
+- idk
+
+</Details>
+
 ## 1.3.2.0
 
 Key Info
