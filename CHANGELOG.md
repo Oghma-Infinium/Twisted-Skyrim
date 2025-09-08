@@ -17,6 +17,7 @@
 ## 1.4.0.0
 
 Key Info
+
  * not save-safe
  
 <Details>
@@ -59,6 +60,7 @@ Key Info
 ## 1.3.2.0
 
 Key Info
+
  * Technically save-safe, although a new save is recommended.
  
 <Details>
