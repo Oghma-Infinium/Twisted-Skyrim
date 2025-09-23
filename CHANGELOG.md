@@ -14,8 +14,45 @@
 
 # Changelog
 
+## 1.5.0.1
+
+Key Info 
+
+* Save-safe, you don't need to update to this version from 1.5.0.0 if you aren't experiencing any issues.
+* Disabled photo mode by default to solve a crash. 
+
+<details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Disabled photo mode by default to solve a crash. It is now an optional mod
+
+### Changes
+- None
+
+### Known Issues
+- There may be some clipping or other oddities around the museum in solitude (LOTD). I made it as good as it can be while I wait for the official patch to be released.
+
+</details>
+
+<details>
+<summary>Changes</summary>
+
+### Updated
+- None
+
+### Added
+- None
+
+### Removed
+- None
+
+</Details>
+
 ## 1.5.0.0
+
 Key Info
+
  * NOT save-safe.
  * BSA'd the entire list, load time to the main menu should be lower.
  * Several gameplay mechanic changes, see the [gameplay guide](https://twistedskyrim.com/#gameplay) for more info.
@@ -343,6 +380,7 @@ Key Info
 - [Experience v3.2.0](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
 - [KreatE v1.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/83757)
 - [VIGILANT SE v1.7.3](https://www.nexusmods.com/skyrimspecialedition/mods/11849)
+
 
 </Details>
 
