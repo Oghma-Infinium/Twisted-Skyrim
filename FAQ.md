@@ -74,6 +74,9 @@
 ### Q: Install failed because "Could not find a part of the path"
 > A: Delete the file mentioned in the log. Close and reopen Wabbajack, then rerun the installer with the same paths set. Make sure you have at least 80 gbs on your C drive, and plenty of space on your installation drive. If it keeps failing delete the entire `Temp_BSA_FILES` folder, close and reopen wabbajack, then rerun the installer again. If it continues to fail, restart your PC. 
 
+### Q: Why can't I shout at the greybeards for A Way of the Voice
+> A: Sneak/crouch and then shout, its a friendly fire mod.
+
 # Known Issues
 
 ### [Insert Male NPC] looks like he has tits / has a really big chest and arms!

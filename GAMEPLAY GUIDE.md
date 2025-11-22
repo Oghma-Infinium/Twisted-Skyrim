@@ -12,11 +12,9 @@
 
 ---
 
-
 <p align="center">
  IN PROGRESS
 </p>
-
 
 # Gameplay guide
 
@@ -109,7 +107,7 @@ Twisted Skyrim uses [Experience](https://www.nexusmods.com/skyrimspecialedition/
 <details>
 <Summary>Adamant</Summary>
 
-Twisted Skyrim uses [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191), [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) and [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) for its regular, vampire, and werewolf perk systems(respectively) which are overall much more balanced, and each perk actually impacts gameplay significantly. They rework all of the existing trees and I highly recommend reading through it.
+Twisted Skyrim uses [Paragon](https://www.nexusmods.com/skyrimspecialedition/mods/120398), [Scion](https://www.nexusmods.com/skyrimspecialedition/mods/41639) and [Manbeast](https://www.nexusmods.com/skyrimspecialedition/mods/44746) for its regular, vampire, and werewolf perk systems(respectively) which are overall much more balanced, and each perk actually impacts gameplay significantly. They rework all of the existing trees and I highly recommend reading through them all.
 
 </details>
 
@@ -132,7 +130,7 @@ To elaborate on AI more, put simply, they are much more aggresive. They use all 
 
 A poise system has been added, and if the enemies (or yours) poise gets broken, a stagger will occur which is an opportunity for you, or them to attack without punishment. Archers can take advantage of headshots to deal bonus poise damage to keep them off of you for longer.
 
-Dodging is not locked behind any perks or powers simply because its too important for all types of builds, there is a fairly long delay after a dodge is performed before you can use it again, or move at all to promote intelligent use of it rather than spamming.
+Dodging is locked behind the level 40 sneak perk for sneak dodge rolling.
 
 [SkyValor](https://www.nexusmods.com/skyrimspecialedition/mods/106240) changes experience gain, damage, health pools, resource regeneration, and much more. Give it a thorough read.
 

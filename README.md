@@ -265,7 +265,6 @@ This list will NOT officially add any controller or gamepad support. Currently t
  4. After character creation wait about a minute for MCMs to populate.
  5. Open settings with `esc` and select `Mod Configuration`. Look for `MCM Recorder` and select `Twisted Skyrim`, close the menu and wait until its done.
  6. Open the `Completionist: Tracker (Main)` mcm and under `General Settings` configure your `Faction & Start` settings according to your playthrough.
- 7. Once done, open the `Mod Configuration Menu` again, search for `MenuMaid2`, go to `Maintenance` and uncheck the `dismiss` box.
 
 
 ### Loading your saves and saving.
