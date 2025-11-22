@@ -12,7 +12,7 @@
 
 ---
 
-# Attention
+# Documentation has been moved to: 
 
 https://twistedskyrim.com/
 
