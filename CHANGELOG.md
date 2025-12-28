@@ -14,6 +14,75 @@
 
 # Changelog
 
+## 1.6.1.1
+Key Info
+ * Recommend making a new save if updating from 1.6.x
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- [Fixed PC covering private parts even when fully clothed](https://discord.com/channels/1008047161281347606/1374528057595134074/1454641359058112552)
+
+### Changes
+- None
+
+### Known Issues
+- Compass disappears when opening the quest journal with `J`, just click escape to bring it back
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- [Racial Skin Variance - SPID to v2.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/81668)
+- [Ostim Standalone Sound Overhaul to v1.5](https://www.nexusmods.com/skyrimspecialedition/mods/120663)
+- [Actor Value Generator to v1.9.5.4](https://www.nexusmods.com/skyrimspecialedition/mods/84743)
+- [Rotols Additional Icons to v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [State Behavior Framework to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/164546)
+- [Modesty Toggle to v1.3](https://www.nexusmods.com/skyrimspecialedition/mods/137555)
+- [Gore to v1.532](https://www.nexusmods.com/skyrimspecialedition/mods/85298)
+- [Animation Ledge Block NG to v0.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/148203)
+- [Mu Facial Expression Extended - MFEE to v0.3.5](https://www.nexusmods.com/skyrimspecialedition/mods/109636)
+- [First Person (FP) Inertia - SKSE to v1.02](https://www.nexusmods.com/skyrimspecialedition/mods/167883)
+- [Ashe - Crystal Heart to v1.0.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/135085)
+- [Ashe - Crystal Heart to v1.0.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/135085)
+- [Pandora Behaviour Engine Plus to vv2.4.0-beta](https://www.nexusmods.com/skyrimspecialedition/mods/133232)
+- [Complete Vanilla Eye Overhaul (CVEO) by LDD to v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/160705)
+- [SkyFixes to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/144009)
+- [Nordic Stonewalls Complex Parallax Material to v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/127188)
+
+### Added
+- [JellyFish Ultimate Animated Potions NG v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/168108)
+- [DAC0DA - Rolls-On-Roads Visual Overhaul v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/168203)
+- [Dac0da - TrueHUD Boss Bars v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/168268)
+
+### Removed
+- [Animation Ledge Block NG v0.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/148203)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Actor Value Generator v1.9.5.4](https://www.nexusmods.com/skyrimspecialedition/mods/84743)
+- [Animation Ledge Block NG v0.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/148203)
+- [Mu Facial Expression Extended - MFEE v0.3.5](https://www.nexusmods.com/skyrimspecialedition/mods/109636)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Nordic Stonewalls Complex Parallax Material v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/127188)
+- [Ostim Standalone Sound Overhaul v1.5](https://www.nexusmods.com/skyrimspecialedition/mods/120663)
+- [Racial Skin Variance - SPID v2.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/81668)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [Actor Value Generator v1.9.5.4](https://www.nexusmods.com/skyrimspecialedition/mods/84743)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+- [SkyFixes v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/144009)
+- [Rotols Additional Icons v1.0.0.5](https://www.nexusmods.com/skyrimspecialedition/mods/113657)
+
+</Details>
+
 ## 1.6.1.0
 Key Info
  * Maintenance/Bug Fix update
