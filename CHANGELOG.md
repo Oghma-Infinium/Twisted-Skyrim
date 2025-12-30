@@ -1497,7 +1497,7 @@ Key Info
 
 Key Info
 
- - not save-safe
+- not save-safe
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1540,7 +1540,7 @@ Key Info
 
 Key Info
 
- - Technically save-safe, although a new save is recommended.
+- Technically save-safe, although a new save is recommended.
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1629,8 +1629,8 @@ Key Info
 
 Key Info
 
-**This update is NOT save-safe**
-**Changed Potion Distribution mods, and animations associated with them, please report any bugs**
+- **This update is NOT save-safe**
+- **Changed Potion Distribution mods, and animations associated with them, please report any bugs**
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1742,7 +1742,7 @@ Key Info
 
 Key Info
 
-**This update is NOT save-safe**
+- **This update is NOT save-safe**
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1773,7 +1773,7 @@ Key Info
 
 Key Info
 
-**This update is NOT save-safe**
+- **This update is NOT save-safe**
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1817,8 +1817,8 @@ Key Info
 
 Key Info
 
-**This update is save-safe.**
-**Backup your saves and performance lods**
+- **This update is save-safe.**
+- **Backup your saves and performance lods**
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1849,7 +1849,7 @@ Key Info
 
 Key Info
 
-**This update is save-safe.**
+- **This update is save-safe.**
 - Added back the tools for the performance guide
 - Fixed install issues
  
@@ -1887,7 +1887,7 @@ Key Info
 
 Key Info
 
-**This update is NOT save safe.**
+- **This update is NOT save safe.**
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1972,7 +1972,7 @@ Key Info
 
 Key Info
 
-**This update is NOT save safe if updating from pre 1.0, 1.0 beta testers can safely update as long as they are loading a save that was taken indoors.**
+- **This update is NOT save safe if updating from pre 1.0, 1.0 beta testers can safely update as long as they are loading a save that was taken indoors.**
 
 - This is a *highly- recommended update, several crashes have been fixed and other long-standing bugs.
 - Performance is significantly better in certain locations like outside of Whiterun and Markarth.
