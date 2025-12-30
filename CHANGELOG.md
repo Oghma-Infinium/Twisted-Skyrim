@@ -129,7 +129,7 @@ Key Info
 ## 1.6.1.0
 Key Info
 - Maintenance/Bug Fix update
- - Should be save-safe -> I still recommend making a new save. [Follow this guide if keeping your save.](https://discord.com/channels/1008047161281347606/1444143203073785947)
+- Should be save-safe -> I still recommend making a new save. [Follow this guide if keeping your save.](https://discord.com/channels/1008047161281347606/1444143203073785947)
 
 <Details>
 <summary>Patch Notes</summary>
@@ -1162,10 +1162,10 @@ Key Info
 
 Key Info
 
- - NOT save-safe.
- - BSA'd the entire list, load time to the main menu should be lower.
- - Several gameplay mechanic changes, see the [gameplay guide](https://twistedskyrim.com/#gameplay) for more info.
- - All documentation has now been moved to the [website](https://twistedskyrim.com/), information found on the github page should be considered out of date.
+- NOT save-safe.
+- BSA'd the entire list, load time to the main menu should be lower.
+- Several gameplay mechanic changes, see the [gameplay guide](https://twistedskyrim.com/#gameplay) for more info.
+- All documentation has now been moved to the [website](https://twistedskyrim.com/), information found on the github page should be considered out of date.
 
 <Details>
 <summary>Patch Notes</summary>
@@ -3045,7 +3045,7 @@ Key Info
 
 Key Info
 
- - **This update is save game compatible.**
+- **This update is save game compatible.**
 
 
 <Details>
@@ -3058,7 +3058,7 @@ Key Info
 <summary>Changes</summary>
 
 ### Changed
- - ASLAL - Removed most alternate starts for the sake of consistency and balance.
+- ASLAL - Removed most alternate starts for the sake of consistency and balance.
 
 ### Updated
 - 
@@ -3083,7 +3083,7 @@ Key Info
 
 Key Info
 
- - **This update is save game compatible.**
+- **This update is save game compatible.**
 
 <Details>
 <summary>Patch Notes</summary>
@@ -3111,7 +3111,7 @@ Key Info
 
 Key Info
 
- - **This update is save game compatible.**
+- **This update is save game compatible.**
 
 <Details>
 <summary>Patch Notes</summary>
@@ -3138,7 +3138,7 @@ Key Info
 
 Key Info
 
- - **This update is save game compatible.**
+- **This update is save game compatible.**
 
 <Details>
 <summary>Patch Notes</summary>
