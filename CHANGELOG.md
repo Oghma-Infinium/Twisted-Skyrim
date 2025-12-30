@@ -14,6 +14,49 @@
 
 # Changelog
 
+## 1.6.1.2
+Key Info
+ * Save-safe if updating from 1.6.1.1
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- [Fixed dual wield bug](https://discord.com/channels/1008047161281347606/1455082212251926569) 
+
+### Changes
+- None
+
+### Known Issues
+- Compass disappears when opening the quest journal with `J`, just click escape to bring it back
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- [Frozen Electrocuted Combustion to v5.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/3532)
+- [Flufy Fox Poser for PoserHotkey Plus SE to v3.3.2](https://www.nexusmods.com/skyrimspecialedition/mods/52338)
+- [C.O.C.K.S.ified to v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/150107)
+- [Sonders Keyword Distribution Resources to v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/93995)
+- [Ghastly's Open World Loot Creation Club Patches to v1.0.10](https://www.nexusmods.com/skyrimspecialedition/mods/59014)
+- [Actor Value Generator to v1.9.5.4](https://www.nexusmods.com/skyrimspecialedition/mods/84743)
+- [PaulMix's dTry Key Utils extend to v2.1](https://www.nexusmods.com/skyrimspecialedition/mods/141040)
+- [Utenlands Nordic Tents - Replacer and Campfire Addon to v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/121203)
+
+### Added
+- [Wonderland Lingerie v3.0](https://www.nexusmods.com/skyrimspecialedition/mods/56285)
+- [Open World Loot - Various Patches Fixed v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/92490)
+- [Open World Loot - Various Patches Fixed v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/92490)
+
+### Removed
+- [Ghastly's Open World Loot Creation Club Patches v1.0.10](https://www.nexusmods.com/skyrimspecialedition/mods/59014)
+- [C.O.C.K.S.ified v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/150107)
+- [Sonders Keyword Distribution Resources v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/93995)
+
+</Details>
+
 ## 1.6.1.1
 Key Info
  * Recommend making a new save if updating from 1.6.x
