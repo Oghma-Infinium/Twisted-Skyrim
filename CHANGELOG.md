@@ -16,7 +16,7 @@
 
 ## 1.6.1.2
 Key Info
- * Save-safe if updating from 1.6.1.1
+ - Save-safe if updating from 1.6.1.1
 
 <Details>
 <summary>Patch Notes</summary>
@@ -59,7 +59,7 @@ Key Info
 
 ## 1.6.1.1
 Key Info
- * Recommend making a new save if updating from 1.6.x
+ - Recommend making a new save if updating from 1.6.x
 
 <Details>
 <summary>Patch Notes</summary>
@@ -128,8 +128,8 @@ Key Info
 
 ## 1.6.1.0
 Key Info
- * Maintenance/Bug Fix update
- * Should be save-safe -> I still recommend making a new save. [Follow this guide if keeping your save.](https://discord.com/channels/1008047161281347606/1444143203073785947)
+ - Maintenance/Bug Fix update
+ - Should be save-safe -> I still recommend making a new save. [Follow this guide if keeping your save.](https://discord.com/channels/1008047161281347606/1444143203073785947)
 
 <Details>
 <summary>Patch Notes</summary>
@@ -411,10 +411,10 @@ Key Info
 
 ## 1.6.0.0
 Key Info
- * Tons of crash fixes
- * Missing texture/parallax bug fixes
- * [Races and classes overhauled](https://www.nexusmods.com/skyrimspecialedition/mods/121427)
- * [Religion overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/160141)
+ - Tons of crash fixes
+ - Missing texture/parallax bug fixes
+ - [Races and classes overhauled](https://www.nexusmods.com/skyrimspecialedition/mods/121427)
+ - [Religion overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/160141)
 
 <Details>
 <summary>Patch Notes</summary>
@@ -1127,8 +1127,8 @@ Key Info
 
 Key Info 
 
-* Save-safe, you don't need to update to this version from 1.5.0.0 if you aren't experiencing any issues.
-* Disabled photo mode by default to solve a crash. 
+- Save-safe, you don't need to update to this version from 1.5.0.0 if you aren't experiencing any issues.
+- Disabled photo mode by default to solve a crash. 
 
 <details>
 <summary>Patch Notes</summary>
@@ -1162,10 +1162,10 @@ Key Info
 
 Key Info
 
- * NOT save-safe.
- * BSA'd the entire list, load time to the main menu should be lower.
- * Several gameplay mechanic changes, see the [gameplay guide](https://twistedskyrim.com/#gameplay) for more info.
- * All documentation has now been moved to the [website](https://twistedskyrim.com/), information found on the github page should be considered out of date.
+ - NOT save-safe.
+ - BSA'd the entire list, load time to the main menu should be lower.
+ - Several gameplay mechanic changes, see the [gameplay guide](https://twistedskyrim.com/#gameplay) for more info.
+ - All documentation has now been moved to the [website](https://twistedskyrim.com/), information found on the github page should be considered out of date.
 
 <Details>
 <summary>Patch Notes</summary>
@@ -1497,7 +1497,7 @@ Key Info
 
 Key Info
 
- * not save-safe
+ - not save-safe
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1540,7 +1540,7 @@ Key Info
 
 Key Info
 
- * Technically save-safe, although a new save is recommended.
+ - Technically save-safe, although a new save is recommended.
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1603,7 +1603,7 @@ Key Info
 <summary>Changes</summary>
 
 ### Changed
-- Regenerated ParallaxGen and forwarded changes to DynDOLOD.esp -> this is needed for performance guide users, or just regenerate *only* DynDOLOD. If regenerating DynDOLOD, [follow this guide](https://dyndolod.info/Help/Clean-Save) if doing it on an existing save.
+- Regenerated ParallaxGen and forwarded changes to DynDOLOD.esp -> this is needed for performance guide users, or just regenerate *only- DynDOLOD. If regenerating DynDOLOD, [follow this guide](https://dyndolod.info/Help/Clean-Save) if doing it on an existing save.
 - Lowered the compass a little bit
 
 ### Updated
@@ -1850,8 +1850,8 @@ Key Info
 Key Info
 
 **This update is save-safe.**
-* Added back the tools for the performance guide
-* Fixed install issues
+- Added back the tools for the performance guide
+- Fixed install issues
  
 <Details>
 <summary>Patch Notes</summary>
@@ -1931,7 +1931,7 @@ Key Info
 
 Key Info
 
-**This update is save safe** --> please see [this](https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md#loading-your-saves-and-saving)
+**This update is save safe*- --> please see [this](https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md#loading-your-saves-and-saving)
 - Not in this update, but I will be trying to reduce the stuttering that occassionally happens for systems similar to mine.
  
 <Details>
@@ -1974,7 +1974,7 @@ Key Info
 
 **This update is NOT save safe if updating from pre 1.0, 1.0 beta testers can safely update as long as they are loading a save that was taken indoors.**
 
-- This is a *highly* recommended update, several crashes have been fixed and other long-standing bugs.
+- This is a *highly- recommended update, several crashes have been fixed and other long-standing bugs.
 - Performance is significantly better in certain locations like outside of Whiterun and Markarth.
 - Mountain & tree LODs should look significantly better, mountains should have less z-fighting.
  
@@ -2127,7 +2127,7 @@ Key Info
 
 Key Info
 
-**This update is NOT save safe due to the many changes and crash fixes.** 
+**This update is NOT save safe due to the many changes and crash fixes.*- 
  
 <Details>
 <summary>Patch Notes</summary>
@@ -2164,7 +2164,7 @@ Key Info
 
 Key Info
 
-**This update is NOT save safe due to the many changes and crash fixes.** 
+**This update is NOT save safe due to the many changes and crash fixes.*- 
  
 <Details>
 <summary>Patch Notes</summary>
@@ -2199,7 +2199,7 @@ Key Info
 
 Key Info
 
-**THIS UPDATE IS SAVE SAFE. Save indoors before updating as LODs have been redone again.** 
+**THIS UPDATE IS SAVE SAFE. Save indoors before updating as LODs have been redone again.*- 
  
 <Details>
 <summary>Patch Notes</summary>
@@ -2577,7 +2577,7 @@ Key Info
 
 Key Info
 
- - **VERSIONING CHANGE** 
+ - **VERSIONING CHANGE*- 
 
  - **This update is NOT save game compatible.**
  - **I added a mod that automatically checks for modlist updates once you load a game**
@@ -2605,7 +2605,7 @@ in first person.
 - Stamina Consumption for dodging now works as intended (before there was no stamina consumption and very over powered due to that.)
 - Rebuilt LODs
 - Rebuilt grass cache
-- LOD quality *significantly* increased, there should be very little pop-in.
+- LOD quality *significantly- increased, there should be very little pop-in.
 
 ### Updated
 - NPC Spell Variance - Mysticism
@@ -2869,7 +2869,7 @@ Key Info
 Key Info
 
  - **This update is save game compatible.**
- - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
+ - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.*- -- Please let me know if its been slowed **too*- much.
 
 
 <Details>
@@ -2899,7 +2899,7 @@ Key Info
 Key Info
 
  - **This update is save game compatible.**
- - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
+ - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.*- -- Please let me know if its been slowed **too*- much.
 
 
 <Details>
@@ -2938,7 +2938,7 @@ Key Info
 Key Info
 
  - **This update is save game compatible.**
- - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
+ - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.*- -- Please let me know if its been slowed **too*- much.
 
 
 <Details>
@@ -3005,7 +3005,7 @@ Key Info
 Key Info
 
  - **This update is save game compatible.**
- - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.** -- Please let me know if its been slowed **too** much.
+ - **Completely revamped leveling, it should be about 20% slower at most levels, scaling up and down depending on where you sit.*- -- Please let me know if its been slowed **too*- much.
 
 
 <Details>
