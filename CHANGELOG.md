@@ -16,7 +16,7 @@
 
 ## 1.6.1.2
 Key Info
- - Save-safe if updating from 1.6.1.1
+- Save-safe if updating from 1.6.1.1
 
 <Details>
 <summary>Patch Notes</summary>
@@ -59,7 +59,7 @@ Key Info
 
 ## 1.6.1.1
 Key Info
- - Recommend making a new save if updating from 1.6.x
+- Recommend making a new save if updating from 1.6.x
 
 <Details>
 <summary>Patch Notes</summary>
@@ -128,7 +128,7 @@ Key Info
 
 ## 1.6.1.0
 Key Info
- - Maintenance/Bug Fix update
+- Maintenance/Bug Fix update
  - Should be save-safe -> I still recommend making a new save. [Follow this guide if keeping your save.](https://discord.com/channels/1008047161281347606/1444143203073785947)
 
 <Details>
@@ -411,10 +411,10 @@ Key Info
 
 ## 1.6.0.0
 Key Info
- - Tons of crash fixes
- - Missing texture/parallax bug fixes
- - [Races and classes overhauled](https://www.nexusmods.com/skyrimspecialedition/mods/121427)
- - [Religion overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/160141)
+- Tons of crash fixes
+- Missing texture/parallax bug fixes
+- [Races and classes overhauled](https://www.nexusmods.com/skyrimspecialedition/mods/121427)
+- [Religion overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/160141)
 
 <Details>
 <summary>Patch Notes</summary>
