@@ -17,6 +17,7 @@
 ## 1.6.1.3
 Key Info
 * Improved Visuals at 0 cost and fixed an animation bug
+* Save safe if updating from 1.6.1.1 and newer
 
 <Details>
 <summary>Patch Notes</summary>
