@@ -14,6 +14,66 @@
 
 # Changelog
 
+## 1.6.1.3
+Key Info
+* Improved Visuals at 0 cost and fixed an animation bug
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- [Some animation conflicts](https://discord.com/channels/1008047161281347606/1455580262766219385)
+
+### Changes
+- None
+
+### Known Issues
+- Compass disappears when opening the quest journal with `J`, just click escape to bring it back
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- [KS Hairdos - HDT SMP (Physics) to v1.4.3](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
+- [Actor Value Generator to v1.9.5.4](https://www.nexusmods.com/skyrimspecialedition/mods/84743)
+- [Twisted Skyrim - Required Files to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131883)
+- [Heels - Sound Record Distributor (SRD) - Patch Hub to v1.02](https://www.nexusmods.com/skyrimspecialedition/mods/144402)
+- [Mu Facial Expression Extended - MFEE to v0.3.5](https://www.nexusmods.com/skyrimspecialedition/mods/109636)
+- [BFCO NG to v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+- [Cycle Movesets Framework - CMF to v1.5a](https://www.nexusmods.com/skyrimspecialedition/mods/157948)
+- [Racial Skin Variance - SPID to v2.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/81668)
+- [Widescreen Scale Removed for 1-6-1130 and higher to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/136793)
+- [Edge UI - Explorer Addon to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/143678)
+
+### Added
+- [DDS-Texture Color Corection Tool v1](https://www.nexusmods.com/skyrimspecialedition/mods/168446)
+- [Texture Previewer for Mo2 (and Color Editor) v1](https://www.nexusmods.com/skyrimspecialedition/mods/168453)
+- [Grand Solitude - The Walls of High King Erling - Fixed and Optimized v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/168369)
+- [Cathedral Assets Optimizer v5.3.15](https://www.nexusmods.com/skyrimspecialedition/mods/23316)
+- [LDD - Fine Complexions - HPH v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/153642)
+- [LDD - Levi's Choice - Detail Makeup Set for HPH v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/149633)
+- [LDD - Levi's Choice - Eyebrow Set for Men v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/145574)
+- [LDD - Levi's Choice - Eyebrow Set for Women HPH-UBE v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/149150)
+- [Ultimate First Person Rotation Grounder 9000 v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/167980)
+- [LDD - Toned - A HIMBO BodySlide Preset v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/136982)
+- [LDD - Better Eye Shape for HPH v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/165624)
+- [LDD - Zeus - A HIMBO BodySlide Preset v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/138886)
+- [LDD - Clean Cubemap for Eyes 4K v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/168060)
+- [SpecialCam - A Next Gen Cinematic SmoothCam Preset v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/168371)
+
+### Removed
+- [Widescreen Scale Removed for 1-6-1130 and higher v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/136793)
+- [BFCO NG v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+- [Heels - Sound Record Distributor (SRD) - Patch Hub v1.02](https://www.nexusmods.com/skyrimspecialedition/mods/144402)
+- [Mu Facial Expression Extended - MFEE v0.3.5](https://www.nexusmods.com/skyrimspecialedition/mods/109636)
+- [Mu Facial Expression Extended - MFEE v0.3.5](https://www.nexusmods.com/skyrimspecialedition/mods/109636)
+- [Actor Value Generator v1.9.5.4](https://www.nexusmods.com/skyrimspecialedition/mods/84743)
+- [BFCO NG v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+
+</Details>
+
 ## 1.6.1.2
 Key Info
 - Save-safe if updating from 1.6.1.1
