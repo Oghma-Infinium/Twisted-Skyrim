@@ -14,6 +14,170 @@
 
 # Changelog
 
+## 1.7.1.0
+Key Info
+* Fixed chaining attacks
+* Fixed potion drinking
+* Rebalanced all enemies, see the gameplay guide for more information. 
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed not being able to drink potions
+- Fixed not being able to chain attacks
+
+### Changes
+- Rebalanced all enemies. SkyValor removed, Skybane removed, & Know Your Enemy added, the gameplay guide has been updated to reflect this. TL;DR: Health pools drastically decreased, enemies are more tanky to compensate for this. Potions have been nerfed (respective to the health pool decreases). Every NPC (and armors) have weaknesses & resistances to certain damage types. This is a very big change to the core of the list and how it's been since release, so I expect some tuning will be required, but it should be much easier for me to fine tune balance on specific NPCs that need nerfs now(looking at the BFB boss & bears).
+
+### Known Issues
+- Potential UI issue with enchanted weapons
+- Clipping furniture in Siluss' house
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- [Ashe - Crystal Heart to v1.0.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/135085)
+- [Twisted Skyrim - Required Files to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131883)
+- [Water for ENB to v1.83](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
+- [Advanced Nudity Detection to v3.1.1](https://www.nexusmods.com/skyrimspecialedition/mods/165289)
+- [Unofficial TCC Display Helper to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/148952)
+- [OBody Next Generation - Settings Loader to v2.2.0](https://www.nexusmods.com/skyrimspecialedition/mods/77336)
+- [GG's Thieves Guild HQ Patch Collection to v1.6](https://www.nexusmods.com/skyrimspecialedition/mods/63967)
+- [SkyParkour - A SkyClimb Addon - 360 and Hold to Climb to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/132292)
+- [SLO Aroused NG to v3.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/151502)
+- [Twisted Skyrim - Required Files to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131883)
+- [Twisted Skyrim - Required Files to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131883)
+- [Daedric Armors and Weapons Retexture SE to v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/84151)
+- [Twisted Skyrim - Required Files to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131883)
+- [Weapons and Armors Remastered to v0.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/148690)
+- [TK Dodge Redux to v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/160098)
+- [Orcish Armors and Weapons Retexture SE to v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/84607)
+- [OSL Keywords (KID) - Armor Mods Patch Hub to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/106672)
+- [B612 - my little asteroid of useful UI components to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/127701)
+- [Comprehensive Attack Rate Patch - SKSE to v1.1.2.5](https://www.nexusmods.com/skyrimspecialedition/mods/89042)
+- [Quest Journal Overhaul - More Mod Support to v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/159332)
+- [Orc Strongholds - AIO - Patches Collection to v1.2.0](https://www.nexusmods.com/skyrimspecialedition/mods/160944)
+- [Shout Progression to v1.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/162607)
+- [Weapons and Armors Remastered to v0.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/148690)
+- [Security Overhaul SKSE - Some More Locks to v1.0.4](https://www.nexusmods.com/skyrimspecialedition/mods/59961)
+- [Unofficial TCC Display Helper to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/148952)
+- [Caught Red Handed - Quest Expansion to v1.04](https://www.nexusmods.com/skyrimspecialedition/mods/65708)
+- [Lund's Hamlet - An Overhaul to v1.3.4](https://www.nexusmods.com/skyrimspecialedition/mods/169830)
+- [Lund's Hamlet - An Overhaul to v1.3.4](https://www.nexusmods.com/skyrimspecialedition/mods/169830)
+- [EVG Animated Traversal - Patch Collection to v1.3.4](https://www.nexusmods.com/skyrimspecialedition/mods/70635)
+- [BFCO NG to v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+- [Crash Logger SSE AE VR - PDB support to v1.10.0](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
+- [Sharpen Other Swords II - AnimObject Swapper to v0.2.3](https://www.nexusmods.com/skyrimspecialedition/mods/75237)
+- [JK's Fort Dawnguard - Immersive Fort Dawnguard Mashup and Patch Collection to v1.3](https://www.nexusmods.com/skyrimspecialedition/mods/112657)
+- [Mu Facial Expression Extended - MFEE to v0.3.5](https://www.nexusmods.com/skyrimspecialedition/mods/109636)
+- [Crash Logger SSE AE VR - PDB support to v1.10.0](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
+- [Modex - A Mod Explorer Menu (AddItemMenu) to v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/137877)
+- [Bishop Armor 3BA-BHUNP-CBBE-UNP to v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/170576)
+- [EVG Animated Traversal - Patch Collection to v1.3.4](https://www.nexusmods.com/skyrimspecialedition/mods/70635)
+- [Prisma Mod Configuration Manager - PMCM to v1.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/168551)
+- [C.O.C.K.S.ified to v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/150107)
+- [Exit Sneak On Sprint to v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/138669)
+- [TK Dodge Redux to v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/160098)
+- [GLENMORIL - Fluffy Patch (Fluffworks) to vv1.0](https://www.nexusmods.com/skyrimspecialedition/mods/170405)
+- [Serana Dialogue Add-On x Ashe - Crystal Heart - Full Banter Patch (Asherana) to v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/167123)
+- [Stagger Iframe - no more Stagger lock to v1](https://www.nexusmods.com/skyrimspecialedition/mods/160688)
+
+### Added
+- [HorsePower - Modernized Horse Riding (Total Riding Overhaul) v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/169335)
+- [Follower Dialogue Expansion - Saadia v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/170684)
+- [Sofia - The Funny Fully Voiced Follower v2.51](https://www.nexusmods.com/skyrimspecialedition/mods/2180)
+- [Sofia Bug Fixes v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/104344)
+- [Gleaming Glaciers - High Quality Glacier Meshes Textures and LOD v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/156970)
+- [HFs - Imperial jail grates - remodel v1](https://www.nexusmods.com/skyrimspecialedition/mods/171332)
+- [Know Your Enemy 2 v1.1.3](https://www.nexusmods.com/skyrimspecialedition/mods/93258)
+- [OSurvival Mode SA v2.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/160889)
+- [Prisma UI - Next-Gen Web UI Framework v1.3.0](https://www.nexusmods.com/skyrimspecialedition/mods/148718)
+- [ProjectedDiffuse Patch Hub v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/57643)
+- [Snoblind - 4K Complex Parallax Snow Retexture v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/95966)
+- [Vanaheimr - Landscapes - AIO v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/145439)
+- [Dark Apprentice (3BA SMP) v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/171434)
+- [Project New Reign - Nemesis Unlimited Behavior Engine v0.84-beta](https://www.nexusmods.com/skyrimspecialedition/mods/60033)
+- [Pandorable's Sofia replacer v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/60638)
+- [Know Your Enemy 2 - Armors v1.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/94067)
+- [No Load Door NPC Fade v0.2](https://www.nexusmods.com/skyrimspecialedition/mods/170693)
+- [HorsePower - Modernized Horse Riding (Total Riding Overhaul) v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/169335)
+- [Dynamic Female Modesty KID v001](https://www.nexusmods.com/skyrimspecialedition/mods/170329)
+- [Archive Name Extender v1.0.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/171480)
+- [HorsePower - Modernized Horse Riding (Total Riding Overhaul) v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/169335)
+- [Know Your Enemy 2 - Integration Patch v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/94078)
+- [Horkers of Skyrim - Color Variants Model Swapper v1](https://www.nexusmods.com/skyrimspecialedition/mods/171403)
+- [Unstack Stolen Items v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/170830)
+- [Horkers of Skyrim - Horker mesh and texture replacer PARALLAX CS ENB SUPPORT v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/171314)
+- [Prisma UI - Next-Gen Web UI Framework v1.3.0](https://www.nexusmods.com/skyrimspecialedition/mods/148718)
+- [Ultimate MCO and BFCO Attack Speed Fix SKSE v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/171475)
+- [Gleaming Glaciers - High Quality Glacier Meshes Textures and LOD v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/156970)
+- [HDT-SMP Flex v.8.0.01](https://www.nexusmods.com/skyrimspecialedition/mods/101564)
+- [Sofia - Patch to use your default Body and Texture v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/19210)
+- [Horse Save Load Fix SKSE v1.01](https://www.nexusmods.com/skyrimspecialedition/mods/171077)
+- [Sofia  - Typo Grammar and Dialogue Fixes v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/38952)
+
+### Removed
+- [Animated Ice Bergs v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/121420)
+- [Tomato's Complex Landscapes Parallax AIO - 1K 2K 4K v2.2b](https://www.nexusmods.com/skyrimspecialedition/mods/110981)
+- [Serana Dialogue Add-On x Ashe - Crystal Heart - Full Banter Patch (Asherana) v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/167123)
+- [Twisted Skyrim - Required Files v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131883)
+- [PrismaUI_1_1_0.zip](https://github.com/PrismaUI-SKSE/framework/releases/download/1.1.0/PrismaUI_1_1_0.zip)
+- [Twisted Skyrim - Required Files v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131883)
+- [Twisted Skyrim - Required Files v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131883)
+- [Animated Ice Bergs v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/121420)
+- [Twisted Skyrim - Required Files v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131883)
+- [Majestic Landscapes - Enhanced Rocks and Mountains Patch And Other Fixes v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/131170)
+- [Tomato's Complex Landscapes Parallax AIO - 1K 2K 4K v2.2b](https://www.nexusmods.com/skyrimspecialedition/mods/110981)
+- [Weapons and Armors Remastered v0.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/148690)
+- [Horse Animation Overhaul (WIP - OAR) v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/140122)
+- [Precision - NPC Combat Fix v1.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/169711)
+- [SkyValor - Modded Spells Patch vV1.00](https://www.nexusmods.com/skyrimspecialedition/mods/126433)
+- [Some Nemesis defaults for Pandora v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/161916)
+- [Extended Cut Saints and Seducers - Tomato Complex Parallax Support - Standalone v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/127969)
+- [SkyValor v1.4.0](https://www.nexusmods.com/skyrimspecialedition/mods/106240)
+- [SkyValor - DAc0da v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/144731)
+- [Animated Ice Bergs v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/121420)
+- [JK's Fort Dawnguard - Immersive Fort Dawnguard Mashup and Patch Collection v1.3](https://www.nexusmods.com/skyrimspecialedition/mods/112657)
+- [Serana Dialogue Add-On x Ashe - Crystal Heart - Full Banter Patch (Asherana) v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/167123)
+- [Improvement Names Customized AE v1.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/59435)
+- [Precision - NPC Combat Fix v1.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/169711)
+- [Tomato's Complex Landscapes Parallax AIO - 1K 2K 4K v2.2b](https://www.nexusmods.com/skyrimspecialedition/mods/110981)
+- [SLO Aroused NG v3.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/151502)
+- [Toggle UI (SKSE Plugin) v2.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/112819)
+- [SkyValor v1.4.0](https://www.nexusmods.com/skyrimspecialedition/mods/106240)
+- [SkyValor - Project ja-Kha'jay Patch v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/135075)
+- [3BA With Obody Collision Physics Fix v0.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/125724)
+- [GG's Thieves Guild HQ Patch Collection v1.6](https://www.nexusmods.com/skyrimspecialedition/mods/63967)
+- [SkyValor - Modded Spells Patch vV1.00](https://www.nexusmods.com/skyrimspecialedition/mods/126433)
+- [SkyValor - Saints and Seducers v1.1.0](https://www.nexusmods.com/skyrimspecialedition/mods/110368)
+- [SkyValor v1.4.0](https://www.nexusmods.com/skyrimspecialedition/mods/106240)
+- [Horse Save Load Fix v0.1](https://www.nexusmods.com/skyrimspecialedition/mods/132110)
+- [Weapons and Armors Remastered v0.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/148690)
+- [Horse Animation Overhaul (WIP - OAR) v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/140122)
+- [SkyValor - Modded Spells Patch vV1.00](https://www.nexusmods.com/skyrimspecialedition/mods/126433)
+- [Ashe - Crystal Heart v1.0.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/135085)
+- [GG's Thieves Guild HQ Patch Collection v1.6](https://www.nexusmods.com/skyrimspecialedition/mods/63967)
+- [OSmp - Automatic SMP physics toggle for OStim v4.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/72547)
+- [OSL Keywords (KID) - Armor Mods Patch Hub v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/106672)
+- [SkyValor - Modded Spells Patch vV1.00](https://www.nexusmods.com/skyrimspecialedition/mods/126433)
+- [Exit Sneak On Sprint v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/138669)
+- [Mu Facial Expression Extended - MFEE v0.3.5](https://www.nexusmods.com/skyrimspecialedition/mods/109636)
+- [Shout Progression v1.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/162607)
+- [SkyValor - Project AHO v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/110254)
+- [Shout Progression v1.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/162607)
+- [SkyValor - Vigilant v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/109934)
+- [GG's Thieves Guild HQ Patch Collection v1.6](https://www.nexusmods.com/skyrimspecialedition/mods/63967)
+- [Comprehensive Attack Rate Patch - SKSE v1.1.2.5](https://www.nexusmods.com/skyrimspecialedition/mods/89042)
+- [Weapons and Armors Remastered v0.5.0](https://www.nexusmods.com/skyrimspecialedition/mods/148690)
+- [Tomato's Complex Landscapes Parallax AIO - 1K 2K 4K v2.2b](https://www.nexusmods.com/skyrimspecialedition/mods/110981)
+- [Prisma Mod Configuration Manager - PMCM v1.0.2](https://www.nexusmods.com/skyrimspecialedition/mods/168551)
+
+</Details>
+
 ## 1.7.0.0
 Key Info
 * Major update. Unslaad, Glenmoril, & Project AHO added
