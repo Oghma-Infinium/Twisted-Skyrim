@@ -26,6 +26,7 @@ Key Info
 ### Bug Fixes
 - Fixed not being able to drink potions
 - Fixed not being able to chain attacks
+- Fixed texture map mismatching with certain dwemer objects.
 
 ### Changes
 - Rebalanced all enemies. SkyValor removed, Skybane removed, & Know Your Enemy added, the gameplay guide has been updated to reflect this. TL;DR: Health pools drastically decreased, enemies are more tanky to compensate for this. Potions have been nerfed (respective to the health pool decreases). Every NPC (and armors) have weaknesses & resistances to certain damage types. This is a very big change to the core of the list and how it's been since release, so I expect some tuning will be required, but it should be much easier for me to fine tune balance on specific NPCs that need nerfs now(looking at the BFB boss & bears).
