@@ -18,7 +18,7 @@
 Key Info
 * Fixed chaining attacks
 * Fixed potion drinking
-* Rebalanced all enemies, see the gameplay guide for more information. 
+* Rebalanced basically the entirety of the game, see the gameplay guide for more information. I expect some tweaking will be required in a future update. I've added a `balance` tag to the support channel for people to report balance issues/requests. 
 
 <Details>
 <summary>Patch Notes</summary>
