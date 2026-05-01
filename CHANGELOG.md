@@ -14,6 +14,65 @@
 
 # Changelog
 
+## 1.8.0.2
+Key Info
+* Hotfix, save-safe
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- [Fixed magic attacks in right hand not working](https://discord.com/channels/1008047161281347606/1499437080668016842)
+- [Fixed moveset chaining not working](https://discord.com/channels/1008047161281347606/1499437080668016842)
+
+### Changes
+- None
+
+### Known Issues
+- None
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- [Assorted Behavior Fixes to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/167000)
+- [Vel'dun UI to v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+- [SIGMA - Waraxe animations - 1st person to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/163226)
+- [Copy Paste In Menus to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/178439)
+- [Dynamic Female Modesty KID to v001](https://www.nexusmods.com/skyrimspecialedition/mods/170329)
+- [Show Player In Inventory to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178689)
+- [Vel'dun UI to v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+- [Vel'dun UI to v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+- [PPA - Procedural Penis Animations to v0.0.27](https://www.nexusmods.com/skyrimspecialedition/mods/172002)
+- [Vel'dun UI to v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+
+### Added
+- [Faction Ranks v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/170776)
+- [Knotwork v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/128235)
+- [ADXP I MCO LothricKnight Greatsword (SCAR 2.0 NPC specific animations) v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/120171)
+- [Angi Uses Unique Practice Arrows v1](https://www.nexusmods.com/skyrimspecialedition/mods/178781)
+- [Unsearched Corpse Indicator v1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/177677)
+- [Input Manager v1.0.3](https://www.nexusmods.com/skyrimspecialedition/mods/174545)
+- [Knotwork v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/128235)
+- [Break Stagger v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/178745)
+- [Skyrim Souls RE - Updated v2.3.2](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+
+### Removed
+- [BFCO NG v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+- [Dynamic Female Modesty KID v001](https://www.nexusmods.com/skyrimspecialedition/mods/170329)
+- [MCO AntiCheat v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/137522)
+- [Cycle Movesets Framework - CMF v1.5a](https://www.nexusmods.com/skyrimspecialedition/mods/157948)
+- [Vel'dun UI v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+- [BFCO NG v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+- [BFCO Universal Support v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/120091)
+- [Show Player In Inventory v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178689)
+- [Assorted Behavior Fixes v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/167000)
+- [BFCO NG v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+
+</Details>
+
 ## 1.8.0.1
 Key Info
 * Major update, new save required
