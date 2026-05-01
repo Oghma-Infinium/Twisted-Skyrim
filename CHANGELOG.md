@@ -14,6 +14,104 @@
 
 # Changelog
 
+## 1.8.0.3
+Key Info
+* Fixed issues with power attacks
+* Fixed crashing
+* Save-safe
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- Fixed crashing
+- Fixed power attack keybinds
+- Fixed Thieves Guild being invisible.
+
+### Changes
+- None
+
+### Known Issues
+- None
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- [Koralina's Freckles and Moles - 4k 2k to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62508)
+- [ElSopa - Potions Redone to v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/80832)
+- [Halffaces - Diverse (BOS) noble chair (Lite) to v1](https://www.nexusmods.com/skyrimspecialedition/mods/113863)
+- [HFs - Barrels All-in-One to v1](https://www.nexusmods.com/skyrimspecialedition/mods/137509)
+- [HFs - Farmer's Comfort (BOS) - table remodel to v1.01](https://www.nexusmods.com/skyrimspecialedition/mods/140191)
+- [HFs - Flagons (BOS) to v1](https://www.nexusmods.com/skyrimspecialedition/mods/145495)
+- [HFs - Upper Nightstand - Diverse BOS to v2.01](https://www.nexusmods.com/skyrimspecialedition/mods/143254)
+- [Skyland Bits and Bobs - A Clutter Overhaul to v1.8](https://www.nexusmods.com/skyrimspecialedition/mods/95032)
+- [Ancient AF Windhelm - Windhelm Retextured to v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/63330)
+- [Riton Solitude to v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/98390)
+- [Vel'dun UI to v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+- [Assorted Behavior Fixes to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/167000)
+- [BnP - RSV patch to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/102667)
+- [Vanilla Makeup HD - HD Racial Colors and Makeup for all Races and Genders - SE to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/24482)
+- [Koralina's Makeup Tweaks - 4k 2k to v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/63024)
+- [Dynamic Female Modesty KID to v001](https://www.nexusmods.com/skyrimspecialedition/mods/170329)
+- [SIRENROOT - Deluge of Deceit to v1.10](https://www.nexusmods.com/skyrimspecialedition/mods/70917)
+- [Copy Paste In Menus to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/178439)
+- [HFs - Ratway and ShipWood planks to v2](https://www.nexusmods.com/skyrimspecialedition/mods/126292)
+- [SIGMA - Waraxe animations - 1st person to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/163226)
+- [Vel'dun UI to v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+- [Angi's Camp Archery Targets to v0.1](https://www.nexusmods.com/skyrimspecialedition/mods/178568)
+- [Show Player In Inventory to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178689)
+- [Vel'dun UI to v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+- [PPA - Procedural Penis Animations to v0.0.27](https://www.nexusmods.com/skyrimspecialedition/mods/172002)
+- [Faster File Copy to v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/175531)
+- [Vel'dun UI to v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+
+### Added
+- [Official Racial Skin Variance (RSV) Patch Hub - COtR and NPC Replacer Compatibility Collection v4.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/160296)
+- [Faction Ranks v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/170776)
+- [High Poly NPCs - Grand Solitude v1](https://www.nexusmods.com/skyrimspecialedition/mods/178973)
+- [Angi Uses Unique Practice Arrows v1](https://www.nexusmods.com/skyrimspecialedition/mods/178781)
+- [Unsearched Corpse Indicator v1.3.1](https://www.nexusmods.com/skyrimspecialedition/mods/177677)
+- [Knotwork v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/128235)
+- [Combat Equipment State Fix (CESF) v1](https://www.nexusmods.com/skyrimspecialedition/mods/178939)
+- [Knotwork v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/128235)
+- [Faster Cell Lookup v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178777)
+- [Skyrim Souls RE - Updated v2.3.2](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
+- [Input Manager v1.0.3](https://www.nexusmods.com/skyrimspecialedition/mods/174545)
+- [Helmet Toggle 2 - SMP Hair Fix v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/133392)
+- [ADXP I MCO LothricKnight Greatsword (SCAR 2.0 NPC specific animations) v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/120171)
+
+### Removed
+- [BFCO NG v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+- [Halffaces - Diverse (BOS) noble chair (Lite) v1](https://www.nexusmods.com/skyrimspecialedition/mods/113863)
+- [HFs - Barrels All-in-One v1](https://www.nexusmods.com/skyrimspecialedition/mods/137509)
+- [HFs - Farmer's Comfort (BOS) - table remodel v1.01](https://www.nexusmods.com/skyrimspecialedition/mods/140191)
+- [HFs - Flagons (BOS) v1](https://www.nexusmods.com/skyrimspecialedition/mods/145495)
+- [HFs - Ratway and ShipWood planks v2](https://www.nexusmods.com/skyrimspecialedition/mods/126292)
+- [HFs - Treacherous honey (Base Object Swapper) v1](https://www.nexusmods.com/skyrimspecialedition/mods/135190)
+- [HFs - Upper Nightstand - Diverse BOS v2.01](https://www.nexusmods.com/skyrimspecialedition/mods/143254)
+- [Ancient AF Windhelm - Windhelm Retextured v2.0](https://www.nexusmods.com/skyrimspecialedition/mods/63330)
+- [ElSopa - Potions Redone v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/80832)
+- [Riton Solitude v1.2](https://www.nexusmods.com/skyrimspecialedition/mods/98390)
+- [Vanilla Makeup HD - HD Racial Colors and Makeup for all Races and Genders - SE v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/24482)
+- [Koralina's Freckles and Moles - 4k 2k v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/62508)
+- [Koralina's Makeup Tweaks - 4k 2k v1.1](https://www.nexusmods.com/skyrimspecialedition/mods/63024)
+- [Dynamic Female Modesty KID v001](https://www.nexusmods.com/skyrimspecialedition/mods/170329)
+- [Vanilla Makeup HD - HD Racial Colors and Makeup for all Races and Genders - SE v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/24482)
+- [MCO AntiCheat v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/137522)
+- [Cycle Movesets Framework - CMF v1.5a](https://www.nexusmods.com/skyrimspecialedition/mods/157948)
+- [Vel'dun UI v0.9](https://www.nexusmods.com/skyrimspecialedition/mods/176230)
+- [BFCO NG v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+- [BFCO Universal Support v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/120091)
+- [Show Player In Inventory v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178689)
+- [Assorted Behavior Fixes v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/167000)
+- [BFCO NG v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/160505)
+- [Halffaces - Diverse (BOS) noble chair (Lite) v1](https://www.nexusmods.com/skyrimspecialedition/mods/113863)
+
+</Details>
+
 ## 1.8.0.2
 Key Info
 * Hotfix, save-safe
