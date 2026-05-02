@@ -14,6 +14,68 @@
 
 # Changelog
 
+## 1.8.0.4
+Key Info
+* Save-safe
+* Optional update, adds in immersive wenches under `optional` from a commission
+
+<Details>
+<summary>Patch Notes</summary>
+
+### Bug Fixes
+- None
+
+### Changes
+- None
+
+### Known Issues
+- None
+
+</Details>
+
+<Details>
+<summary>Changes</summary>
+
+### Updated
+- [SkyParkour - A SkyClimb Addon - 360 and Hold to Climb to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/132292)
+- [DynDOLOD Resources SE 3 to vAlpha-45](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
+- [SkyParkour - A SkyClimb Addon - 360 and Hold to Climb to v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/132292)
+- [FSMP - Faster HDT-SMP to v2.0.2-beta1](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
+- [Combat Equipment State Fix (CESF) to v1](https://www.nexusmods.com/skyrimspecialedition/mods/178939)
+- [Crash Logger SSE AE VR - PDB support to v1.10.0](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
+- [Coherent Fight Reactions - Anti and Dynamic Friendly Fire to v3.3](https://www.nexusmods.com/skyrimspecialedition/mods/156032)
+- [Show Player In Inventory to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178689)
+- [Show Player In Inventory to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178689)
+- [Assorted Behavior Fixes to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/167000)
+- [Faster Cell Lookup to v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178777)
+- [Faster File Copy to v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/175531)
+
+### Added
+- [Immersive Wenches SE 2 - Ostim Patch v2.0.1fix](https://www.nexusmods.com/skyrimspecialedition/mods/152991)
+- [Immersive Wenches - Settings Loader v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/64882)
+- [Immersive Wenches - Name Fix v1](https://www.nexusmods.com/skyrimspecialedition/mods/62021)
+- [Standalone body - Obody NG - Buxom Wench Yuriana - Immersive Wenches v1.3.0](https://www.nexusmods.com/skyrimspecialedition/mods/159140)
+- [Dynamic Spell Cards - SKSE v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/178947)
+- [Aggro Management in Skyrim v1](https://www.nexusmods.com/skyrimspecialedition/mods/178565)
+
+### Removed
+- [SkyParkour - A SkyClimb Addon - 360 and Hold to Climb v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/132292)
+- [SkyParkour - A SkyClimb Addon - 360 and Hold to Climb v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/132292)
+- [SkyParkour - A SkyClimb Addon - 360 and Hold to Climb v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/132292)
+- [NPC Spell Variance - Spell Variety AI v1.4.1](https://www.nexusmods.com/skyrimspecialedition/mods/132097)
+- [Combat Equipment State Fix (CESF) v1](https://www.nexusmods.com/skyrimspecialedition/mods/178939)
+- [Crash Logger SSE AE VR - PDB support v1.10.0](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
+- [Show Player In Inventory v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178689)
+- [Vanilla Landscape Corrections - VLC v1.0.1](https://www.nexusmods.com/skyrimspecialedition/mods/104962)
+- [Faster Cell Lookup v1.0](https://www.nexusmods.com/skyrimspecialedition/mods/178777)
+- [SkyParkour - A SkyClimb Addon - 360 and Hold to Climb v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/132292)
+- [Coherent Fight Reactions - Anti and Dynamic Friendly Fire v3.3](https://www.nexusmods.com/skyrimspecialedition/mods/156032)
+- [Faster File Copy v1.4](https://www.nexusmods.com/skyrimspecialedition/mods/175531)
+- [SkyParkour - A SkyClimb Addon - 360 and Hold to Climb v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/132292)
+- [SkyParkour - A SkyClimb Addon - 360 and Hold to Climb v1.0.0](https://www.nexusmods.com/skyrimspecialedition/mods/132292)
+
+</Details>
+
 ## 1.8.0.3
 Key Info
 * Fixed issues with power attacks
